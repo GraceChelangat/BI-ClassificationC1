@@ -1,0 +1,1401 @@
+company_id,industry_sector,listing_status,credit_rating_band,audit_going_concern_flag,years_in_operation,num_employees,debt_to_equity_ratio,current_ratio,interest_coverage_ratio,revenue_growth_pct,net_profit_margin_pct,working_capital_to_assets_ratio,macroeconomic_interest_rate_pct,distress_risk_category
+1,Manufacturing,Private,Investment Grade,,6.1,92,1.05,0.65,12.25,8.19,25.440923818447637,-0.025,14.15,Healthy
+2,Manufacturing,Private,High Risk,,8.9,158,0.24,1.74,7.46,4.55,3.5581569786477574,0.139,10.17,Healthy
+3,Manufacturing,Private,Investment Grade,,39.1,587,2.53,1.32,-0.15,4.15,,0.082,14.42,Healthy
+4,Energy,Private,Investment Grade,,16.3,49,0.44,2.36,9.51,8.56,-8.063746738480102,0.242,13.41,Healthy
+5,Manufacturing,Public,Investment Grade,No,9.2,157,1.92,1.56,4.2,2.57,-4.546986134465898,0.039,14.76,Healthy
+6,Construction,Private,Speculative,,15.9,167,1.19,1.7,8.88,-6.44,-10.160096596966547,0.126,14.83,Healthy
+7,Manufacturing,Public,Speculative,No,12.1,1049,1.69,1.62,2.53,6.83,-10.736255997309481,0.171,12.65,Distressed
+8,Energy,Private,Investment Grade,,1.5,303,0.91,0.5,4.78,0.97,11.353556232325726,-0.061,12.97,Watch
+9,Construction,Public,Investment Grade,No,19.4,331,0.32,1.66,-0.89,17.68,10.436952200577576,0.187,12.95,Healthy
+10,Technology,Private,Investment Grade,,19.8,315,0.95,2.17,11.62,12.21,11.037593021566865,0.244,14.5,Healthy
+11,Manufacturing,Private,Investment Grade,,10.2,355,1.28,0.76,2.73,16.32,-3.923515094568833,-0.061,10.0,Healthy
+12,Manufacturing,Private,Speculative,,4.4,341,1.52,1.13,-4.4,17.59,10.628463703931676,0.063,13.6,Healthy
+13,Manufacturing,Private,Investment Grade,,9.4,90,1.03,1.12,6.33,25.26,-8.964502709378225,0.042,14.06,Healthy
+14,Construction,Public,Speculative,No,13.9,371,1.33,2.26,0.37,1.67,15.875104221457896,0.141,14.33,Healthy
+15,Manufacturing,Private,Speculative,,14.3,219,1.71,3.19,-7.95,17.86,5.203173144380413,0.309,14.52,Distressed
+16,Technology,Public,High Risk,No,1.1,259,2.52,1.51,7.52,6.05,17.20084440511267,0.105,12.33,Healthy
+17,Energy,Private,Speculative,,25.8,505,0.59,2.27,-4.68,3.29,8.171090780927326,0.275,14.35,Watch
+18,Energy,Private,Speculative,,9.0,172,1.27,1.79,7.72,4.59,0.8984753025602643,0.158,11.96,Healthy
+19,Manufacturing,Private,High Risk,,23.0,132,1.25,2.67,-1.55,2.52,-11.978587860175885,0.101,15.6,Distressed
+20,Technology,Public,Speculative,No,17.6,253,1.64,2.75,2.01,-1.93,7.456112279380151,0.187,8.92,Healthy
+21,Construction,Public,Speculative,No,18.2,217,3.48,1.46,-4.06,5.77,5.76742438025851,0.05,15.27,Watch
+22,Manufacturing,Private,Investment Grade,,3.4,42,1.19,2.41,-0.58,12.3,13.262808739756082,0.267,8.56,Healthy
+23,Retail,Private,Investment Grade,,9.1,549,0.56,0.1,-5.17,-1.87,4.295775776044014,-0.17,12.11,Healthy
+24,Construction,Public,Speculative,No,8.1,774,0.75,1.92,8.42,2.15,6.084746731680671,0.212,18.85,Healthy
+25,Technology,Private,Investment Grade,,9.2,198,1.06,0.7,8.65,18.28,-6.23526924607625,-0.045,13.6,Watch
+26,Retail,Private,Speculative,,14.6,433,2.31,1.24,-4.31,5.14,3.605996236252516,0.028,11.88,Distressed
+27,Construction,Private,Speculative,,13.7,750,1.1,1.22,13.69,11.36,2.64854399678588,0.086,14.34,Healthy
+28,Construction,Public,Investment Grade,No,22.5,160,1.62,2.3,5.07,-12.81,5.427236780072404,0.281,12.01,Healthy
+29,Technology,Public,High Risk,No,6.9,145,0.43,2.46,11.44,19.31,,0.16,13.42,Healthy
+30,Technology,Public,Investment Grade,No,9.3,430,0.97,2.36,4.72,-0.63,11.915635861082984,0.236,13.5,Healthy
+31,Energy,Private,Investment Grade,,15.9,186,0.1,0.42,4.5,14.75,,-0.083,10.5,Healthy
+32,Construction,Private,Investment Grade,,19.8,210,0.27,1.68,4.88,0.11,-4.891070111858918,0.16,17.54,Watch
+33,Energy,Public,Investment Grade,Yes,7.7,202,0.51,1.8,2.64,-7.84,10.700244807236267,0.081,10.46,Watch
+34,Retail,Private,High Risk,,9.6,237,0.5,0.15,6.08,5.02,10.543633353704362,-0.156,15.88,Healthy
+35,Retail,Private,Investment Grade,,23.4,222,1.28,1.09,2.41,13.98,13.22825245659213,0.016,10.42,Healthy
+36,Retail,Private,High Risk,,1.6,980,3.67,0.89,4.43,-0.37,3.9628231598497416,-0.02,14.25,Distressed
+37,Construction,Private,Investment Grade,,4.7,104,0.44,0.7,5.85,12.7,-0.025347761029458127,-0.016,14.49,Healthy
+38,Retail,Private,Speculative,,3.3,319,2.68,0.94,6.32,22.7,9.317149570536316,-0.023,11.52,Watch
+39,Retail,Private,Investment Grade,,5.6,627,2.58,2.35,10.82,6.49,-6.8234575757534195,0.31,11.86,Healthy
+40,Retail,Private,Investment Grade,,5.8,353,1.22,1.07,7.9,1.32,1.4535728845229645,-0.006,16.32,Healthy
+41,Manufacturing,Private,Speculative,,7.3,274,0.52,2.72,10.45,7.97,10.912733778618966,0.295,13.51,Healthy
+42,Retail,Public,Speculative,No,4.7,285,0.53,1.26,8.06,3.09,9.051753352297737,0.039,12.37,Distressed
+43,Technology,Private,High Risk,,13.1,154,0.3,2.45,0.46,13.02,3.229375097859474,0.233,17.3,Healthy
+44,Construction,Private,Speculative,,16.0,473,0.42,0.97,-1.66,-9.33,3.1699559598232985,0.011,12.92,Healthy
+45,Retail,Private,Investment Grade,,7.6,331,2.58,1.38,-5.36,7.21,-0.8441513946151478,0.019,15.68,Watch
+46,Energy,Public,Speculative,No,40.0,207,0.46,1.47,0.54,1.45,11.319842126502504,0.1,15.32,Healthy
+47,Retail,Public,Speculative,No,26.3,568,1.48,2.34,0.3,14.31,1.9455928675978162,0.098,16.98,Healthy
+48,Construction,Private,Investment Grade,,6.5,170,3.85,1.12,2.81,2.09,3.40871089523644,0.081,14.06,Watch
+49,Construction,Public,Speculative,No,12.5,196,0.91,2.84,0.08,-0.74,-2.7086879291482013,0.193,12.51,Healthy
+50,Construction,Private,High Risk,,3.4,160,0.86,2.66,0.11,16.06,4.699946288720228,0.291,13.56,Healthy
+51,Manufacturing,Public,Speculative,Yes,7.5,618,0.38,2.46,4.64,0.8,11.357901696419752,0.226,13.23,Healthy
+52,Technology,Private,High Risk,,2.7,467,0.37,1.82,-2.82,-4.74,-2.7239966722583784,0.169,10.75,Healthy
+53,Manufacturing,Private,High Risk,,23.3,178,2.08,1.27,9.19,6.73,7.439223847063729,0.073,11.88,Healthy
+54,Construction,Private,Speculative,,5.8,46,1.8,1.72,-1.38,-9.91,16.413083321642887,0.132,12.21,Watch
+55,Energy,Private,Investment Grade,,1.6,373,1.13,1.71,3.1,-4.41,28.587217543743616,0.163,8.26,Healthy
+56,Energy,Private,High Risk,,15.2,233,1.0,0.91,4.19,2.0,,-0.042,13.69,Watch
+57,Manufacturing,Public,Speculative,No,6.6,494,1.03,1.14,8.94,6.78,0.9630448386162174,0.051,14.52,Healthy
+58,Manufacturing,Private,Investment Grade,,15.5,140,1.22,0.89,11.99,1.59,3.118853929982236,0.028,12.03,Healthy
+59,Retail,Private,Speculative,,9.2,170,2.55,2.3,6.21,9.44,0.6924442046849055,0.318,13.65,Healthy
+60,Manufacturing,Public,Investment Grade,Yes,3.5,253,1.05,1.37,-5.52,12.47,7.534807538072518,0.067,16.03,Healthy
+61,Manufacturing,Public,Speculative,No,28.2,184,0.27,1.49,4.96,-0.51,8.716416555416782,0.045,13.93,Healthy
+62,Retail,Public,High Risk,No,15.2,651,2.37,1.95,-6.7,2.28,-8.771012396924409,0.104,14.57,Healthy
+63,Energy,Private,Investment Grade,,38.5,240,3.05,1.49,-1.2,4.43,-5.5776206840696645,0.108,12.07,Distressed
+64,Construction,Private,Speculative,,19.8,175,2.7,1.92,9.98,-3.57,27.83477806153442,0.229,14.74,Healthy
+65,Manufacturing,Private,Speculative,,5.8,33,1.08,0.58,5.03,-5.24,-4.623621560823631,-0.061,11.91,Watch
+66,Technology,Private,Speculative,,2.7,249,1.07,2.95,12.34,7.73,7.771953546667191,0.465,12.43,Healthy
+67,Manufacturing,Public,Investment Grade,No,3.2,189,0.86,1.94,8.35,-2.49,2.685384885506607,0.196,13.68,Healthy
+68,Energy,Private,Speculative,,1.9,283,0.56,1.58,5.02,4.49,15.04875422612506,0.119,11.95,Healthy
+69,Manufacturing,Private,Speculative,,5.6,995,0.81,1.06,4.13,-1.79,10.418035374614753,-0.026,13.27,Healthy
+70,Energy,Private,Speculative,,9.6,380,2.1,2.81,13.93,6.32,,0.493,17.44,Healthy
+71,Technology,Private,High Risk,,7.5,496,0.5,0.4,-0.96,9.42,7.436528561025991,-0.08,14.16,Healthy
+72,Energy,Public,High Risk,No,11.2,405,0.25,2.96,1.62,-1.69,-4.35121496170839,0.555,15.03,Healthy
+73,Energy,Public,Speculative,No,24.3,360,0.06,1.79,1.48,-16.31,-0.746370399512756,0.217,15.32,Healthy
+74,Manufacturing,Private,Investment Grade,,3.0,591,2.13,1.67,2.54,-3.46,2.2088697483287656,0.123,11.57,Healthy
+75,Construction,Public,Investment Grade,No,20.1,158,0.21,0.59,7.15,-10.98,1.3906969692313904,-0.065,12.19,Healthy
+76,Manufacturing,Public,High Risk,No,14.0,275,3.38,2.72,-5.97,0.78,7.547556108542823,0.287,13.48,Watch
+77,Technology,Private,Speculative,,1.8,110,2.45,1.78,0.57,1.64,10.213877735490676,0.194,12.23,Healthy
+78,Technology,Private,Speculative,,9.7,50,0.3,0.55,8.17,-5.5,-0.8656122251345479,-0.06,12.93,Healthy
+79,Manufacturing,Public,High Risk,Yes,12.1,614,0.63,0.1,4.84,12.5,3.1354730262108346,-0.184,15.12,Healthy
+80,Construction,Public,Investment Grade,No,8.5,560,1.0,1.57,8.52,12.96,14.557600853767662,0.147,10.46,Healthy
+81,Energy,Public,Speculative,No,20.2,784,2.76,1.29,5.43,5.87,13.29290101561119,0.043,11.27,Watch
+82,Manufacturing,Public,Investment Grade,No,21.0,357,0.05,0.73,-1.97,8.4,-1.6816453691546815,-0.037,14.44,Distressed
+83,Technology,Public,Investment Grade,No,16.8,929,1.28,2.94,7.2,-3.03,0.9835845130040282,0.194,14.96,Healthy
+84,Technology,Private,Investment Grade,,9.2,200,1.69,1.53,4.06,19.83,-0.5414761651071327,0.094,13.13,Healthy
+85,Retail,Private,Speculative,,14.3,486,4.3,2.67,-5.58,2.4,,0.238,10.75,Watch
+86,Construction,Private,High Risk,,3.8,479,0.06,0.84,-3.32,0.08,7.819117449306218,-0.037,15.95,Healthy
+87,Construction,Private,Investment Grade,,8.5,194,2.78,2.1,9.35,15.06,8.316419152324904,0.213,13.31,Healthy
+88,Technology,Private,Speculative,,8.8,342,1.01,1.69,-4.83,-3.84,7.128636300928587,0.127,14.73,Watch
+89,Manufacturing,Private,High Risk,,16.4,255,1.57,2.27,7.49,-0.8,-3.225942474549651,0.193,17.96,Distressed
+90,Construction,Private,Investment Grade,,20.6,16,0.27,1.05,2.74,4.39,5.025105017210792,0.057,10.03,Healthy
+91,Retail,Private,Investment Grade,,7.8,694,0.71,1.09,2.42,-4.97,-1.8330094605647895,-0.04,14.14,Distressed
+92,Manufacturing,Public,Investment Grade,No,28.3,142,2.88,1.65,5.06,-1.61,-1.0605592914068884,0.061,13.71,Watch
+93,Construction,Private,Speculative,,5.1,360,0.39,2.59,17.94,6.21,8.9145942978237,0.182,15.01,Healthy
+94,Construction,Public,Speculative,Yes,15.5,240,1.16,2.3,1.15,21.08,0.5265583815144854,0.193,9.86,Healthy
+95,Construction,Private,Speculative,,8.1,273,0.7,1.4,-1.62,1.52,-5.009630347813969,0.027,11.86,Watch
+96,Technology,Private,Investment Grade,,4.8,149,4.67,0.39,6.14,8.53,20.90415880266074,-0.127,9.28,Watch
+97,Energy,Private,Investment Grade,,11.3,450,1.15,2.48,1.76,16.4,-0.6199982571978842,0.199,10.35,Healthy
+98,Retail,Public,Speculative,No,7.1,597,0.22,1.31,-1.62,-14.12,-2.557010455200416,0.107,14.43,Watch
+99,Energy,Private,Speculative,,6.4,338,0.69,2.2,-1.73,-1.59,-6.559559781823435,0.281,11.07,Healthy
+100,Retail,Public,High Risk,No,9.8,154,1.04,2.02,-1.81,20.37,0.35160845877039026,0.127,10.88,Healthy
+101,Energy,Private,Investment Grade,,5.6,115,3.87,2.49,7.82,3.59,-0.3698970194732141,0.304,13.97,Healthy
+102,Technology,Public,Speculative,No,8.4,312,1.36,1.47,7.08,11.71,,0.041,11.87,Healthy
+103,Retail,Private,Speculative,,8.6,350,1.72,1.67,8.87,11.71,0.3617760258819489,0.078,13.23,Healthy
+104,Retail,Private,Speculative,,15.3,366,0.27,1.92,10.54,1.47,-6.691482543367073,0.185,14.53,Healthy
+105,Construction,Public,Speculative,No,8.6,185,4.9,2.35,3.74,11.59,8.410967274313656,0.273,10.6,Watch
+106,Construction,Public,Investment Grade,No,8.9,175,0.85,1.04,2.1,22.67,3.577922280671081,-0.018,11.95,Healthy
+107,Construction,Private,Speculative,,11.9,539,2.69,1.72,-1.44,14.64,4.251218311339596,0.106,10.96,Healthy
+108,Manufacturing,Public,Speculative,Yes,3.4,302,1.22,1.23,3.7,13.06,3.247891212882857,0.031,11.29,Healthy
+109,Technology,Public,Speculative,No,7.1,202,3.83,2.06,9.7,4.68,1.7884207152656222,0.177,16.87,Healthy
+110,Energy,Private,Speculative,,6.1,70,1.03,2.01,5.29,10.95,1.156386769047236,0.197,13.57,Healthy
+111,Technology,Private,Investment Grade,,7.4,289,0.79,3.87,8.5,15.56,-1.3224115511416485,0.495,13.99,Healthy
+112,Retail,Private,Speculative,,8.6,438,1.09,1.85,8.16,11.51,,0.067,11.92,Watch
+113,Manufacturing,Private,Speculative,,6.7,152,2.02,2.64,-0.36,2.6,5.3247550502651695,0.394,12.4,Healthy
+114,Technology,Public,Speculative,No,2.0,60,0.71,0.95,7.39,7.75,17.72166017175868,0.024,11.82,Healthy
+115,Technology,Private,Speculative,,5.2,288,0.62,2.0,12.99,8.7,15.394356327449461,0.171,11.1,Healthy
+116,Technology,Private,Investment Grade,,3.4,197,0.78,0.87,2.89,12.96,0.4664277422260916,-0.041,19.23,Healthy
+117,Retail,Private,Speculative,,13.1,464,1.62,1.6,11.13,-3.89,9.031707132135264,0.031,11.49,Healthy
+118,Retail,Private,Investment Grade,,11.1,11,0.42,0.58,4.14,3.72,-4.630056804404909,-0.007,12.05,Watch
+119,Manufacturing,Private,Speculative,,27.1,494,2.33,1.07,7.79,-3.18,3.9826899413429437,0.023,15.71,Watch
+120,Manufacturing,Private,Investment Grade,,13.4,277,0.9,0.1,-9.35,8.83,-1.681644136082343,-0.206,15.56,Healthy
+121,Retail,Public,Speculative,No,5.0,76,7.41,2.24,12.44,3.61,2.945635874901118,0.146,13.31,Watch
+122,Construction,Private,Speculative,,9.4,480,1.4,3.52,5.77,2.86,12.509080165189541,0.39,11.36,Healthy
+123,Retail,Public,Investment Grade,Yes,19.5,177,2.02,2.35,5.44,12.86,25.357195614916705,0.28,16.48,Healthy
+124,Energy,Private,Investment Grade,,7.8,145,3.43,1.69,2.65,3.18,9.14470493544792,0.058,13.03,Healthy
+125,Manufacturing,Public,Speculative,No,23.4,181,1.91,2.13,4.71,21.94,19.212500246265254,0.233,12.98,Healthy
+126,Manufacturing,Private,Speculative,,3.0,175,0.7,1.7,1.52,-0.23,-3.9508076049734644,0.157,12.41,Distressed
+127,Manufacturing,Private,High Risk,,11.2,37,1.06,1.77,-0.13,-3.47,-0.23008940892410656,0.124,11.8,Healthy
+128,Construction,Public,Speculative,No,20.3,269,2.4,2.14,7.69,2.81,-2.632756993559344,0.189,11.11,Watch
+129,Construction,Public,Speculative,No,12.0,116,0.68,2.3,3.35,8.89,13.784835901918523,0.235,13.81,Healthy
+130,Manufacturing,Private,Speculative,,8.6,17,1.71,2.43,5.56,-2.99,4.86681630754479,0.162,12.54,Healthy
+131,Energy,Public,Speculative,Yes,5.7,159,3.52,1.52,5.21,13.68,7.901290979531664,0.125,12.89,Healthy
+132,Retail,Private,Investment Grade,,5.1,330,1.53,1.94,4.34,24.78,4.933066519564841,0.209,17.06,Healthy
+133,Energy,Private,Investment Grade,,7.7,144,1.77,1.71,2.31,13.61,4.70594770972861,0.119,13.24,Watch
+134,Manufacturing,Private,High Risk,,11.3,69,1.84,2.16,4.16,-0.31,,0.253,12.67,Distressed
+135,Construction,Private,Speculative,,16.4,419,1.24,1.3,-0.1,4.74,4.119579128691805,0.015,14.27,Healthy
+136,Manufacturing,Private,Investment Grade,,15.4,104,0.76,0.61,7.25,-0.65,-1.630332264149959,-0.06,19.3,Watch
+137,Technology,Private,Speculative,,16.8,514,0.98,0.97,3.02,3.79,18.577199052442616,0.011,14.8,Healthy
+138,Manufacturing,Public,Speculative,No,15.1,146,2.85,1.11,13.97,4.46,12.297037404357688,0.005,13.85,Healthy
+139,Construction,Private,Speculative,,30.2,241,1.91,1.82,11.39,8.33,-4.601879592125977,0.097,11.83,Healthy
+140,Construction,Private,Speculative,,4.5,270,2.2,1.13,8.33,21.5,5.785682985457869,-0.023,14.15,Healthy
+141,Manufacturing,Private,Speculative,,2.3,236,0.89,0.78,-3.95,16.58,13.512555579035274,0.016,15.23,Healthy
+142,Manufacturing,Private,Speculative,,23.1,112,2.91,1.44,0.43,-0.53,1.7712426383222413,0.095,13.28,Watch
+143,Construction,Public,Speculative,No,8.4,218,1.63,1.11,6.13,-2.85,16.078097868907847,-0.024,12.62,Healthy
+144,Construction,Public,Investment Grade,No,15.6,361,1.24,2.24,11.74,-10.52,11.436396792646274,0.149,11.69,Healthy
+145,Construction,Private,Investment Grade,,10.7,114,1.31,0.23,8.18,16.12,-0.17549244931056052,-0.132,9.64,Distressed
+146,Manufacturing,Private,Speculative,,5.7,598,0.8,1.7,-0.32,13.65,0.5078495599311665,0.115,11.72,Healthy
+147,Retail,Public,Investment Grade,Yes,6.2,319,2.32,0.56,6.33,7.34,3.2649471451045566,-0.009,12.95,Watch
+148,Technology,Public,Investment Grade,Yes,2.9,379,0.4,2.71,-0.41,7.31,2.06510050521074,0.473,14.76,Healthy
+149,Construction,Private,Investment Grade,,14.0,410,0.2,0.1,3.53,5.79,-6.180568531340803,-0.121,12.24,Healthy
+150,Retail,Private,Investment Grade,,11.5,97,0.51,0.26,12.68,10.26,-2.5875089634584274,-0.171,11.89,Watch
+151,Technology,Private,Speculative,,25.1,144,1.2,2.07,-0.11,-1.96,-1.4219521709864686,0.263,15.38,Healthy
+152,Energy,Private,High Risk,,5.2,269,0.25,1.7,8.75,-0.23,0.37153575186992427,0.068,12.06,Healthy
+153,Manufacturing,Private,High Risk,,40.8,85,1.35,2.51,2.93,-5.36,6.362083178583695,0.219,16.44,Watch
+154,Construction,Private,Investment Grade,,16.5,144,1.57,1.73,0.9,1.39,4.570073892440728,0.163,10.19,Watch
+155,Manufacturing,Private,Speculative,,3.7,308,2.07,2.3,12.6,-6.23,8.617009133995094,0.35,17.13,Healthy
+156,Manufacturing,Private,Investment Grade,,9.1,215,0.5,2.46,-2.04,-10.05,,0.278,11.31,Healthy
+157,Construction,Private,High Risk,,17.5,395,3.46,0.1,-6.03,2.13,-0.248748791814414,-0.068,11.56,Distressed
+158,Energy,Private,Investment Grade,,11.4,47,2.0,2.57,2.67,2.0,-14.017122506289937,0.378,15.47,Watch
+159,Energy,Public,Speculative,No,5.7,399,1.52,0.4,13.45,-3.69,5.3287330935900155,-0.076,15.34,Healthy
+160,Technology,Private,Speculative,,6.8,120,2.36,2.05,6.47,21.24,5.020293550891914,0.306,12.62,Healthy
+161,Manufacturing,Private,Investment Grade,,10.3,157,1.41,0.61,10.94,14.72,-6.13429600629131,-0.117,15.29,Healthy
+162,Manufacturing,Private,Investment Grade,,11.5,94,0.89,1.2,6.01,20.3,-1.014801550475644,0.044,14.75,Healthy
+163,Construction,Private,Speculative,,12.3,193,0.21,1.46,7.45,8.31,,0.037,13.56,Healthy
+164,Construction,Private,Speculative,,4.8,497,0.46,1.49,-1.66,5.11,-0.6219593691494518,0.087,12.99,Healthy
+165,Technology,Private,Speculative,,26.1,106,0.36,3.06,-3.8,11.41,12.823501762830379,0.266,16.76,Healthy
+166,Retail,Private,Investment Grade,,28.9,353,2.15,0.1,9.7,20.52,0.004587309216489643,-0.262,11.92,Watch
+167,Manufacturing,Private,Investment Grade,,9.9,453,3.85,0.76,4.84,16.75,-3.7446251354853146,-0.044,13.5,Healthy
+168,Retail,Private,Speculative,,21.9,263,0.38,1.43,6.21,-0.37,-8.320624158602019,0.056,12.86,Healthy
+169,Retail,Public,Speculative,No,10.5,480,0.35,0.74,0.05,-14.93,8.939083776100498,-0.084,11.56,Distressed
+170,Energy,Public,Speculative,No,25.5,622,0.19,1.85,8.57,-0.24,8.578135180970445,0.101,11.37,Healthy
+171,Manufacturing,Private,Speculative,,12.7,317,1.89,2.23,6.33,-5.94,1.0766010003174316,0.246,12.0,Healthy
+172,Manufacturing,Private,Speculative,,5.7,455,0.34,2.02,-3.28,-0.12,14.171018915092182,0.231,17.52,Watch
+173,Energy,Public,Speculative,Yes,10.1,112,1.89,2.64,-2.12,3.71,-6.603485551350838,0.543,12.96,Distressed
+174,Retail,Private,High Risk,,8.7,862,2.72,1.6,4.67,2.71,1.6069482117827762,0.12,16.05,Watch
+175,Retail,Private,Investment Grade,,16.7,562,0.41,1.02,3.19,20.1,28.413776829075687,-0.009,14.5,Healthy
+176,Construction,Private,Investment Grade,,18.5,46,1.02,2.48,12.08,-2.09,-1.196931013669838,0.208,13.16,Healthy
+177,Technology,Public,Investment Grade,No,5.6,177,0.61,1.16,8.12,14.11,5.097946887499288,0.007,12.46,Healthy
+178,Retail,Private,Speculative,,11.6,35,1.22,1.28,2.09,-0.77,23.88292630518432,0.083,13.02,Healthy
+179,Manufacturing,Private,Investment Grade,,4.6,60,2.64,1.73,13.08,10.54,21.26982198754867,0.127,11.41,Healthy
+180,Technology,Private,Speculative,,2.3,366,1.25,1.65,2.53,17.03,23.540267991559766,0.066,16.87,Healthy
+181,Manufacturing,Private,Investment Grade,,17.3,333,0.52,2.55,-7.04,13.75,9.835545732141295,0.215,11.14,Healthy
+182,Construction,Public,Speculative,Yes,13.8,113,2.16,1.18,8.44,8.1,25.960501698819463,0.069,13.56,Healthy
+183,Technology,Private,Speculative,,5.1,506,0.05,3.03,4.37,14.82,-10.34139724140083,0.503,12.45,Healthy
+184,Technology,Public,Speculative,Yes,8.7,363,1.59,2.08,-0.57,17.35,11.456839268791782,0.197,9.22,Healthy
+185,Manufacturing,Private,Speculative,,9.1,202,1.25,1.76,-6.4,-3.96,12.768257619820913,0.11,12.66,Watch
+186,Manufacturing,Private,Investment Grade,,4.7,44,0.53,1.23,7.7,2.68,5.093569782567814,0.017,13.02,Healthy
+187,Manufacturing,Public,Investment Grade,No,19.9,448,1.47,1.59,-1.56,10.8,14.286624248768334,0.124,11.19,Healthy
+188,Construction,Private,High Risk,,11.3,315,1.76,1.25,7.56,2.27,7.234731648457452,0.017,13.49,Watch
+189,Technology,Public,Speculative,No,4.8,227,1.97,1.28,-4.4,14.7,7.986904701228215,0.095,14.79,Healthy
+190,Energy,Private,Speculative,,14.9,108,0.16,1.21,-0.23,0.81,8.337641258488723,0.007,12.43,Healthy
+191,Energy,Public,Investment Grade,No,21.5,102,0.58,0.31,6.47,8.06,-16.135279046551585,-0.157,15.69,Healthy
+192,Technology,Public,Speculative,No,5.4,109,0.23,2.17,13.43,-2.53,-3.9110827466987956,0.154,13.34,Healthy
+193,Manufacturing,Private,Investment Grade,,7.6,65,1.17,1.26,6.01,0.3,15.310606770488167,0.09,13.59,Healthy
+194,Construction,Private,High Risk,,11.2,220,4.78,1.07,2.83,-3.33,13.613402458129091,0.085,13.67,Watch
+195,Manufacturing,Private,Speculative,,15.6,157,0.62,2.36,9.23,-4.48,11.995917412185637,0.382,14.09,Healthy
+196,Energy,Private,Investment Grade,,13.1,53,1.08,1.78,-1.34,-2.68,12.705722853062401,0.138,14.07,Watch
+197,Energy,Private,High Risk,,3.6,134,2.38,2.41,12.61,2.91,,0.235,12.16,Healthy
+198,Technology,Private,Investment Grade,,5.2,91,0.83,2.24,0.46,-1.58,16.00811313063683,0.188,11.41,Watch
+199,Technology,Private,Investment Grade,,11.8,137,0.73,0.44,5.56,6.54,5.602839468714542,-0.101,12.11,Watch
+200,Construction,Private,Speculative,,10.7,529,1.05,1.47,5.59,-6.99,17.603014936687124,0.075,12.94,Watch
+201,Manufacturing,Private,Speculative,,3.3,334,4.38,2.78,-0.02,-0.9,5.342661675652489,0.401,17.1,Distressed
+202,Technology,Private,Investment Grade,,16.1,347,0.88,1.27,9.19,16.19,13.21821790190807,0.063,12.99,Healthy
+203,Technology,Private,Speculative,,7.2,125,0.82,2.95,-0.94,7.03,12.343153832489204,0.471,14.6,Healthy
+204,Construction,Private,High Risk,,4.5,450,2.78,1.24,-0.32,11.33,2.0017062327219617,0.088,11.57,Distressed
+205,Manufacturing,Public,Investment Grade,No,6.2,237,2.05,2.37,-2.07,14.85,20.08976640335426,0.274,12.61,Healthy
+206,Technology,Private,Investment Grade,,22.1,487,2.11,0.82,9.58,4.17,2.5261449794291324,0.003,10.9,Healthy
+207,Manufacturing,Public,Speculative,No,7.1,340,2.31,1.19,7.95,-0.01,9.687728561838405,0.035,17.17,Watch
+208,Retail,Private,High Risk,,10.2,104,1.12,1.05,6.52,17.8,8.532026068726493,0.056,10.64,Healthy
+209,Technology,Private,Speculative,,1.0,793,0.11,0.95,-0.3,7.9,1.236654750152847,-0.07,14.68,Healthy
+210,Energy,Private,High Risk,,13.6,1025,0.13,1.99,0.28,0.19,7.333223166790081,0.235,8.4,Healthy
+211,Construction,Private,High Risk,,3.0,187,3.19,0.1,8.26,10.5,-5.4698112221007555,-0.208,12.73,Watch
+212,Manufacturing,Private,Speculative,,5.5,106,1.23,1.77,15.4,5.84,13.362926001671717,0.086,12.14,Healthy
+213,Construction,Private,Investment Grade,,18.5,454,1.41,2.31,-0.6,11.58,-3.732984278914378,0.157,12.34,Watch
+214,Retail,Private,Investment Grade,,36.0,364,1.09,2.01,9.95,-10.1,-5.523258065548424,0.226,14.46,Healthy
+215,Retail,Public,High Risk,Yes,7.7,302,0.48,0.6,11.69,-12.12,,-0.075,15.52,Healthy
+216,Construction,Private,High Risk,,15.5,290,1.05,1.84,-7.09,16.71,0.7108197295378895,0.178,15.08,Healthy
+217,Technology,Private,Investment Grade,,3.3,1484,5.57,3.16,4.7,3.02,18.625700146849702,0.304,12.88,Healthy
+218,Construction,Private,Investment Grade,,3.4,117,2.0,0.95,5.95,-3.17,-0.9355646040838153,-0.021,13.91,Distressed
+219,Retail,Private,Speculative,,8.1,319,2.56,1.46,5.92,-1.42,,0.113,15.48,Healthy
+220,Manufacturing,Private,Speculative,,4.4,528,2.41,2.68,3.8,5.63,0.15095580275564746,0.402,16.08,Healthy
+221,Manufacturing,Public,Investment Grade,Yes,8.2,41,1.27,1.86,1.31,1.61,13.984760919897859,0.11,14.38,Watch
+222,Retail,Private,Investment Grade,,24.0,287,1.0,1.44,3.94,-0.77,9.380976432847444,0.097,17.11,Healthy
+223,Construction,Public,Investment Grade,No,11.1,219,0.25,2.02,3.35,-4.95,11.79303325711481,0.237,15.14,Healthy
+224,Construction,Private,Investment Grade,,12.9,42,0.92,2.25,-3.21,6.37,14.949178923939092,0.332,11.44,Healthy
+225,Manufacturing,Private,Speculative,,9.9,288,1.13,1.31,6.87,-6.8,3.941007888624736,0.094,12.85,Healthy
+226,Technology,Private,High Risk,,22.3,130,0.72,1.62,2.19,-4.6,13.311555708911232,0.064,14.77,Healthy
+227,Retail,Private,Investment Grade,,9.0,112,0.89,1.54,2.37,7.69,5.201824185073845,0.062,13.9,Healthy
+228,Construction,Private,Investment Grade,,18.2,197,1.59,0.1,-5.98,0.93,5.0386655157463744,-0.153,13.07,Watch
+229,Technology,Private,Speculative,,5.4,220,1.37,1.78,1.35,-13.9,3.9627822062209606,0.09,11.4,Healthy
+230,Retail,Private,High Risk,,10.2,80,1.33,1.76,11.05,4.02,6.178910989841044,0.076,11.1,Healthy
+231,Construction,Private,Investment Grade,,15.3,351,3.55,1.23,6.59,7.34,17.644554683993988,0.09,13.91,Watch
+232,Technology,Private,Investment Grade,,11.5,43,1.26,2.21,13.88,3.91,-1.9098277457546793,0.367,8.87,Healthy
+233,Retail,Private,High Risk,,4.7,548,1.94,1.43,7.2,0.23,4.988977803329539,0.083,14.68,Watch
+234,Retail,Public,Investment Grade,No,5.4,114,0.56,0.4,2.52,-3.91,5.086274313295296,-0.043,12.1,Healthy
+235,Manufacturing,Public,Speculative,No,9.8,434,1.93,1.1,4.93,-9.28,-3.9564014789426682,-0.007,15.52,Watch
+236,Manufacturing,Private,Investment Grade,,11.6,261,0.99,2.27,0.38,1.37,-6.922774446828731,0.205,12.71,Healthy
+237,Manufacturing,Public,Speculative,Yes,13.8,76,1.16,1.93,5.93,23.74,10.694903779153881,0.102,11.38,Healthy
+238,Manufacturing,Private,Speculative,,36.0,195,0.68,1.13,-3.63,10.04,0.7759617442788178,0.039,14.52,Healthy
+239,Construction,Private,Investment Grade,,8.3,284,3.49,1.2,-2.74,4.49,15.726357777833991,0.056,11.6,Healthy
+240,Retail,Private,Speculative,,16.8,261,1.52,1.19,-0.05,1.74,2.2691601168782256,0.01,17.63,Healthy
+241,Retail,Public,High Risk,No,5.0,235,1.96,1.55,1.41,-4.46,1.1535162281351043,0.115,12.5,Distressed
+242,Manufacturing,Private,Investment Grade,,38.0,214,0.75,1.08,3.2,-1.28,4.677921614875065,-0.034,15.21,Healthy
+243,Technology,Private,Investment Grade,,11.5,122,2.22,1.73,10.57,-7.35,3.843827773652314,0.028,15.44,Healthy
+244,Manufacturing,Private,Investment Grade,,8.9,327,1.56,1.74,4.1,11.43,1.755661909743865,0.119,13.18,Healthy
+245,Manufacturing,Public,Investment Grade,No,5.9,142,0.84,2.05,-0.88,8.01,3.0066230634791844,0.318,11.59,Healthy
+246,Technology,Public,Speculative,Yes,16.4,500,1.01,1.14,-4.12,3.24,10.031359462724538,0.016,11.76,Watch
+247,Manufacturing,Private,Investment Grade,,7.2,255,2.24,1.32,16.6,8.9,12.251039230337689,0.008,11.09,Healthy
+248,Manufacturing,Private,Investment Grade,,7.9,284,1.11,1.96,2.27,-8.47,-1.6845213821481693,0.138,13.5,Healthy
+249,Retail,Public,Investment Grade,No,8.1,59,1.6,1.07,5.48,-10.0,16.371461245254693,-0.005,15.24,Healthy
+250,Energy,Private,Speculative,,16.0,433,1.25,2.02,-1.8,11.67,26.432234676358956,0.097,14.53,Healthy
+251,Manufacturing,Private,Investment Grade,,8.5,290,0.41,1.95,3.06,-1.38,13.320170356054822,0.212,12.73,Healthy
+252,Retail,Public,Speculative,Yes,5.3,295,3.07,0.62,4.68,-1.22,12.092430755679892,-0.008,13.14,Distressed
+253,Retail,Private,Speculative,,9.5,605,1.06,1.69,4.18,1.2,6.368757426094814,0.087,16.51,Healthy
+254,Manufacturing,Private,Investment Grade,,13.2,91,2.23,1.52,0.02,3.51,3.9378061491079372,0.155,13.8,Watch
+255,Technology,Private,Investment Grade,,7.8,466,2.59,2.21,1.71,13.13,17.471565421653896,0.118,10.05,Healthy
+256,Technology,Public,Speculative,Yes,28.5,133,0.97,1.95,10.31,17.2,-12.132288377875668,0.129,13.46,Healthy
+257,Energy,Public,High Risk,No,8.0,122,2.25,1.47,9.85,-3.94,-6.860672247007031,0.016,12.13,Distressed
+258,Manufacturing,Private,Investment Grade,,10.7,217,2.24,1.98,12.83,6.15,7.736361241170307,0.12,13.15,Healthy
+259,Retail,Private,Speculative,,5.4,223,3.24,2.89,0.62,6.93,6.4732858104104745,0.335,11.81,Healthy
+260,Energy,Private,Investment Grade,,2.0,247,2.0,2.42,3.39,-2.32,-14.41599337649562,0.315,16.6,Distressed
+261,Retail,Private,Speculative,,24.8,82,0.82,1.01,5.48,-12.17,4.946121364475808,0.026,7.92,Distressed
+262,Manufacturing,Private,Speculative,,0.9,51,0.59,3.5,4.14,10.35,,0.384,15.26,Healthy
+263,Energy,Private,Investment Grade,,5.2,842,0.25,1.8,2.74,12.76,-8.706932503563694,0.097,17.41,Healthy
+264,Energy,Private,Investment Grade,,8.8,327,0.11,2.24,6.22,1.11,3.1777092752852822,0.258,12.31,Healthy
+265,Manufacturing,Private,Speculative,,20.4,240,2.9,1.77,0.82,-1.17,16.54936512742697,0.154,11.35,Watch
+266,Manufacturing,Private,Speculative,,16.4,340,0.21,2.9,4.26,-6.54,16.879973483967014,0.278,13.19,Healthy
+267,Technology,Private,High Risk,,8.3,431,0.6,1.53,-0.02,-3.81,19.207184751942247,0.039,11.63,Healthy
+268,Manufacturing,Private,Investment Grade,,4.7,191,3.51,0.39,-3.47,1.53,-5.3542829832621415,-0.112,15.66,Watch
+269,Energy,Public,Speculative,No,10.9,271,1.79,0.91,-7.78,5.96,6.594808978698743,-0.021,12.64,Distressed
+270,Manufacturing,Public,High Risk,No,14.3,316,1.72,1.68,7.01,-0.42,-2.243381859436413,0.08,13.66,Healthy
+271,Energy,Private,Speculative,,8.0,134,0.74,1.62,3.93,7.17,1.1228014169823313,0.101,14.44,Distressed
+272,Manufacturing,Private,Investment Grade,,12.1,171,0.75,2.18,6.27,11.09,-1.0929289249458156,0.118,16.76,Healthy
+273,Energy,Public,Speculative,No,23.9,248,3.14,1.41,6.58,9.05,4.491255193926981,0.03,13.09,Healthy
+274,Manufacturing,Private,High Risk,,6.8,143,0.56,2.25,11.66,12.87,10.645336132989588,0.298,14.24,Healthy
+275,Retail,Private,Speculative,,21.5,152,0.77,1.77,7.75,6.49,16.026145899805122,0.153,15.27,Healthy
+276,Manufacturing,Private,Speculative,,34.4,349,1.27,2.1,6.63,12.13,-1.3266041783697267,0.231,9.67,Healthy
+277,Technology,Private,Investment Grade,,21.2,283,0.83,0.1,7.39,-0.03,8.39523211540965,-0.16,13.82,Healthy
+278,Technology,Private,Investment Grade,,12.5,575,0.51,1.22,3.99,2.0,11.439531556080613,0.035,13.2,Healthy
+279,Energy,Private,Speculative,,2.4,154,0.85,1.76,10.99,2.8,20.87441764290758,0.134,11.61,Watch
+280,Retail,Private,Investment Grade,,12.2,420,4.26,2.02,5.22,4.78,6.681438088493089,0.258,8.62,Healthy
+281,Technology,Private,Speculative,,10.2,168,0.64,0.35,7.01,4.3,16.301578111143876,-0.091,15.33,Healthy
+282,Energy,Private,High Risk,,14.0,123,2.13,0.96,7.13,-10.23,8.592490427847082,-0.048,15.51,Healthy
+283,Construction,Public,Investment Grade,No,11.3,229,0.44,1.39,-0.22,1.49,14.191526173375536,0.058,20.74,Healthy
+284,Energy,Private,Investment Grade,,3.7,425,1.84,0.47,4.61,3.09,-3.016775502963208,-0.135,12.46,Watch
+285,Energy,Private,Speculative,,19.7,283,0.67,2.51,8.71,8.04,9.686739539688102,0.18,14.58,Healthy
+286,Retail,Private,Speculative,,12.0,645,0.87,1.68,2.95,-8.27,6.59558705362845,0.119,16.36,Distressed
+287,Manufacturing,Public,Investment Grade,No,1.4,379,0.24,0.75,5.39,-1.62,2.509676433412893,-0.059,14.28,Watch
+288,Manufacturing,Public,High Risk,No,21.7,29,4.09,2.9,2.79,14.15,3.0279445689523943,0.264,13.81,Healthy
+289,Energy,Private,High Risk,,11.9,143,0.67,0.56,-9.17,-4.26,,-0.046,13.77,Distressed
+290,Construction,Private,Speculative,,10.1,341,0.38,1.42,-1.91,9.27,1.981579498071186,0.074,13.66,Healthy
+291,Manufacturing,Public,Speculative,No,3.5,148,0.79,0.66,9.54,29.18,2.8380588190970006,-0.139,14.37,Healthy
+292,Manufacturing,Private,Investment Grade,,5.5,275,0.58,1.2,9.02,-16.57,11.647147043498197,0.021,14.03,Healthy
+293,Energy,Private,High Risk,,35.5,227,2.39,1.06,15.43,7.8,22.019529741423202,0.045,9.33,Healthy
+294,Technology,Private,Investment Grade,,2.1,470,1.65,1.17,1.57,-1.53,-6.586044265210424,0.022,15.53,Watch
+295,Manufacturing,Private,Investment Grade,,14.1,132,0.22,1.48,9.45,7.36,9.846641734380498,0.046,13.53,Healthy
+296,Manufacturing,Private,High Risk,,13.8,114,3.07,2.27,12.28,-5.26,-2.648998737021179,0.27,15.23,Distressed
+297,Technology,Private,Investment Grade,,13.3,56,0.99,2.06,7.97,-9.08,11.401951768535444,0.235,11.94,Healthy
+298,Technology,Private,Speculative,,5.0,448,0.57,1.7,12.33,-3.63,24.304793444570034,0.13,8.48,Healthy
+299,Retail,Private,Investment Grade,,2.8,478,1.12,0.56,6.3,21.49,11.07013343725728,-0.038,14.17,Healthy
+300,Manufacturing,Public,High Risk,No,14.7,336,1.42,1.76,5.53,9.14,-7.690029796973169,0.175,10.75,Healthy
+301,Manufacturing,Private,Investment Grade,,6.9,343,1.41,2.51,7.06,1.73,0.686065003962562,0.4,14.07,Healthy
+302,Manufacturing,Public,Speculative,No,11.7,226,1.9,2.35,1.57,0.06,11.11388455439902,0.272,12.89,Healthy
+303,Technology,Private,Speculative,,14.0,20,0.09,2.27,4.69,1.73,11.487015352176513,0.237,15.7,Watch
+304,Retail,Public,Investment Grade,No,9.4,579,0.32,2.44,-0.71,14.66,17.4181944345562,0.182,16.11,Healthy
+305,Technology,Public,High Risk,No,0.5,572,1.96,1.5,8.47,6.04,4.367760096632047,0.064,14.88,Healthy
+306,Construction,Private,Investment Grade,,7.8,65,0.77,1.76,0.01,11.49,14.801854031451464,0.194,14.78,Healthy
+307,Technology,Public,Investment Grade,No,27.0,404,1.05,2.47,10.58,5.55,3.315067575741501,0.082,15.43,Healthy
+308,Retail,Private,High Risk,,9.3,407,0.71,0.44,4.67,-3.38,2.17330205374913,-0.115,14.9,Watch
+309,Energy,Public,Speculative,No,10.5,64,5.37,1.43,7.94,10.39,-1.1326166212733746,0.039,15.22,Distressed
+310,Construction,Private,Investment Grade,,12.2,354,1.94,1.96,0.6,13.42,-3.2104225038230094,0.238,14.14,Healthy
+311,Construction,Private,Speculative,,8.9,171,1.82,1.15,6.11,11.81,14.536888261162199,0.024,13.75,Healthy
+312,Retail,Private,Speculative,,2.0,255,0.54,0.75,-0.38,3.69,7.123488103527102,-0.044,13.27,Watch
+313,Technology,Public,Investment Grade,No,4.7,263,3.28,2.14,3.19,1.15,9.37109425167204,0.195,13.99,Healthy
+314,Energy,Private,Speculative,,3.7,1016,0.55,2.63,9.62,12.89,,0.392,14.3,Healthy
+315,Technology,Private,Speculative,,40.6,230,2.2,1.93,12.74,5.41,2.7738339360776365,0.176,13.94,Healthy
+316,Manufacturing,Private,Investment Grade,,18.8,241,0.24,0.68,7.0,-1.77,-9.622078596301215,-0.056,14.61,Healthy
+317,Manufacturing,Public,Investment Grade,No,17.3,157,0.31,1.42,15.53,13.8,-10.555937882156687,0.054,11.32,Watch
+318,Construction,Public,Speculative,No,26.2,264,1.32,1.3,7.9,6.43,14.070368032617342,-0.008,14.03,Healthy
+319,Technology,Public,Speculative,No,13.9,204,0.46,1.78,3.01,8.09,11.3470099345794,0.092,14.45,Healthy
+320,Technology,Private,Speculative,,4.0,402,0.94,1.36,6.55,0.07,2.1873509988489044,0.037,14.33,Healthy
+321,Construction,Public,Investment Grade,No,20.5,349,1.78,0.9,6.02,1.34,-3.4878392162324268,-0.065,13.23,Healthy
+322,Technology,Public,Investment Grade,No,5.0,296,1.54,1.45,6.34,-5.08,1.0678456253526498,0.073,13.8,Healthy
+323,Technology,Private,Speculative,,18.7,640,0.76,1.26,11.41,-4.98,,0.038,13.83,Healthy
+324,Construction,Private,Investment Grade,,29.0,326,1.06,1.84,4.65,17.04,20.555206387125523,0.071,14.74,Healthy
+325,Manufacturing,Public,Speculative,Yes,10.9,21,0.97,0.1,-2.15,6.93,23.423704440161565,-0.234,13.08,Distressed
+326,Energy,Public,Investment Grade,No,11.1,109,2.72,2.06,-1.5,4.19,12.043302718751946,0.166,11.7,Healthy
+327,Manufacturing,Private,Speculative,,4.4,167,2.69,2.33,8.94,-8.44,,0.259,14.11,Healthy
+328,Energy,Private,Speculative,,26.7,643,0.91,1.35,6.52,6.99,15.866848427029447,0.086,16.31,Healthy
+329,Technology,Private,Speculative,,17.9,168,2.96,0.88,8.68,9.49,8.743351540398422,-0.037,14.95,Watch
+330,Construction,Private,Investment Grade,,10.0,116,2.83,1.63,10.57,14.85,-4.539904765980916,0.083,15.03,Healthy
+331,Retail,Private,Investment Grade,,13.6,254,1.71,1.15,-3.69,3.85,12.774339634933167,-0.035,9.76,Healthy
+332,Technology,Private,Speculative,,2.8,273,2.72,1.64,6.74,3.96,5.446486983044294,0.085,17.46,Healthy
+333,Retail,Private,Investment Grade,,44.2,44,0.61,1.22,9.04,12.09,-0.12562596226481837,0.069,11.02,Healthy
+334,Retail,Private,High Risk,,3.6,646,0.85,1.3,7.75,-1.19,10.614871912081393,0.04,12.6,Watch
+335,Construction,Private,Speculative,,6.1,62,3.54,1.6,7.05,6.88,10.411689581172464,0.097,12.95,Watch
+336,Technology,Public,Speculative,No,3.4,789,0.57,1.68,9.11,-3.01,,0.077,13.24,Healthy
+337,Retail,Private,Speculative,,24.8,126,1.86,0.52,2.11,19.96,-3.4861481378043457,-0.069,14.98,Healthy
+338,Construction,Public,Investment Grade,No,8.0,153,1.56,1.87,9.79,-3.64,13.20944488217442,0.098,14.45,Healthy
+339,Retail,Private,High Risk,,5.7,401,0.28,2.29,13.39,16.15,8.043987925246245,0.174,15.16,Healthy
+340,Retail,Private,Investment Grade,,6.1,1224,0.98,1.59,11.79,-5.8,-3.736178559785179,0.105,14.2,Healthy
+341,Manufacturing,Private,Speculative,,27.7,218,1.11,2.05,-1.11,-20.52,3.3459649910143825,0.216,15.39,Watch
+342,Retail,Private,Investment Grade,,11.5,742,1.82,1.88,5.88,6.93,14.110041223540929,0.103,11.65,Healthy
+343,Construction,Private,High Risk,,15.3,114,0.72,0.52,0.1,7.25,6.445742336600156,-0.107,14.12,Healthy
+344,Technology,Public,Speculative,No,6.4,314,1.0,1.11,8.47,0.04,22.318356602298905,-0.009,15.77,Healthy
+345,Manufacturing,Public,Speculative,No,22.8,431,1.06,1.64,3.95,1.59,-0.5804777255009839,0.102,12.68,Healthy
+346,Retail,Public,High Risk,No,6.4,476,2.5,1.62,12.19,7.08,21.86029104239889,0.124,13.9,Watch
+347,Technology,Public,Investment Grade,No,4.2,406,2.36,1.41,-4.27,-3.13,5.549114867028805,0.057,13.36,Healthy
+348,Technology,Private,Investment Grade,,9.7,502,1.32,2.59,13.94,6.11,-12.682287600544903,0.237,12.58,Healthy
+349,Energy,Private,High Risk,,17.4,461,1.8,1.47,-1.83,11.93,-3.8392255722434765,0.032,10.56,Distressed
+350,Retail,Private,Investment Grade,,14.2,329,1.02,2.61,-1.3,19.94,4.664291540470606,0.461,12.82,Healthy
+351,Energy,Private,Investment Grade,,15.6,572,1.91,0.99,3.0,5.06,-4.254707696654101,0.012,13.81,Watch
+352,Construction,Private,Investment Grade,,11.2,266,0.8,1.66,14.54,-9.11,6.468725595950933,0.129,12.97,Healthy
+353,Construction,Private,High Risk,,1.6,211,0.74,1.39,9.09,19.98,15.064506609283022,0.053,15.63,Healthy
+354,Manufacturing,Public,Investment Grade,Yes,9.9,551,3.67,1.78,12.9,-0.22,5.687487403981489,0.189,14.81,Healthy
+355,Construction,Private,Investment Grade,,1.1,207,0.75,2.68,8.12,9.65,7.476664948327713,0.31,15.59,Distressed
+356,Construction,Private,Investment Grade,,7.5,552,0.59,2.75,1.11,-4.87,-5.569007328050596,0.284,13.35,Healthy
+357,Technology,Private,High Risk,,24.2,112,0.59,1.21,9.8,5.89,9.880597967756747,0.05,13.4,Healthy
+358,Manufacturing,Public,Investment Grade,No,5.1,215,3.02,1.88,4.84,-2.08,10.221128565360143,0.186,15.25,Watch
+359,Retail,Private,Investment Grade,,10.9,85,0.73,0.48,9.23,13.75,10.37864402938575,-0.116,14.24,Healthy
+360,Retail,Public,High Risk,No,7.3,110,1.38,2.99,-3.37,4.64,0.7568044425111378,0.423,13.26,Healthy
+361,Technology,Public,Speculative,No,4.4,107,1.67,1.74,3.4,13.96,-19.06275136267116,0.201,10.87,Watch
+362,Technology,Private,Investment Grade,,1.6,206,2.7,0.86,-0.05,-10.47,12.8240708556723,-0.039,11.76,Healthy
+363,Retail,Public,Speculative,No,11.6,277,3.62,2.42,11.5,8.06,-11.385828335192368,0.351,11.4,Distressed
+364,Construction,Private,Speculative,,14.3,242,3.12,0.97,-3.99,-11.99,14.700315630772742,-0.014,9.35,Distressed
+365,Manufacturing,Private,Speculative,,4.1,412,3.99,1.77,7.14,5.37,15.102745525382458,0.147,15.37,Healthy
+366,Manufacturing,Private,Speculative,,23.8,316,0.93,1.33,7.59,12.77,2.5744721218551265,0.033,16.65,Healthy
+367,Technology,Private,Investment Grade,,12.1,344,1.24,1.03,9.06,-9.1,7.516462649299156,0.04,12.16,Distressed
+368,Technology,Public,Investment Grade,No,4.2,90,0.95,1.75,13.8,5.26,6.100442263165403,0.11,15.54,Healthy
+369,Manufacturing,Private,Investment Grade,,6.3,895,2.61,2.01,1.17,-4.03,-13.061486584295867,0.232,15.71,Healthy
+370,Technology,Public,High Risk,No,6.1,472,3.03,0.99,5.1,-0.37,6.577674794958572,-0.028,14.32,Distressed
+371,Energy,Private,Investment Grade,,4.2,465,2.48,1.83,6.16,20.04,11.697799807134203,0.149,14.2,Healthy
+372,Construction,Private,Investment Grade,,11.0,272,1.01,1.53,-7.82,7.33,-4.304470934513951,0.052,14.0,Healthy
+373,Retail,Private,High Risk,,16.9,331,0.16,2.0,5.21,-16.83,12.236030382440184,0.175,17.15,Healthy
+374,Technology,Private,High Risk,,20.6,90,0.86,1.22,10.07,-13.99,13.594642836644045,0.042,14.95,Healthy
+375,Energy,Private,Investment Grade,,3.7,686,1.03,2.46,6.62,1.08,,0.225,11.94,Healthy
+376,Retail,Public,Investment Grade,No,13.4,213,2.53,2.29,7.48,6.16,18.47271733061348,0.246,15.43,Healthy
+377,Energy,Private,Investment Grade,,5.8,447,0.8,1.19,2.5,3.44,19.591392245983812,0.003,12.44,Healthy
+378,Technology,Private,Investment Grade,,5.6,358,0.94,1.71,0.7,-9.53,2.3567448217082427,0.104,11.53,Watch
+379,Manufacturing,Private,Speculative,,23.5,224,0.59,2.27,7.59,10.72,19.2916582318997,0.198,15.38,Healthy
+380,Retail,Public,Speculative,No,15.0,502,1.32,0.92,-3.82,20.58,3.8277389867424976,-0.035,13.02,Healthy
+381,Manufacturing,Public,Investment Grade,No,4.2,188,1.01,1.14,2.86,5.34,7.342330558439344,0.065,10.94,Healthy
+382,Manufacturing,Private,Speculative,,12.9,62,1.55,1.75,15.25,15.69,1.23897612513204,0.132,16.14,Healthy
+383,Retail,Private,Investment Grade,,4.6,283,1.48,1.54,2.56,15.33,,0.081,13.6,Healthy
+384,Manufacturing,Private,Investment Grade,,7.6,96,0.6,1.88,13.34,18.61,7.961505501021896,0.106,13.32,Healthy
+385,Construction,Public,Speculative,No,6.5,61,0.62,2.5,3.51,21.42,16.13458186294457,0.263,18.46,Healthy
+386,Manufacturing,Private,Speculative,,13.6,316,1.0,2.61,2.92,3.99,,0.313,8.32,Healthy
+387,Manufacturing,Public,Investment Grade,No,5.1,120,1.34,0.28,0.17,3.16,6.42011868270937,-0.09,16.09,Healthy
+388,Energy,Private,Investment Grade,,20.9,247,0.3,1.43,11.65,-5.69,17.141810017186003,0.023,12.64,Healthy
+389,Construction,Private,Investment Grade,,9.8,126,1.93,2.37,12.38,1.88,6.736658870415425,0.249,12.72,Healthy
+390,Construction,Private,Investment Grade,,11.1,252,0.88,0.1,8.36,4.34,11.246467378928328,-0.15,10.27,Healthy
+391,Construction,Public,High Risk,No,7.4,76,0.95,0.6,11.85,-13.43,12.785106994758465,-0.09,12.4,Watch
+392,Manufacturing,Private,Investment Grade,,9.6,110,2.74,3.6,4.14,14.73,3.4771225022110466,0.6,13.26,Healthy
+393,Technology,Private,Investment Grade,,6.2,558,0.79,2.61,9.87,-1.05,15.772342049714354,0.298,12.71,Healthy
+394,Energy,Public,Speculative,No,31.5,596,0.68,1.61,6.72,7.94,13.11637631619298,0.058,13.46,Healthy
+395,Energy,Private,Speculative,,19.3,120,1.63,1.04,1.1,16.23,11.979227734276657,-0.011,15.04,Healthy
+396,Manufacturing,Private,High Risk,,1.4,397,2.68,2.43,12.61,4.05,,0.16,14.31,Healthy
+397,Construction,Public,Speculative,No,5.3,176,0.25,1.66,3.45,7.7,-1.6344206174567555,0.183,14.92,Healthy
+398,Energy,Private,High Risk,,17.0,96,2.72,0.74,0.02,15.66,6.292736341879682,-0.026,14.56,Watch
+399,Technology,Private,Investment Grade,,10.9,225,0.52,0.83,20.82,-7.55,-0.037281017504326996,-0.052,13.91,Healthy
+400,Manufacturing,Private,Speculative,,21.4,187,2.57,1.62,5.55,-13.28,-0.7116376317767008,0.076,10.92,Healthy
+401,Construction,Public,High Risk,No,1.2,620,3.57,2.18,4.67,-2.03,12.9084812500456,0.301,14.63,Watch
+402,Manufacturing,Public,High Risk,No,10.8,78,1.32,2.17,-7.47,-0.24,14.236157359659114,0.203,12.57,Distressed
+403,Technology,Private,Investment Grade,,6.0,277,0.92,1.49,2.66,6.15,-3.9543815110708884,0.148,13.45,Healthy
+404,Technology,Private,High Risk,,8.1,239,2.49,1.61,7.64,-3.39,2.045552083923848,0.155,13.89,Healthy
+405,Energy,Public,Speculative,No,12.7,355,0.85,1.3,-5.03,4.3,9.917778189475635,0.015,15.78,Watch
+406,Manufacturing,Private,Investment Grade,,10.0,210,1.86,2.51,5.57,-0.16,4.579212329880975,0.457,14.91,Distressed
+407,Manufacturing,Public,Investment Grade,No,14.2,279,0.28,1.22,8.14,8.18,11.783838126926199,0.045,12.15,Healthy
+408,Construction,Public,Investment Grade,No,7.6,114,4.8,1.66,4.58,4.85,1.8762839254697132,0.136,11.6,Healthy
+409,Manufacturing,Public,Speculative,Yes,14.3,147,2.59,2.03,5.07,-2.49,11.065939201851931,0.225,13.73,Healthy
+410,Manufacturing,Private,Investment Grade,,12.4,119,0.68,1.59,0.05,15.18,-1.8689778379699629,0.089,14.5,Healthy
+411,Technology,Private,Investment Grade,,9.2,315,1.29,1.21,-0.39,1.49,4.446973173214902,0.035,14.06,Distressed
+412,Energy,Public,Investment Grade,No,11.0,101,1.33,1.89,14.74,19.15,14.686762477101082,0.124,14.84,Healthy
+413,Energy,Private,High Risk,,8.6,33,0.29,0.75,4.37,9.59,,-0.04,14.04,Watch
+414,Manufacturing,Public,Investment Grade,No,12.4,268,0.34,2.58,-3.57,12.98,5.573065172327666,0.301,14.2,Healthy
+415,Manufacturing,Private,Speculative,,8.1,400,0.42,2.63,11.28,2.87,-0.4575712628299442,0.222,13.9,Healthy
+416,Construction,Private,High Risk,,10.0,218,0.57,2.58,16.6,-1.87,-0.6365309582046264,0.244,13.8,Healthy
+417,Manufacturing,Private,Speculative,,22.9,209,0.65,1.88,3.95,-4.18,0.9190749816480475,0.192,16.08,Healthy
+418,Energy,Private,Investment Grade,,8.9,186,0.4,2.19,2.71,-3.79,2.099865217569971,0.272,14.23,Healthy
+419,Manufacturing,Private,Investment Grade,,23.8,514,0.97,0.72,-1.75,-1.71,19.217503061289904,0.033,15.93,Watch
+420,Manufacturing,Private,Speculative,,11.7,13,2.96,2.83,7.02,5.02,22.315126689126455,0.192,13.07,Healthy
+421,Technology,Private,High Risk,,7.6,171,1.03,1.17,-3.39,-0.35,13.665664187334839,-0.03,15.0,Watch
+422,Retail,Private,Investment Grade,,4.6,387,3.11,2.45,12.43,-21.38,22.14958418518552,0.158,13.07,Healthy
+423,Technology,Private,Investment Grade,,3.3,204,1.04,1.67,0.67,1.77,1.6214849789890264,0.094,13.09,Healthy
+424,Technology,Public,Investment Grade,No,1.8,314,0.55,1.65,6.85,8.09,14.029824246818807,0.193,14.25,Healthy
+425,Construction,Public,Speculative,No,16.7,206,0.59,2.22,-0.23,8.06,-3.2967596729565543,0.184,14.89,Watch
+426,Technology,Public,Investment Grade,No,18.9,232,1.73,3.28,3.03,3.32,19.565524635205666,0.34,13.92,Healthy
+427,Energy,Private,Investment Grade,,12.1,469,0.72,2.3,6.73,12.27,11.398917016394348,0.236,16.57,Healthy
+428,Technology,Public,Speculative,No,10.5,645,1.05,1.79,9.69,7.3,18.16617912246665,0.126,11.49,Healthy
+429,Manufacturing,Private,Speculative,,8.8,238,0.61,1.02,1.66,6.98,-3.546137117608424,-0.005,7.96,Healthy
+430,Technology,Private,Speculative,,5.8,584,0.98,1.07,6.16,3.44,,0.022,15.35,Healthy
+431,Retail,Private,Investment Grade,,14.0,267,1.07,2.29,1.15,14.01,8.4624098570846,0.227,12.8,Watch
+432,Retail,Private,Investment Grade,,17.6,359,0.38,1.55,10.14,-4.15,10.29346180444973,0.139,14.77,Healthy
+433,Retail,Public,Investment Grade,No,8.4,702,1.76,0.68,7.7,-5.4,,-0.024,17.89,Watch
+434,Construction,Private,Speculative,,3.6,588,2.22,0.99,3.48,1.2,0.6687257311408423,0.026,17.82,Distressed
+435,Retail,Public,High Risk,No,1.0,209,2.46,0.96,-4.63,12.58,6.149470606676598,0.009,14.83,Watch
+436,Construction,Private,Investment Grade,,9.1,398,1.01,1.93,5.14,-3.09,11.744488836434314,0.248,16.39,Healthy
+437,Construction,Public,Speculative,Yes,7.8,120,1.65,0.9,10.05,1.55,9.031832819552498,-0.019,13.77,Healthy
+438,Retail,Private,High Risk,,16.5,406,0.8,1.71,0.05,1.38,16.523074571890756,0.131,13.1,Healthy
+439,Retail,Private,Speculative,,12.0,148,1.06,1.67,3.24,-3.13,3.243215060027635,0.112,17.83,Healthy
+440,Technology,Private,Investment Grade,,5.1,184,2.61,1.61,2.56,-2.61,0.3219337605653365,0.187,14.15,Healthy
+441,Construction,Private,Investment Grade,,41.8,219,0.28,1.12,0.01,16.34,-1.5109407917022724,-0.012,13.4,Healthy
+442,Manufacturing,Public,High Risk,No,37.3,326,1.0,1.02,10.61,-4.65,10.982964153041081,-0.041,14.42,Healthy
+443,Energy,Public,Speculative,No,6.9,118,0.85,2.27,-3.27,3.4,6.392832384810837,0.41,12.77,Healthy
+444,Manufacturing,Private,Speculative,,9.0,187,0.49,2.29,-2.88,19.58,2.9031757681457555,0.121,12.92,Healthy
+445,Construction,Private,Investment Grade,,3.1,137,1.46,2.43,-2.02,12.51,6.9075193513484825,0.188,14.32,Watch
+446,Retail,Public,Speculative,No,3.2,638,1.37,0.86,2.44,8.05,14.495272196995282,-0.035,9.51,Watch
+447,Retail,Public,Investment Grade,No,6.9,315,0.26,1.37,9.48,0.4,-2.287921256730483,0.066,12.78,Healthy
+448,Manufacturing,Private,Investment Grade,,8.8,941,1.62,1.59,-0.23,5.65,-8.062635530988372,-0.04,13.11,Watch
+449,Construction,Public,Investment Grade,No,4.6,173,0.99,0.48,7.12,8.3,23.84287210800054,-0.09,13.11,Healthy
+450,Manufacturing,Private,Speculative,,8.7,390,2.9,0.64,12.27,-12.21,10.91874284062921,-0.056,13.42,Watch
+451,Construction,Private,Investment Grade,,6.3,217,2.11,1.0,9.16,9.79,13.078102058693567,0.038,14.58,Healthy
+452,Technology,Private,Investment Grade,,2.7,172,0.24,2.39,-5.05,7.85,,0.26,15.09,Healthy
+453,Technology,Private,Investment Grade,,4.0,437,1.47,1.37,2.3,-3.53,10.976301881556882,0.041,13.26,Healthy
+454,Retail,Private,Investment Grade,,0.9,310,0.38,1.0,-1.37,10.36,10.973569132961076,-0.041,12.97,Watch
+455,Manufacturing,Private,Speculative,,16.6,591,1.71,2.5,0.32,-8.55,-2.0118781257333485,0.302,14.51,Healthy
+456,Manufacturing,Private,Investment Grade,,23.3,95,2.68,1.25,6.45,-0.24,1.758180549644023,-0.012,13.63,Healthy
+457,Construction,Private,High Risk,,4.9,249,0.95,1.58,1.8,-4.28,10.861065118869934,0.052,14.46,Watch
+458,Technology,Public,Speculative,No,5.5,358,1.27,2.36,11.69,-5.93,5.234147217572573,0.259,16.52,Healthy
+459,Energy,Private,Investment Grade,,14.8,458,0.72,2.18,1.52,10.32,1.3815419856963516,0.223,15.76,Healthy
+460,Construction,Public,Investment Grade,Yes,7.4,430,1.29,3.27,15.49,3.21,13.435363951799788,0.52,14.11,Healthy
+461,Technology,Private,High Risk,,8.6,612,0.43,0.63,9.72,-10.58,10.489669380534895,-0.042,14.87,Watch
+462,Retail,Private,Speculative,,19.5,1018,1.08,2.14,3.71,-2.41,10.55775073421458,0.185,12.66,Healthy
+463,Construction,Private,Speculative,,3.3,92,0.44,1.78,7.64,5.98,-0.7343750422436583,0.198,15.65,Distressed
+464,Construction,Private,High Risk,,8.6,350,0.61,1.72,10.49,10.11,11.100977758194457,0.029,14.3,Healthy
+465,Energy,Private,Investment Grade,,15.5,446,0.71,1.84,1.91,0.34,12.117069191517889,0.165,13.71,Healthy
+466,Energy,Public,Investment Grade,No,6.2,111,0.95,0.1,-3.66,3.97,-4.276965341745056,-0.155,13.91,Distressed
+467,Technology,Private,High Risk,,9.6,496,0.28,1.68,4.55,12.49,-4.6324731074746754,0.248,12.34,Healthy
+468,Retail,Private,Investment Grade,,11.1,936,1.41,0.4,4.24,20.46,8.527487995135008,-0.133,13.16,Healthy
+469,Retail,Private,High Risk,,29.2,198,0.63,1.74,9.06,18.01,14.258016020358518,0.077,12.99,Healthy
+470,Technology,Public,Investment Grade,No,2.4,265,2.17,0.79,19.56,9.88,18.180968215717453,-0.052,12.62,Healthy
+471,Construction,Private,High Risk,,11.1,732,0.88,1.69,5.76,3.06,4.560579761000864,0.137,16.6,Watch
+472,Manufacturing,Private,Investment Grade,,32.9,331,1.77,2.3,9.82,28.62,9.67132659285409,0.21,13.36,Healthy
+473,Manufacturing,Private,Investment Grade,,8.3,159,0.83,0.89,7.12,14.74,10.791734180921686,-0.077,10.06,Healthy
+474,Manufacturing,Private,Speculative,,5.9,259,0.23,1.14,4.97,-4.02,8.399064864767352,0.071,13.62,Healthy
+475,Retail,Private,Investment Grade,,0.5,131,1.53,2.14,0.79,0.38,-20.445121310738568,0.096,12.51,Distressed
+476,Energy,Public,Speculative,Yes,5.6,679,0.91,2.33,-1.76,11.75,8.777885803175701,0.16,10.37,Healthy
+477,Retail,Private,Investment Grade,,11.0,182,1.68,1.53,10.49,-3.49,16.351293484455386,0.112,9.91,Healthy
+478,Retail,Public,Investment Grade,No,8.6,402,0.96,1.39,4.63,4.13,10.154589286767129,0.076,15.29,Healthy
+479,Manufacturing,Private,Investment Grade,,2.2,225,2.55,0.1,11.12,14.34,19.62498733379588,-0.119,16.63,Healthy
+480,Technology,Private,Investment Grade,,6.3,103,2.19,1.42,7.13,17.65,-20.040223985568538,0.121,15.38,Healthy
+481,Construction,Private,Investment Grade,,10.9,192,1.7,1.55,6.14,9.38,24.207499588308888,0.022,19.74,Healthy
+482,Manufacturing,Private,Investment Grade,,22.7,214,1.36,1.87,-7.44,13.53,9.601453072060483,0.163,15.89,Healthy
+483,Manufacturing,Private,Investment Grade,,17.3,402,3.57,1.66,4.63,-5.18,7.842877623059726,0.164,14.67,Healthy
+484,Technology,Private,Speculative,,29.7,236,0.67,0.82,2.56,13.38,19.529194317990992,-0.034,15.01,Healthy
+485,Manufacturing,Public,Investment Grade,No,5.7,207,0.81,0.42,-3.14,3.32,11.47901992688367,-0.16,11.87,Watch
+486,Retail,Private,Investment Grade,,7.9,69,1.47,0.1,16.78,15.23,13.401990360469707,-0.154,11.06,Healthy
+487,Energy,Private,Speculative,,3.4,156,0.89,0.55,6.36,8.83,4.498866592823394,-0.127,11.14,Distressed
+488,Energy,Private,Speculative,,22.7,162,2.0,2.14,0.08,3.78,10.75792354418195,0.276,12.43,Healthy
+489,Retail,Private,Speculative,,15.5,42,1.15,0.56,8.18,7.29,8.491800833605724,-0.048,18.37,Healthy
+490,Retail,Private,Speculative,,22.7,612,2.3,2.69,7.3,17.1,21.353170118548693,0.271,13.13,Healthy
+491,Retail,Private,Speculative,,4.1,134,1.17,1.89,-0.13,-6.7,,0.179,12.1,Watch
+492,Retail,Public,Speculative,No,38.1,194,1.39,1.44,10.47,15.45,9.748210396663268,0.109,15.55,Healthy
+493,Energy,Private,Speculative,,9.8,505,3.76,1.25,7.69,1.49,5.325670647863277,0.035,8.03,Distressed
+494,Retail,Private,Speculative,,18.5,53,0.53,2.44,-0.73,6.99,11.159266928914269,0.265,13.21,Healthy
+495,Energy,Private,Speculative,,6.1,35,0.72,2.62,11.68,2.11,14.258413954105135,0.248,11.95,Healthy
+496,Retail,Private,Investment Grade,,28.1,494,2.81,2.32,0.5,12.15,1.7130242399409994,0.148,10.82,Healthy
+497,Construction,Private,High Risk,,2.7,105,1.95,1.83,17.04,6.6,12.284349746624871,0.117,16.85,Healthy
+498,Construction,Private,Investment Grade,,12.0,438,0.2,0.72,10.32,-12.49,8.151985988374204,-0.026,12.11,Healthy
+499,Construction,Private,Speculative,,10.9,69,0.99,1.83,-1.15,21.84,18.04045619816639,0.189,12.18,Healthy
+500,Construction,Private,Investment Grade,,19.9,292,0.42,1.57,3.24,-0.55,17.230395142827273,0.095,14.34,Healthy
+501,Energy,Private,Investment Grade,,1.3,201,0.93,0.9,2.34,1.86,12.08881778340735,-0.051,11.6,Healthy
+502,Energy,Public,High Risk,No,4.3,202,0.59,1.15,3.37,-2.39,-2.6029696044040413,0.003,12.23,Watch
+503,Manufacturing,Public,Investment Grade,No,4.7,501,0.53,1.01,9.88,7.89,7.112585873974399,0.067,13.13,Healthy
+504,Construction,Private,Speculative,,6.8,600,0.41,0.48,3.11,-4.74,2.662753446970531,-0.059,14.18,Watch
+505,Retail,Private,Investment Grade,,5.1,577,0.8,1.53,7.3,13.28,0.3541709045534134,0.07,12.01,Healthy
+506,Retail,Private,Speculative,,17.4,1291,0.77,1.64,9.28,10.84,2.9596192096130944,0.137,13.58,Healthy
+507,Manufacturing,Private,Investment Grade,,20.1,495,1.32,3.03,4.08,9.24,,0.29,9.14,Healthy
+508,Manufacturing,Private,High Risk,,2.6,340,1.02,1.22,2.81,10.08,13.38599848809427,0.079,14.43,Healthy
+509,Construction,Public,Speculative,No,5.7,48,0.86,1.5,1.26,-3.31,14.658172315975964,0.096,14.76,Healthy
+510,Construction,Public,Investment Grade,No,10.0,205,1.02,1.13,-3.15,-16.93,,0.052,12.7,Distressed
+511,Retail,Private,Speculative,,3.5,674,2.46,2.08,4.22,-10.47,2.119039734451006,0.186,13.19,Watch
+512,Energy,Private,Investment Grade,,13.8,66,1.04,1.11,-1.6,3.98,-4.387639722520376,0.023,14.07,Distressed
+513,Technology,Private,Speculative,,3.4,450,0.53,1.69,21.95,14.41,6.581022982764572,0.068,14.17,Healthy
+514,Construction,Public,Speculative,No,13.4,183,0.74,2.26,11.79,-0.74,-11.606050176204768,0.154,8.81,Watch
+515,Retail,Public,Investment Grade,No,6.6,77,0.75,2.35,-8.77,-5.38,7.444517304279111,0.206,13.42,Distressed
+516,Construction,Public,Investment Grade,No,5.5,7,1.37,2.74,-3.16,23.97,-8.86119271982497,0.334,12.21,Healthy
+517,Technology,Public,Speculative,No,13.3,47,0.94,0.68,-0.81,8.32,15.271273089629943,-0.015,15.2,Watch
+518,Energy,Private,Investment Grade,,7.4,51,1.0,2.22,-1.57,-9.25,12.905820596253953,0.156,14.04,Watch
+519,Technology,Private,Speculative,,16.4,363,0.58,1.23,1.34,-5.33,7.617297157075409,0.018,16.33,Watch
+520,Retail,Private,Investment Grade,,2.9,494,0.64,1.85,4.93,1.68,4.166202679612468,0.191,15.44,Healthy
+521,Retail,Public,Speculative,No,4.0,651,0.54,1.23,1.64,8.16,-6.355819650160397,0.096,11.87,Watch
+522,Technology,Private,High Risk,,7.3,166,1.05,2.47,11.17,1.81,9.389554768044249,0.431,16.34,Healthy
+523,Technology,Private,Investment Grade,,7.8,151,1.29,0.64,-2.62,12.33,9.871379292238549,-0.053,13.57,Watch
+524,Manufacturing,Private,High Risk,,7.6,335,1.66,1.73,-3.56,9.95,20.87804877545225,0.047,13.94,Healthy
+525,Retail,Private,Speculative,,29.8,102,0.33,3.07,12.24,4.43,-1.642098575824968,0.271,9.78,Healthy
+526,Construction,Private,High Risk,,25.8,1026,3.38,2.11,6.59,5.13,5.604006573153886,0.14,16.44,Distressed
+527,Construction,Public,Investment Grade,No,10.9,46,1.1,1.83,8.02,6.37,-10.505524277199388,0.16,15.88,Healthy
+528,Technology,Private,High Risk,,12.6,294,0.93,1.08,4.03,3.94,-0.5281184706307727,0.005,13.39,Healthy
+529,Technology,Public,Investment Grade,Yes,21.6,41,1.52,1.78,12.15,0.47,1.2660697540391483,0.09,11.42,Healthy
+530,Energy,Private,High Risk,,4.8,145,2.4,0.52,8.73,13.3,1.2056759931704564,-0.082,13.64,Watch
+531,Retail,Private,Speculative,,3.1,77,2.35,0.1,12.75,1.95,,-0.141,15.01,Healthy
+532,Energy,Private,Speculative,,4.1,294,0.3,2.03,5.32,27.29,10.572637448406635,0.299,17.89,Healthy
+533,Retail,Private,Investment Grade,,11.0,58,1.02,2.28,8.9,7.19,-0.08839347406932863,0.364,13.68,Watch
+534,Retail,Public,High Risk,No,13.3,431,1.3,1.18,0.5,3.18,-2.517116022686869,0.057,13.02,Watch
+535,Retail,Public,Speculative,No,10.5,506,0.79,3.09,10.38,-12.1,-7.68269992826993,0.512,9.61,Healthy
+536,Technology,Public,Investment Grade,No,13.0,184,0.7,1.02,3.85,-5.02,-0.10224364931027097,-0.016,15.77,Watch
+537,Energy,Private,Speculative,,6.2,417,0.53,2.13,13.59,4.56,,0.257,11.11,Healthy
+538,Technology,Private,Investment Grade,,26.1,35,1.69,1.58,6.68,0.08,2.8673722659523206,0.04,10.27,Healthy
+539,Construction,Public,Speculative,No,0.5,346,0.77,0.57,10.22,8.46,-8.000320035705373,-0.124,16.05,Healthy
+540,Retail,Private,Investment Grade,,15.4,338,0.53,1.57,4.67,2.92,-3.5244980696657713,0.06,17.53,Healthy
+541,Technology,Public,High Risk,No,6.2,570,4.79,0.35,12.97,4.15,-0.4294574471113499,-0.061,12.95,Watch
+542,Construction,Private,Investment Grade,,7.9,258,0.61,1.67,3.42,-4.3,22.71432065919506,0.12,12.9,Healthy
+543,Construction,Public,Speculative,No,29.0,173,1.01,2.0,-4.0,-6.64,8.361119930658031,0.086,15.62,Watch
+544,Manufacturing,Private,Speculative,,8.6,115,1.73,2.12,2.65,-7.83,6.938521985949379,0.169,10.76,Healthy
+545,Construction,Private,High Risk,,6.2,448,0.79,1.36,3.71,5.83,12.178775871232325,0.14,13.9,Healthy
+546,Construction,Private,Speculative,,18.2,438,1.08,2.06,5.2,2.31,5.012978416405085,0.142,12.43,Watch
+547,Manufacturing,Private,Investment Grade,,2.8,189,3.91,1.36,4.83,0.22,-12.3637611337256,0.107,10.86,Healthy
+548,Construction,Public,Speculative,No,5.6,94,0.12,1.25,6.93,4.06,7.174574651699084,0.124,12.75,Healthy
+549,Technology,Public,Speculative,No,2.5,145,3.03,0.1,2.06,-1.67,-2.3687070474761143,-0.127,11.6,Distressed
+550,Technology,Public,Investment Grade,No,5.9,518,0.65,0.8,4.98,15.83,5.63381964714275,-0.005,14.16,Healthy
+551,Energy,Private,Investment Grade,,20.7,368,2.8,1.18,11.58,-7.79,-6.350950837688192,0.051,11.35,Distressed
+552,Manufacturing,Public,Investment Grade,No,7.8,397,2.51,1.62,3.36,4.02,16.07300691893682,0.068,10.09,Healthy
+553,Manufacturing,Private,Speculative,,8.1,78,0.47,0.1,3.76,-6.69,2.2114826737091215,-0.177,15.93,Watch
+554,Construction,Private,Speculative,,20.4,677,2.15,0.78,5.9,5.35,2.638414912257561,-0.071,16.01,Watch
+555,Manufacturing,Private,High Risk,,1.4,964,1.45,0.67,8.34,9.61,-10.281419968379115,-0.08,15.44,Watch
+556,Technology,Private,Investment Grade,,9.9,204,1.96,2.41,-0.37,9.6,7.232467086896628,0.154,14.98,Watch
+557,Energy,Private,High Risk,,4.9,439,0.57,2.41,0.69,2.59,9.145830199177006,0.247,13.12,Healthy
+558,Construction,Private,Speculative,,9.3,518,2.36,2.01,7.98,5.59,24.465289575066006,0.148,17.11,Healthy
+559,Energy,Public,High Risk,No,11.2,149,0.56,0.38,0.95,6.92,15.088725517428404,-0.095,9.93,Healthy
+560,Construction,Private,Investment Grade,,11.6,744,2.62,2.33,-3.45,12.52,6.809517166953783,0.253,12.38,Watch
+561,Technology,Private,Investment Grade,,1.4,237,0.44,0.15,7.12,14.5,16.59689563109371,-0.142,11.54,Healthy
+562,Manufacturing,Private,Investment Grade,,11.1,473,2.35,2.54,-0.81,-7.05,3.301687776509111,0.116,12.22,Healthy
+563,Retail,Private,High Risk,,6.2,300,3.43,1.3,-2.24,7.24,,-0.001,10.2,Watch
+564,Manufacturing,Private,Investment Grade,,6.3,376,0.69,0.79,8.41,-0.48,17.715777170094597,-0.041,15.18,Watch
+565,Construction,Private,Speculative,,11.3,862,0.25,2.57,5.96,9.77,6.672232693549585,0.168,12.43,Healthy
+566,Construction,Private,Investment Grade,,13.6,161,1.69,0.7,5.56,5.93,15.687231728291804,-0.08,13.21,Watch
+567,Technology,Private,Speculative,,8.2,315,1.14,0.93,5.32,14.54,20.824186025270855,-0.027,16.07,Healthy
+568,Energy,Private,Investment Grade,,12.1,78,0.11,0.1,-4.69,11.5,0.7115572179903324,-0.137,15.41,Healthy
+569,Energy,Private,High Risk,,17.0,349,0.91,1.38,1.61,7.55,-0.991858338783957,0.065,13.39,Distressed
+570,Technology,Private,Investment Grade,,5.5,146,1.02,2.57,-7.0,7.1,,0.294,12.49,Healthy
+571,Technology,Private,Investment Grade,,29.1,843,1.31,1.69,13.72,14.96,17.694191911568456,0.107,15.33,Healthy
+572,Retail,Public,High Risk,No,5.7,169,1.33,1.4,0.46,16.45,-7.18194613526733,0.1,12.16,Watch
+573,Manufacturing,Private,Speculative,,10.7,704,0.3,0.99,1.9,8.4,15.658993435964117,-0.03,15.39,Healthy
+574,Construction,Public,Investment Grade,Yes,28.7,189,0.7,1.45,8.19,1.81,6.879126790167529,0.058,11.52,Healthy
+575,Retail,Public,Speculative,No,5.0,922,0.83,0.93,2.94,6.0,14.490095415662676,-0.013,16.3,Healthy
+576,Technology,Public,Investment Grade,No,18.1,100,1.12,2.36,-1.42,26.67,0.667834272118327,0.173,14.92,Healthy
+577,Manufacturing,Private,Speculative,,11.7,304,0.63,2.17,8.1,-1.53,5.1124304229035396,0.179,16.4,Healthy
+578,Technology,Private,Investment Grade,,8.5,269,1.82,0.54,3.39,7.48,8.949459223535214,-0.079,12.36,Watch
+579,Manufacturing,Private,Speculative,,2.7,507,1.84,1.0,-0.61,11.65,-7.830016225963373,-0.011,13.96,Distressed
+580,Energy,Private,Investment Grade,,6.3,35,1.22,1.54,3.62,-0.27,10.79162493236361,0.069,13.72,Watch
+581,Technology,Private,Investment Grade,,6.5,260,2.01,3.23,-2.99,-1.01,20.43007075980863,0.455,12.83,Healthy
+582,Manufacturing,Public,Speculative,No,7.6,163,0.83,1.48,4.21,10.24,19.712638202626607,0.147,13.92,Healthy
+583,Technology,Public,Speculative,No,4.8,168,0.57,1.32,8.34,-6.09,-4.329368573934227,0.081,12.42,Watch
+584,Technology,Public,Investment Grade,Yes,3.2,385,3.21,0.58,2.82,8.63,18.754977108947273,-0.083,14.53,Healthy
+585,Manufacturing,Public,Investment Grade,No,11.1,247,0.29,3.13,4.4,5.24,10.14349210842457,0.276,15.25,Healthy
+586,Energy,Private,Investment Grade,,16.6,616,0.96,0.85,5.05,-3.38,20.58115352029482,-0.006,14.82,Healthy
+587,Retail,Private,Speculative,,22.2,359,1.51,2.56,-4.58,17.29,1.2714062502553372,0.263,11.63,Healthy
+588,Retail,Private,High Risk,,17.7,265,2.19,1.15,4.71,-7.8,6.7568170020159375,0.009,13.03,Healthy
+589,Manufacturing,Public,Investment Grade,No,22.8,439,0.56,2.36,6.95,3.09,11.68405222882396,0.288,15.23,Healthy
+590,Construction,Private,Speculative,,11.1,98,2.16,0.1,-6.62,1.61,11.339875123011701,-0.154,13.58,Healthy
+591,Retail,Private,Speculative,,15.9,378,0.15,2.07,2.85,3.31,-5.000937284036123,0.115,13.33,Healthy
+592,Manufacturing,Private,Speculative,,5.0,166,1.49,2.62,-7.4,-7.65,-2.9608661598033024,0.263,17.21,Distressed
+593,Manufacturing,Private,Speculative,,6.6,495,2.39,1.13,6.91,0.45,8.231390866776156,0.01,13.59,Healthy
+594,Technology,Private,Investment Grade,,18.3,296,0.25,2.42,8.82,0.85,-0.976010845647366,0.179,11.78,Healthy
+595,Construction,Public,Speculative,Yes,11.7,197,1.74,1.37,2.62,-8.59,16.697899965367597,0.107,12.72,Healthy
+596,Technology,Private,Investment Grade,,24.7,311,1.54,2.39,3.07,-3.07,8.296284187392082,0.164,16.96,Watch
+597,Technology,Private,Speculative,,14.0,449,0.55,2.24,1.66,2.89,14.205842933873559,0.16,13.38,Healthy
+598,Retail,Public,Investment Grade,No,7.3,248,0.83,2.4,6.3,4.99,8.943119580999157,0.249,11.77,Healthy
+599,Retail,Private,Investment Grade,,19.2,635,2.3,1.08,6.32,-5.35,4.102967375433195,0.034,14.13,Healthy
+600,Retail,Private,Speculative,,2.4,301,2.16,1.52,8.75,-2.41,8.939288581281813,0.057,14.48,Watch
+601,Manufacturing,Private,Investment Grade,,11.0,202,1.87,1.98,2.68,2.93,9.259102295038302,0.158,14.51,Healthy
+602,Technology,Public,Investment Grade,Yes,11.6,97,1.39,2.12,20.18,-5.51,0.6357174208201197,0.148,12.1,Healthy
+603,Technology,Public,Speculative,No,28.4,408,2.28,2.04,1.09,2.94,6.951565643647182,0.268,15.38,Watch
+604,Energy,Public,Investment Grade,No,8.9,121,1.58,2.8,11.25,14.58,21.02806641515891,0.473,10.92,Healthy
+605,Construction,Public,Investment Grade,Yes,17.3,5,0.23,1.99,8.39,10.21,16.29617850542811,0.158,13.04,Healthy
+606,Technology,Private,Investment Grade,,11.6,76,1.92,2.28,4.2,17.04,32.55188566781237,0.323,13.11,Healthy
+607,Manufacturing,Private,Speculative,,15.1,619,0.18,0.1,7.31,1.11,-1.0599688130303466,-0.194,13.52,Healthy
+608,Retail,Private,Speculative,,7.5,134,0.42,1.7,4.01,-1.35,-6.667012254726176,0.099,11.34,Healthy
+609,Retail,Public,Speculative,No,9.4,254,1.66,3.23,9.68,15.34,13.861483311925621,0.384,15.75,Healthy
+610,Retail,Private,Speculative,,6.3,217,0.78,1.59,7.03,-7.52,19.062646588146528,0.052,11.46,Healthy
+611,Technology,Private,Investment Grade,,8.9,154,0.53,2.26,-5.52,-3.64,14.749409813018744,0.147,9.74,Healthy
+612,Technology,Private,Investment Grade,,10.7,299,0.85,1.98,5.85,9.39,0.9871738129310748,0.194,15.55,Healthy
+613,Construction,Private,Investment Grade,,5.3,150,2.81,1.09,2.3,-4.69,12.488583164511866,-0.053,14.34,Distressed
+614,Construction,Public,Speculative,No,2.9,269,0.39,1.47,6.79,6.51,-7.787795145498995,0.103,13.98,Healthy
+615,Retail,Private,High Risk,,19.7,900,1.22,0.36,3.42,-11.67,-8.414748082309663,-0.076,12.08,Distressed
+616,Manufacturing,Private,Investment Grade,,13.5,35,1.91,0.1,6.95,-19.27,3.873860157454987,-0.089,17.9,Watch
+617,Technology,Private,Investment Grade,,6.0,883,1.0,1.47,8.44,9.63,10.969203044520754,0.112,11.11,Healthy
+618,Construction,Private,Speculative,,19.9,511,1.09,1.18,7.0,-0.17,6.560089712562059,0.08,11.86,Healthy
+619,Manufacturing,Private,Investment Grade,,28.1,306,3.31,1.93,3.22,-10.79,20.577683667800642,0.068,10.5,Distressed
+620,Energy,Private,High Risk,,10.4,49,0.13,2.27,4.73,6.43,-6.608873300424394,0.125,14.42,Healthy
+621,Retail,Private,Speculative,,23.5,292,2.87,2.06,0.28,13.2,13.3528201654523,0.182,10.38,Distressed
+622,Energy,Private,Investment Grade,,13.3,168,3.46,1.19,7.19,9.66,4.128406547271227,-0.012,13.05,Watch
+623,Technology,Private,High Risk,,4.1,244,0.18,1.64,7.99,29.42,17.100290992729228,0.039,14.21,Healthy
+624,Manufacturing,Public,Investment Grade,No,3.7,926,0.67,3.39,9.01,-4.05,7.21160021832925,0.426,15.94,Healthy
+625,Construction,Private,High Risk,,13.3,139,1.84,1.9,11.0,3.29,2.7524559065289322,0.002,13.47,Healthy
+626,Construction,Private,Speculative,,12.1,288,0.55,2.1,10.96,12.74,2.1759548632779797,0.074,13.11,Healthy
+627,Manufacturing,Private,Investment Grade,,11.0,109,3.82,0.91,5.79,-9.13,-14.9669732777989,-0.011,11.4,Watch
+628,Technology,Private,Investment Grade,,1.6,335,0.73,1.52,3.66,-3.62,-3.5983388834830006,0.078,13.32,Healthy
+629,Manufacturing,Public,Speculative,No,12.9,728,0.11,1.2,2.18,2.13,,0.028,12.77,Healthy
+630,Energy,Private,High Risk,,13.6,423,1.64,2.09,1.26,2.75,-10.837859662031303,0.121,15.06,Distressed
+631,Construction,Public,High Risk,No,8.4,226,0.79,2.96,4.43,15.2,4.3244163674119,0.543,12.69,Healthy
+632,Manufacturing,Public,Speculative,No,19.5,255,3.17,2.38,11.17,6.94,-5.246079344840403,0.395,15.48,Healthy
+633,Energy,Private,Speculative,,14.3,189,0.67,0.98,-0.5,4.65,5.857728968814058,0.052,13.1,Healthy
+634,Technology,Private,High Risk,,15.2,245,1.29,2.4,0.32,12.79,11.010741798602925,0.34,14.3,Healthy
+635,Manufacturing,Private,Investment Grade,,14.3,341,1.64,2.2,5.73,2.75,,0.271,15.71,Healthy
+636,Energy,Public,Investment Grade,Yes,20.4,157,0.39,1.36,8.71,8.9,-4.872781978472489,0.026,13.16,Healthy
+637,Energy,Public,High Risk,No,4.2,844,1.36,3.18,-2.81,14.51,5.06905349233736,0.519,18.15,Distressed
+638,Retail,Private,Investment Grade,,4.0,534,0.66,2.09,-3.81,1.68,8.116455045387694,0.155,15.22,Healthy
+639,Manufacturing,Public,Investment Grade,No,5.1,51,0.36,0.9,2.66,1.82,5.427738297181308,-0.0,13.38,Watch
+640,Retail,Public,Investment Grade,No,8.5,88,0.98,1.96,13.29,-4.75,16.97860804614996,0.173,13.09,Healthy
+641,Manufacturing,Public,Investment Grade,No,30.1,701,0.66,2.88,2.58,10.05,-14.236904150418312,0.385,16.99,Healthy
+642,Energy,Public,Investment Grade,No,10.3,397,1.13,2.06,8.9,1.62,7.854612333141848,0.082,10.95,Healthy
+643,Technology,Private,Investment Grade,,11.2,36,1.2,2.61,-2.74,-21.08,34.50609531985198,0.049,12.11,Healthy
+644,Manufacturing,Private,Speculative,,13.4,174,1.73,2.09,2.79,11.67,1.787638471853871,0.225,17.27,Healthy
+645,Retail,Private,Speculative,,8.8,130,1.0,1.01,5.47,11.77,4.503386274575119,-0.006,15.23,Watch
+646,Energy,Private,Investment Grade,,11.8,62,0.8,1.64,12.83,-14.03,,0.108,11.73,Healthy
+647,Construction,Private,Investment Grade,,4.8,40,0.35,2.4,15.67,9.73,11.52748950214675,0.183,11.16,Healthy
+648,Retail,Private,Investment Grade,,28.2,438,0.67,0.1,10.17,23.4,3.5911836120360525,-0.117,14.91,Healthy
+649,Retail,Private,Investment Grade,,5.4,218,0.6,1.92,-5.25,-0.58,15.628515508153255,0.137,12.05,Healthy
+650,Energy,Private,Investment Grade,,6.4,538,0.89,2.5,-7.56,1.31,-1.1935843474373344,0.284,11.99,Healthy
+651,Technology,Public,Investment Grade,No,4.9,322,0.81,1.05,-3.43,-2.66,-3.6218180023043427,0.017,11.85,Distressed
+652,Energy,Private,Speculative,,21.2,350,1.06,1.09,1.3,4.74,14.724845350986376,-0.026,13.12,Watch
+653,Retail,Public,Investment Grade,No,12.7,144,1.05,2.84,4.53,4.88,7.603371081492611,0.157,13.42,Healthy
+654,Manufacturing,Private,Speculative,,10.2,406,0.15,2.42,0.04,5.91,10.274950104506088,0.315,14.81,Healthy
+655,Construction,Private,Speculative,,8.3,398,0.18,1.04,3.64,20.48,3.526040693722168,-0.031,13.04,Healthy
+656,Retail,Private,Investment Grade,,14.6,181,3.93,2.04,2.32,18.25,8.009074188369539,0.172,10.25,Healthy
+657,Manufacturing,Private,High Risk,,14.0,97,3.47,1.21,6.7,0.75,7.553244474841069,0.027,12.49,Healthy
+658,Retail,Private,Investment Grade,,6.6,261,1.18,1.38,0.71,11.12,1.5322509235961599,0.027,11.93,Watch
+659,Manufacturing,Private,High Risk,,28.2,656,0.93,2.05,1.14,5.95,7.412873224809042,0.101,14.89,Watch
+660,Technology,Private,Speculative,,13.3,145,0.7,0.76,5.03,3.03,-4.412220803500695,-0.05,11.34,Healthy
+661,Retail,Private,High Risk,,20.2,36,2.43,2.2,1.94,12.79,14.36319613995852,0.302,11.36,Healthy
+662,Construction,Private,Investment Grade,,3.9,235,1.53,2.64,5.74,14.19,-5.646729095807938,0.214,14.54,Healthy
+663,Manufacturing,Private,Speculative,,8.6,316,1.39,2.75,-1.68,25.89,12.436793606474055,0.285,13.16,Healthy
+664,Construction,Private,Investment Grade,,17.2,353,1.37,1.47,7.67,-10.86,-3.1970881428136586,0.159,13.67,Watch
+665,Technology,Public,Investment Grade,No,11.0,57,0.76,1.53,1.79,5.62,-3.657303552200604,0.074,14.92,Watch
+666,Manufacturing,Private,Investment Grade,,11.1,1051,4.2,1.21,2.33,6.62,-17.103256796469893,0.037,10.55,Watch
+667,Construction,Private,Investment Grade,,11.9,84,2.08,2.81,9.37,7.93,-3.3534546591965224,0.23,19.08,Watch
+668,Manufacturing,Public,Investment Grade,No,15.1,195,0.38,1.07,-4.44,8.74,9.344080208033734,-0.026,14.29,Healthy
+669,Energy,Private,High Risk,,5.5,604,1.6,0.67,4.11,-6.37,5.812662673386308,-0.022,13.69,Watch
+670,Construction,Public,Speculative,No,5.4,299,0.61,0.1,-1.46,2.99,16.238881632367615,-0.193,12.45,Healthy
+671,Construction,Private,Speculative,,8.9,65,1.24,0.49,-6.47,5.69,10.011797696461278,-0.142,15.3,Watch
+672,Construction,Private,High Risk,,15.1,298,1.0,1.9,4.12,10.11,22.525906090713743,0.144,15.69,Healthy
+673,Technology,Public,High Risk,No,7.0,132,0.14,1.56,-4.07,3.91,-11.467587093384964,0.119,12.2,Distressed
+674,Technology,Private,Speculative,,8.2,411,2.35,1.65,2.23,-6.7,,0.16,13.39,Healthy
+675,Technology,Private,Investment Grade,,8.2,248,2.13,0.44,6.88,-1.37,1.1991886212521905,-0.128,9.67,Healthy
+676,Manufacturing,Public,High Risk,No,26.8,505,0.72,1.95,8.04,-3.3,4.072432364385485,0.152,13.58,Healthy
+677,Retail,Public,High Risk,No,6.1,194,0.82,2.3,8.81,1.68,8.968621059379394,0.272,15.33,Healthy
+678,Manufacturing,Private,Investment Grade,,18.6,197,0.67,1.64,0.17,-6.22,1.6809794881014826,0.163,12.25,Healthy
+679,Energy,Private,Speculative,,3.7,131,2.01,1.42,-0.23,-5.61,18.25297283121445,0.079,13.14,Watch
+680,Technology,Private,Investment Grade,,12.2,111,0.25,2.14,3.84,9.74,1.4459397663605875,0.234,15.14,Healthy
+681,Construction,Public,Speculative,No,12.2,198,0.8,1.87,0.54,-3.4,-0.35393875073468806,0.077,14.87,Watch
+682,Construction,Private,Investment Grade,,3.8,311,0.33,2.14,5.45,9.49,18.150564328052237,0.248,11.79,Healthy
+683,Technology,Public,High Risk,No,29.1,318,2.06,1.92,10.31,6.32,-6.765074010582104,0.114,13.73,Watch
+684,Manufacturing,Private,Investment Grade,,6.5,355,1.02,2.35,6.98,-1.9,5.780138008600148,0.308,15.42,Healthy
+685,Retail,Private,Speculative,,9.9,285,0.49,1.88,8.86,6.11,-10.065868973817,0.174,16.47,Watch
+686,Construction,Private,Investment Grade,,8.8,92,0.27,1.24,10.7,22.5,24.53370835146172,0.06,13.48,Healthy
+687,Retail,Public,Speculative,No,1.8,265,0.33,0.67,-2.55,-6.75,14.44582406002964,-0.079,13.04,Healthy
+688,Manufacturing,Private,Investment Grade,,2.3,213,1.91,1.5,7.63,14.35,4.950672757716293,0.104,14.87,Healthy
+689,Energy,Public,Investment Grade,No,17.1,139,2.26,1.01,0.95,12.57,29.681040814187625,-0.021,15.78,Healthy
+690,Energy,Private,High Risk,,15.4,79,1.56,1.34,7.07,5.71,10.99141727140266,0.117,15.59,Watch
+691,Energy,Private,High Risk,,2.1,475,0.75,1.49,5.25,-9.66,6.1577198744082375,0.03,13.45,Healthy
+692,Retail,Private,Investment Grade,,5.9,208,2.09,0.71,0.33,-23.45,2.056623526247266,-0.085,13.9,Distressed
+693,Construction,Private,Speculative,,23.2,251,1.98,1.35,10.44,-8.26,15.307458864371268,0.0,16.33,Watch
+694,Retail,Private,Speculative,,13.1,138,1.49,1.72,6.59,-5.13,7.452299557890726,0.085,11.49,Healthy
+695,Manufacturing,Private,Investment Grade,,13.3,129,1.17,0.89,17.82,8.88,-10.612690536761189,0.003,12.43,Healthy
+696,Technology,Private,Investment Grade,,16.7,1736,1.72,1.89,7.97,14.59,2.3659285955230214,0.15,11.39,Healthy
+697,Construction,Private,Investment Grade,,5.3,174,2.75,1.97,3.86,-2.99,14.139531539106986,0.131,12.94,Watch
+698,Technology,Private,Speculative,,6.2,30,0.98,1.36,6.92,-0.45,-1.4069533279768338,0.072,14.77,Healthy
+699,Energy,Public,Investment Grade,Yes,12.3,681,0.62,1.06,10.07,4.98,-0.5937120127068178,0.028,12.09,Healthy
+700,Construction,Private,Speculative,,17.5,1420,1.06,0.89,5.98,4.69,-2.4150124139765463,-0.015,12.79,Healthy
+701,Energy,Public,Investment Grade,No,33.7,1127,2.12,2.5,5.7,-7.11,7.5916441736191445,0.339,8.08,Healthy
+702,Retail,Public,Investment Grade,No,22.8,329,1.99,1.15,12.33,3.09,11.720417252102674,-0.002,12.99,Healthy
+703,Retail,Public,Speculative,No,7.6,355,0.51,1.89,-2.04,2.97,13.855905476848658,0.138,17.4,Healthy
+704,Technology,Private,High Risk,,4.4,162,1.3,0.2,8.86,-12.83,,-0.126,13.62,Distressed
+705,Technology,Private,Speculative,,3.9,199,0.57,0.15,7.2,5.35,5.3027144278130915,-0.178,15.71,Healthy
+706,Technology,Private,Investment Grade,,31.1,117,0.73,1.09,0.33,-8.35,-3.2746800785568055,0.059,14.23,Watch
+707,Construction,Private,Investment Grade,,41.5,192,1.42,2.23,-5.58,-11.95,5.702835658380632,0.171,14.58,Watch
+708,Construction,Private,High Risk,,17.0,586,0.47,2.67,8.99,13.1,-4.267866914084495,0.24,11.82,Healthy
+709,Construction,Private,Speculative,,11.1,241,0.55,1.29,3.12,1.09,4.951276317041188,0.069,13.81,Healthy
+710,Retail,Private,Investment Grade,,16.1,622,1.29,0.78,1.89,2.78,4.694614632683342,-0.01,16.98,Healthy
+711,Manufacturing,Private,Speculative,,20.4,466,1.26,0.71,4.98,-4.6,10.870754402704025,0.009,13.4,Watch
+712,Manufacturing,Private,Investment Grade,,22.5,91,1.11,1.32,4.05,9.05,2.3679363629085253,0.076,15.22,Healthy
+713,Construction,Private,Speculative,,1.1,114,0.97,1.5,0.74,0.99,-0.9865013729490402,0.118,14.67,Watch
+714,Energy,Private,Investment Grade,,16.3,362,0.86,1.94,7.48,7.75,8.642653480269884,0.164,16.4,Healthy
+715,Construction,Private,Speculative,,14.3,64,3.97,1.93,11.35,6.06,5.886068351479859,0.194,12.38,Healthy
+716,Manufacturing,Private,Speculative,,9.3,574,1.18,1.97,4.76,16.37,15.243957297717865,0.17,15.47,Healthy
+717,Technology,Private,Investment Grade,,7.7,263,0.36,0.78,2.69,12.93,2.1861863150118577,-0.048,15.6,Watch
+718,Energy,Private,Speculative,,3.7,182,0.24,2.03,20.89,-4.67,-4.456872335327592,0.208,13.09,Healthy
+719,Construction,Public,Investment Grade,No,3.0,245,2.34,1.86,2.22,5.09,6.240502702854908,0.169,14.19,Healthy
+720,Manufacturing,Private,Investment Grade,,12.2,214,0.95,0.99,12.88,2.58,9.738549436480458,0.041,13.33,Healthy
+721,Construction,Private,High Risk,,17.7,216,0.69,2.21,2.06,11.69,8.49516369671991,0.23,12.33,Healthy
+722,Construction,Private,High Risk,,9.7,79,2.33,1.05,-1.76,2.53,7.822915891656118,-0.019,12.09,Healthy
+723,Retail,Private,High Risk,,18.9,129,1.02,2.17,-5.85,3.95,-0.4155191960875886,0.249,14.13,Distressed
+724,Construction,Private,Investment Grade,,69.4,217,1.95,2.19,8.48,-1.48,12.160068110030448,0.088,11.41,Healthy
+725,Energy,Private,Investment Grade,,11.3,289,1.14,1.88,-4.93,15.85,-5.093619412315334,0.169,12.31,Watch
+726,Construction,Private,Investment Grade,,27.1,780,0.7,2.05,1.45,-4.57,5.6368854050363915,0.277,16.51,Healthy
+727,Technology,Public,High Risk,No,3.9,719,1.4,1.58,14.54,13.32,12.60541477266841,0.143,13.12,Healthy
+728,Retail,Private,Speculative,,6.2,441,0.79,2.53,1.89,16.79,1.8842563962876602,0.332,13.0,Watch
+729,Energy,Private,Speculative,,10.7,164,1.07,0.79,5.77,9.1,14.658038544438384,-0.034,17.11,Healthy
+730,Energy,Private,Speculative,,19.1,217,0.58,1.72,5.32,25.38,-1.5307789074075089,0.18,13.89,Healthy
+731,Retail,Public,Speculative,No,24.6,82,2.36,1.76,-1.64,2.67,-8.403626537216827,0.087,14.46,Distressed
+732,Technology,Private,Speculative,,23.1,63,0.64,2.97,7.13,2.78,4.62893442404692,0.336,14.2,Healthy
+733,Technology,Private,Investment Grade,,11.3,186,0.61,1.72,3.68,-1.18,5.0648279561813565,0.06,16.14,Watch
+734,Construction,Private,Speculative,,1.0,591,0.81,1.76,4.85,-0.33,3.151776490164057,0.039,16.29,Healthy
+735,Construction,Private,Speculative,,5.7,443,1.2,1.41,9.99,21.65,16.13911345983667,0.06,15.25,Healthy
+736,Manufacturing,Private,High Risk,,22.7,519,2.24,0.86,-3.07,13.51,-1.5620434030860837,-0.039,12.3,Distressed
+737,Energy,Private,High Risk,,17.1,322,0.3,1.2,10.57,6.83,0.8661757059042499,0.03,14.99,Healthy
+738,Construction,Private,High Risk,,12.4,649,1.37,2.47,-3.7,-22.44,-1.8457847542702437,0.307,10.5,Distressed
+739,Manufacturing,Public,Speculative,No,17.0,364,1.53,1.67,10.19,-14.02,4.083546084207542,0.136,12.84,Healthy
+740,Manufacturing,Private,Investment Grade,,2.3,41,3.78,0.64,2.02,7.53,7.979377078501238,-0.065,14.64,Watch
+741,Retail,Private,Speculative,,20.8,388,0.06,2.79,-4.36,-5.25,-0.18255204461898344,0.239,8.98,Watch
+742,Retail,Private,High Risk,,3.4,141,1.72,2.28,9.51,4.67,5.908091283394232,0.208,14.34,Healthy
+743,Manufacturing,Public,Speculative,No,28.0,584,0.35,2.67,7.94,6.38,1.0828259540994702,0.302,12.37,Healthy
+744,Manufacturing,Private,Speculative,,6.2,659,2.35,1.25,-6.65,7.47,-1.0760397040018193,0.064,14.26,Distressed
+745,Manufacturing,Private,Speculative,,18.2,455,1.41,1.28,-5.62,14.15,1.173782978762219,0.026,13.72,Watch
+746,Technology,Private,High Risk,,25.6,1279,0.85,2.14,1.29,13.35,-1.257270319138466,0.141,13.98,Healthy
+747,Retail,Private,Investment Grade,,10.0,308,0.92,2.24,10.82,16.85,2.7401585924033283,0.224,15.25,Healthy
+748,Manufacturing,Private,High Risk,,5.1,419,0.67,2.49,1.8,-5.43,4.580406051876555,0.228,13.55,Healthy
+749,Technology,Private,Investment Grade,,27.5,172,1.22,1.79,2.65,-8.64,-15.777603301645378,0.111,11.28,Watch
+750,Energy,Private,Investment Grade,,0.5,441,1.99,0.71,-0.46,-8.82,6.8428720321544185,-0.067,14.5,Distressed
+751,Retail,Public,Speculative,No,27.6,100,1.98,2.26,-1.21,17.39,-8.828558626382943,0.343,14.91,Watch
+752,Energy,Public,Speculative,No,1.7,139,0.86,1.65,7.08,1.79,3.9283049108949033,0.061,14.25,Healthy
+753,Energy,Private,High Risk,,6.7,57,1.27,1.03,14.71,14.49,,-0.011,15.03,Healthy
+754,Manufacturing,Public,Speculative,No,3.8,128,2.2,1.41,3.31,-6.95,37.515585013189764,0.099,14.99,Healthy
+755,Construction,Private,Investment Grade,,8.3,162,2.29,1.7,2.39,8.88,4.550372953425415,0.01,11.99,Watch
+756,Technology,Public,High Risk,No,10.4,157,0.92,1.86,11.73,-12.26,10.460754258574756,0.198,9.9,Healthy
+757,Manufacturing,Public,Investment Grade,No,10.6,460,0.47,1.63,3.71,-0.41,1.6360920771730125,0.17,12.28,Healthy
+758,Retail,Private,Investment Grade,,8.3,226,0.43,2.55,11.92,7.14,1.441569607966704,0.351,12.52,Healthy
+759,Construction,Public,Speculative,No,44.0,776,1.29,1.32,3.86,13.2,-5.421095132825018,0.037,8.44,Watch
+760,Construction,Public,Investment Grade,No,5.9,264,1.24,0.34,5.91,23.38,11.728633722583247,-0.064,12.51,Healthy
+761,Energy,Private,Investment Grade,,2.0,812,0.16,1.36,5.65,-2.11,14.710708906013613,0.115,17.58,Healthy
+762,Retail,Private,Investment Grade,,24.3,195,0.65,1.06,0.53,6.35,-2.818623613377559,0.039,13.08,Healthy
+763,Construction,Private,Speculative,,16.1,102,0.78,0.8,5.43,4.32,0.33792973931611314,-0.031,13.04,Distressed
+764,Technology,Private,Investment Grade,,7.5,139,0.37,3.03,7.01,-8.09,0.4802317905116045,0.536,14.67,Healthy
+765,Manufacturing,Private,Speculative,,11.4,381,0.8,0.36,0.75,8.28,14.112131485838296,-0.108,13.08,Healthy
+766,Retail,Public,Investment Grade,No,11.7,95,0.21,2.35,-3.03,16.58,-11.543500644190445,0.252,16.27,Healthy
+767,Technology,Private,Speculative,,24.4,208,0.87,0.88,9.99,9.49,8.144464396746246,-0.047,8.07,Healthy
+768,Manufacturing,Private,Investment Grade,,7.8,467,1.59,0.73,6.97,3.7,0.5111695373774605,-0.025,14.21,Healthy
+769,Retail,Private,Speculative,,8.5,187,1.18,1.95,6.61,5.38,,0.093,11.39,Healthy
+770,Manufacturing,Public,High Risk,Yes,15.7,245,1.55,0.95,2.65,-1.67,5.214254963082199,0.045,13.9,Healthy
+771,Energy,Public,High Risk,No,14.3,107,2.3,1.09,5.17,13.81,9.148995217501078,-0.023,14.64,Healthy
+772,Manufacturing,Public,Speculative,No,7.4,55,1.91,1.39,7.53,13.72,2.8507178358318344,0.098,11.53,Healthy
+773,Technology,Private,Investment Grade,,13.9,320,0.51,1.91,-1.2,13.02,16.041896214688485,0.135,15.44,Healthy
+774,Technology,Private,Speculative,,17.0,125,1.27,0.93,1.05,0.18,-0.18136729691908382,0.001,11.1,Distressed
+775,Construction,Private,High Risk,,10.3,107,2.05,1.13,5.28,-2.35,1.456628646954747,0.075,16.92,Healthy
+776,Energy,Private,Investment Grade,,5.8,124,2.41,2.35,8.89,3.44,,0.149,15.22,Healthy
+777,Construction,Private,High Risk,,2.6,63,1.25,2.45,2.17,-12.41,5.738939581555016,0.335,12.71,Healthy
+778,Manufacturing,Private,Investment Grade,,5.1,146,1.87,1.86,3.21,3.77,-2.9035635897501404,0.19,14.64,Healthy
+779,Retail,Public,High Risk,No,6.5,161,0.53,0.67,-2.84,13.46,17.067552781115413,-0.013,16.71,Watch
+780,Manufacturing,Private,High Risk,,31.9,383,0.31,1.51,2.06,13.17,,0.082,13.28,Healthy
+781,Manufacturing,Private,Speculative,,28.4,294,0.65,1.18,4.29,-2.93,,-0.006,12.46,Healthy
+782,Manufacturing,Private,Speculative,,21.0,234,2.2,1.68,3.03,-17.01,,0.119,11.86,Distressed
+783,Manufacturing,Private,Investment Grade,,9.1,489,0.76,1.35,-3.42,-2.5,31.653128913924643,0.084,12.65,Healthy
+784,Manufacturing,Private,Investment Grade,,21.7,498,1.74,2.04,-3.09,5.96,-2.1675733453795747,0.243,14.01,Healthy
+785,Retail,Private,Investment Grade,,19.1,58,0.76,3.26,15.42,-3.85,-0.9008200229030701,0.269,11.83,Healthy
+786,Retail,Private,Speculative,,11.8,810,1.59,2.02,17.67,3.79,-2.561558984280623,0.165,15.05,Healthy
+787,Retail,Private,Speculative,,39.7,60,0.62,2.31,-1.58,17.91,-4.4686622500176565,0.154,16.24,Healthy
+788,Manufacturing,Private,Investment Grade,,10.9,362,3.96,1.97,3.04,9.32,1.77487924753619,0.211,13.57,Healthy
+789,Construction,Private,Investment Grade,,19.5,238,1.03,0.93,8.95,19.42,2.4443009196316767,0.006,14.14,Healthy
+790,Manufacturing,Private,High Risk,,14.0,120,0.5,2.07,9.03,2.42,6.009900567160438,0.284,14.89,Watch
+791,Retail,Private,High Risk,,3.5,9,1.65,1.69,8.09,8.78,1.8852271367381412,0.095,9.79,Healthy
+792,Manufacturing,Private,High Risk,,8.7,130,0.23,1.11,10.76,-16.18,11.229732467215015,0.013,12.46,Healthy
+793,Manufacturing,Private,Speculative,,13.4,251,2.52,2.78,1.86,-8.11,-8.644515489184407,0.314,12.05,Watch
+794,Technology,Private,Investment Grade,,26.6,130,1.4,1.33,2.16,-6.34,5.87814614618838,0.063,15.26,Healthy
+795,Energy,Private,Speculative,,5.6,393,1.57,0.63,5.91,12.72,-2.7899752261220883,-0.093,13.83,Watch
+796,Energy,Private,Investment Grade,,10.1,656,2.03,0.92,12.7,22.59,1.6264548208203742,0.024,13.22,Watch
+797,Construction,Public,Speculative,Yes,9.6,93,2.23,2.5,9.98,10.29,2.140164720551054,0.305,13.9,Healthy
+798,Manufacturing,Private,Investment Grade,,21.1,547,2.01,1.78,4.93,6.91,-2.287184761741443,0.076,13.54,Healthy
+799,Construction,Private,Investment Grade,,26.2,271,3.48,1.51,1.75,-8.69,-10.9683577410188,0.062,7.83,Watch
+800,Retail,Private,High Risk,,8.3,347,0.22,1.39,15.45,-5.5,-1.7001882977212848,0.082,12.23,Healthy
+801,Technology,Private,Speculative,,3.4,71,2.22,1.43,5.02,4.5,12.649490562892098,0.037,14.93,Healthy
+802,Retail,Private,Investment Grade,,5.7,65,1.91,2.53,1.89,-0.06,-2.189817966831839,0.29,11.46,Healthy
+803,Retail,Private,Investment Grade,,3.1,362,1.16,1.48,0.86,-7.17,11.274554605658375,0.106,12.97,Watch
+804,Energy,Private,Investment Grade,,26.8,566,0.59,2.32,5.51,6.94,-1.584816448334812,0.351,12.28,Healthy
+805,Manufacturing,Public,Investment Grade,No,6.3,148,0.92,2.59,2.51,-15.75,8.731456168332237,0.05,16.24,Healthy
+806,Retail,Public,Speculative,No,4.9,308,1.12,1.44,4.0,-0.87,5.163793161072549,0.102,9.98,Healthy
+807,Retail,Public,Investment Grade,No,7.1,141,0.22,1.64,15.96,6.95,8.527625864411624,0.129,11.83,Healthy
+808,Manufacturing,Private,Speculative,,16.6,70,2.6,2.59,4.73,5.71,13.534072017897339,0.32,12.23,Healthy
+809,Manufacturing,Private,Speculative,,4.9,371,0.88,2.83,3.98,6.13,,0.141,11.76,Healthy
+810,Technology,Private,Investment Grade,,46.5,130,0.99,0.94,6.08,3.96,,-0.028,15.25,Healthy
+811,Construction,Private,Speculative,,8.2,10,2.77,0.1,7.17,-11.24,-3.4621035922551595,-0.068,10.91,Distressed
+812,Technology,Private,Investment Grade,,15.1,594,1.51,1.72,0.27,-8.67,-2.330521288779062,0.049,14.89,Watch
+813,Technology,Private,Investment Grade,,14.6,168,2.9,2.29,10.59,7.63,23.9821163497235,0.29,13.25,Healthy
+814,Manufacturing,Public,High Risk,No,5.1,194,0.18,1.11,7.08,-4.99,20.43029954035161,0.024,18.11,Healthy
+815,Technology,Public,Investment Grade,No,13.6,228,0.48,1.07,-1.67,9.16,5.646363941546534,0.065,15.49,Healthy
+816,Manufacturing,Private,Investment Grade,,4.3,170,1.09,1.65,22.77,9.13,13.532654669133002,0.181,14.43,Healthy
+817,Technology,Public,High Risk,No,7.1,219,0.47,0.24,1.68,14.31,13.594508929519602,-0.167,11.98,Healthy
+818,Technology,Public,Investment Grade,No,13.4,288,4.32,2.31,8.95,15.51,-0.9425495841820819,0.153,11.64,Healthy
+819,Energy,Private,High Risk,,22.4,233,0.98,2.01,-2.52,7.6,-1.609153467082761,0.151,13.29,Watch
+820,Energy,Public,Investment Grade,No,4.6,570,1.24,0.97,2.94,10.93,6.800422945108542,-0.017,14.28,Watch
+821,Construction,Private,Speculative,,2.1,58,0.87,0.98,-3.41,-14.81,2.6408016363062474,0.063,12.68,Distressed
+822,Manufacturing,Private,Investment Grade,,4.4,244,2.66,1.58,5.6,-4.61,6.158718574580094,0.084,14.98,Watch
+823,Retail,Private,Speculative,,2.4,133,2.51,0.19,5.15,-1.06,13.20477052641468,-0.162,13.01,Distressed
+824,Technology,Private,Investment Grade,,5.3,317,2.49,2.71,5.31,-4.91,,0.289,13.76,Healthy
+825,Construction,Private,High Risk,,7.1,242,1.33,2.33,1.1,3.43,11.084596731334367,0.285,11.76,Healthy
+826,Technology,Private,Investment Grade,,14.2,371,0.8,2.28,3.24,8.94,26.60251219383071,0.454,13.46,Healthy
+827,Technology,Private,Investment Grade,,2.4,31,0.61,2.04,3.82,-8.5,-1.1072625826779836,0.199,14.1,Watch
+828,Retail,Private,Investment Grade,,7.8,331,1.33,2.43,10.19,-0.82,-2.363155745002741,0.305,12.73,Healthy
+829,Construction,Private,Investment Grade,,6.0,462,0.54,1.14,9.13,3.9,6.67251649840728,-0.037,11.96,Healthy
+830,Energy,Public,Investment Grade,No,6.3,1099,1.84,2.77,-0.86,6.71,5.060735516947442,0.261,13.76,Healthy
+831,Technology,Private,Investment Grade,,21.5,245,3.75,1.01,2.45,8.09,15.901408941125043,0.023,14.3,Watch
+832,Construction,Private,Investment Grade,,4.4,202,0.16,0.47,4.69,8.16,23.623659095018684,-0.106,13.26,Healthy
+833,Construction,Private,High Risk,,22.5,255,1.75,0.1,-0.01,17.86,4.18718021636392,-0.152,12.98,Distressed
+834,Manufacturing,Public,Speculative,No,21.1,192,2.15,1.79,10.2,10.49,1.0672113613433991,0.134,12.56,Healthy
+835,Retail,Private,High Risk,,2.8,425,0.1,2.06,1.21,17.63,5.700980268147193,0.255,13.91,Healthy
+836,Manufacturing,Private,Investment Grade,,8.4,321,0.72,1.05,7.21,2.56,6.142047768571404,-0.009,16.31,Healthy
+837,Construction,Private,Speculative,,7.0,72,1.55,1.36,2.16,-0.94,-22.509476362835294,0.094,13.94,Distressed
+838,Construction,Private,Speculative,,16.0,405,1.39,2.21,9.63,15.03,-1.893343183505472,0.249,13.97,Healthy
+839,Manufacturing,Private,Investment Grade,,19.6,478,2.84,2.51,6.9,-3.06,11.770147003277582,0.281,12.77,Healthy
+840,Retail,Private,Investment Grade,,15.6,268,1.01,1.25,2.53,-6.23,0.541114757080142,0.039,14.23,Healthy
+841,Retail,Public,Speculative,No,16.4,155,0.11,1.23,3.19,-1.22,-3.6406169307782363,0.049,14.74,Healthy
+842,Retail,Private,Investment Grade,,6.8,699,0.59,2.78,-4.37,9.39,6.090990968160639,0.334,10.58,Healthy
+843,Manufacturing,Private,Investment Grade,,0.5,535,1.42,1.84,15.78,-9.83,21.76117982693765,0.145,10.83,Healthy
+844,Technology,Public,High Risk,No,18.9,212,1.12,0.51,5.22,8.68,9.061017145134006,-0.048,14.69,Watch
+845,Energy,Private,Speculative,,5.1,88,0.9,2.33,2.57,9.57,0.5921631839190029,0.236,16.55,Healthy
+846,Construction,Private,Investment Grade,,25.8,635,0.53,2.18,8.29,23.52,,0.178,15.11,Healthy
+847,Construction,Private,Investment Grade,,30.6,753,2.6,1.28,10.72,-15.04,-12.0990711095567,0.011,14.74,Distressed
+848,Manufacturing,Private,Speculative,,17.0,66,0.31,0.1,4.27,6.29,-7.789908708740986,-0.18,16.57,Watch
+849,Manufacturing,Private,Investment Grade,,11.7,144,1.02,1.91,2.34,8.93,22.814212321094608,0.137,12.66,Healthy
+850,Technology,Public,Investment Grade,No,17.2,232,1.93,1.42,5.15,4.0,0.5647486179820271,0.149,13.13,Healthy
+851,Technology,Private,High Risk,,16.4,126,1.27,2.07,10.22,0.04,0.3829719714502158,0.242,12.41,Healthy
+852,Construction,Private,Investment Grade,,16.7,379,2.43,0.75,3.94,17.33,15.476291091188545,-0.023,15.13,Healthy
+853,Manufacturing,Public,Investment Grade,No,30.6,243,1.75,2.19,5.25,10.57,3.758833541844533,0.133,13.73,Healthy
+854,Retail,Private,Speculative,,8.1,596,2.57,2.48,-0.58,-13.29,-8.978056347633098,0.18,12.82,Watch
+855,Energy,Public,Speculative,No,6.9,43,1.88,1.14,2.82,13.42,13.129085821889962,0.039,15.4,Healthy
+856,Construction,Private,Speculative,,18.9,22,0.53,1.07,4.49,12.45,0.9473630304142571,-0.013,12.65,Healthy
+857,Manufacturing,Private,Speculative,,16.4,555,0.36,1.77,8.17,6.74,-0.2970235808356536,0.122,15.76,Healthy
+858,Manufacturing,Private,High Risk,,13.3,252,3.79,0.63,-1.24,-3.64,-1.3557224489823518,-0.099,14.05,Distressed
+859,Energy,Private,Investment Grade,,7.6,389,1.69,1.97,0.01,-1.3,5.732038212621527,0.063,15.98,Healthy
+860,Construction,Private,Speculative,,4.4,280,1.06,2.94,11.7,6.78,12.33308758077738,0.176,8.04,Healthy
+861,Construction,Private,High Risk,,38.8,296,1.01,2.23,-0.67,3.99,0.6063119917568969,0.154,12.67,Distressed
+862,Manufacturing,Public,Speculative,No,20.7,343,0.59,2.58,3.03,3.92,3.118883077391973,0.26,15.83,Healthy
+863,Technology,Public,Investment Grade,No,13.2,300,0.83,1.2,3.26,2.71,4.4795343530585665,0.005,18.97,Healthy
+864,Retail,Private,High Risk,,11.5,287,0.82,1.28,-0.84,-6.63,13.008979794447795,0.037,11.62,Healthy
+865,Construction,Private,Investment Grade,,9.3,648,2.22,1.33,-9.77,-6.73,11.063080621008613,0.067,15.85,Distressed
+866,Construction,Private,Investment Grade,,18.6,508,2.17,0.6,6.84,12.23,-1.2630469678274139,-0.064,10.34,Healthy
+867,Manufacturing,Private,Investment Grade,,3.7,333,2.4,0.89,-2.88,15.58,8.380113310092923,-0.003,13.93,Healthy
+868,Technology,Private,Investment Grade,,2.7,201,1.0,1.96,9.56,-0.54,20.11190788678879,0.26,14.76,Healthy
+869,Manufacturing,Private,Speculative,,8.8,238,0.36,1.27,2.92,2.67,7.137958962739575,0.077,12.18,Healthy
+870,Retail,Private,Speculative,,11.3,88,3.01,1.21,5.49,12.06,2.5461605733849337,0.075,15.23,Healthy
+871,Energy,Public,Investment Grade,No,13.9,349,0.65,0.75,-3.98,-1.39,-7.813742168239488,-0.072,13.59,Healthy
+872,Manufacturing,Private,Investment Grade,,9.6,36,0.93,1.77,3.79,-3.66,7.7778155699193805,0.115,11.04,Healthy
+873,Manufacturing,Private,High Risk,,12.2,372,2.78,1.96,12.73,2.8,14.345867711210603,0.168,16.47,Watch
+874,Retail,Public,Speculative,No,9.3,247,1.65,1.7,7.56,-0.74,3.8849596054869444,0.207,14.67,Healthy
+875,Construction,Private,Speculative,,11.3,178,1.73,1.55,9.14,7.68,2.9984480600563765,0.158,13.05,Healthy
+876,Energy,Private,Investment Grade,,7.9,512,1.5,2.12,-3.56,-2.53,11.03162914013702,0.273,11.89,Healthy
+877,Energy,Private,Investment Grade,,6.1,272,0.92,1.58,7.82,7.84,15.468716635867988,0.083,14.15,Healthy
+878,Manufacturing,Private,Speculative,,20.1,367,0.3,1.36,0.19,-1.32,,0.117,13.76,Healthy
+879,Manufacturing,Private,Speculative,,7.0,272,0.85,1.98,7.48,3.02,-2.542325838633033,0.16,12.84,Distressed
+880,Technology,Private,Speculative,,3.9,377,1.01,2.84,11.77,-4.26,7.440358071463508,0.3,16.9,Healthy
+881,Construction,Private,High Risk,,7.1,1099,0.7,2.42,20.4,8.16,11.214134857689643,0.339,12.26,Healthy
+882,Energy,Private,High Risk,,8.7,96,0.87,1.2,10.72,2.8,-10.738737457153526,0.04,14.34,Distressed
+883,Construction,Private,Speculative,,9.8,456,0.97,0.82,-2.53,-2.7,,-0.001,13.75,Watch
+884,Retail,Private,Speculative,,53.0,136,0.25,2.1,6.74,-20.35,1.5286814622792697,0.234,15.47,Healthy
+885,Retail,Private,High Risk,,17.4,207,1.26,0.78,-4.84,16.37,22.803426726570564,-0.026,16.0,Watch
+886,Energy,Private,Speculative,,12.8,261,0.41,2.2,-1.15,-0.82,-6.915731827197298,0.428,11.14,Distressed
+887,Construction,Private,Investment Grade,,4.6,446,0.56,2.83,1.34,-9.77,18.224018374198877,0.358,12.78,Healthy
+888,Energy,Private,Speculative,,3.9,203,1.83,1.27,10.73,-3.97,2.1673799899638224,0.05,13.14,Watch
+889,Manufacturing,Public,Investment Grade,No,40.3,223,0.63,2.45,4.75,-1.43,11.820062203878635,0.256,13.72,Healthy
+890,Technology,Private,High Risk,,15.6,175,0.75,1.85,2.72,7.56,-10.02988365431927,0.192,13.71,Healthy
+891,Energy,Private,Speculative,,0.7,222,0.61,1.35,0.43,7.86,,0.09,13.53,Distressed
+892,Manufacturing,Public,High Risk,No,2.7,246,0.38,2.0,6.14,-7.52,-8.648193093111361,0.141,14.88,Watch
+893,Retail,Private,High Risk,,1.4,161,3.07,2.14,10.57,23.25,-6.91305201587077,0.129,9.35,Watch
+894,Retail,Private,Investment Grade,,4.8,267,0.16,2.09,3.87,11.42,19.262204535652984,0.253,12.88,Healthy
+895,Construction,Private,Speculative,,8.0,236,0.9,2.42,11.05,-4.11,-3.097682336632202,0.235,13.65,Healthy
+896,Retail,Private,Investment Grade,,10.6,386,1.39,2.27,-3.53,8.43,-0.681481160593326,0.145,11.79,Healthy
+897,Manufacturing,Public,High Risk,No,9.7,252,0.52,3.14,1.54,-10.87,,0.42,12.77,Healthy
+898,Manufacturing,Private,Investment Grade,,17.2,154,1.38,0.22,0.32,16.6,9.066002118229656,-0.172,11.11,Watch
+899,Retail,Private,Speculative,,12.1,188,0.63,1.15,1.28,5.6,12.645894347354597,-0.014,12.74,Watch
+900,Energy,Private,Investment Grade,,19.6,380,1.61,1.28,4.8,25.38,8.78926265282335,0.051,11.2,Healthy
+901,Technology,Private,Investment Grade,,12.0,284,1.98,1.67,10.92,17.33,3.348922552445644,0.093,12.95,Healthy
+902,Energy,Private,High Risk,,4.6,264,0.48,3.47,-1.97,7.62,9.07669975367634,0.524,11.79,Healthy
+903,Construction,Private,Speculative,,9.0,199,1.16,2.49,4.92,1.97,,0.119,13.87,Healthy
+904,Manufacturing,Public,Speculative,No,6.6,427,0.29,1.28,-1.8,2.3,9.077202827987627,0.084,14.0,Healthy
+905,Manufacturing,Private,Investment Grade,,5.3,267,0.77,1.54,-11.52,7.82,14.334884981208347,0.134,9.25,Watch
+906,Construction,Private,Investment Grade,,12.3,150,1.89,1.29,-1.15,-3.78,6.10478635954222,0.116,12.9,Distressed
+907,Technology,Private,Investment Grade,,12.3,338,2.44,0.23,7.55,-5.88,,-0.248,10.2,Distressed
+908,Retail,Public,Speculative,Yes,8.4,583,0.23,0.85,4.38,-8.33,12.535132927833848,-0.038,13.57,Healthy
+909,Manufacturing,Public,High Risk,No,4.3,198,0.46,0.56,2.75,14.3,21.371057405564617,-0.056,16.14,Healthy
+910,Technology,Private,Speculative,,8.6,48,0.53,1.34,1.33,-4.64,0.9961675341313985,0.044,12.97,Healthy
+911,Energy,Private,Speculative,,16.0,258,1.7,1.4,6.49,-1.3,12.160881626854113,0.046,11.78,Healthy
+912,Technology,Private,High Risk,,7.5,274,2.91,0.97,0.53,-2.38,13.417783108819165,-0.003,10.79,Watch
+913,Retail,Private,Speculative,,5.1,815,1.57,2.41,3.99,-0.69,-18.474915013356053,0.272,14.89,Distressed
+914,Energy,Private,High Risk,,9.3,367,0.83,1.98,6.5,-0.58,-2.055445294527088,0.208,7.61,Healthy
+915,Construction,Public,Investment Grade,No,20.7,61,0.23,2.11,-4.76,-8.05,10.265239253798827,0.081,15.65,Distressed
+916,Manufacturing,Public,High Risk,No,12.0,203,0.73,1.66,3.67,-3.19,11.182181217882967,0.025,13.82,Healthy
+917,Energy,Private,Investment Grade,,22.7,407,0.71,1.18,2.59,-3.44,9.221443629171535,-0.056,17.17,Healthy
+918,Technology,Private,Speculative,,16.6,361,0.32,1.13,10.58,9.9,12.717223782413303,-0.022,15.98,Healthy
+919,Retail,Private,Investment Grade,,1.4,483,0.51,2.01,6.14,5.15,-1.0595028888352083,0.181,7.76,Healthy
+920,Energy,Private,Speculative,,20.2,470,3.18,2.08,10.31,-0.09,4.5255103565066666,0.258,14.86,Healthy
+921,Energy,Public,High Risk,No,11.0,259,1.03,1.87,-3.75,10.58,,0.142,10.91,Healthy
+922,Energy,Private,Investment Grade,,18.6,362,0.98,2.06,-8.58,3.81,1.047099065783236,0.303,16.83,Healthy
+923,Construction,Private,Investment Grade,,2.2,521,0.75,0.33,4.58,13.19,15.06730262458409,-0.168,12.45,Healthy
+924,Retail,Private,Investment Grade,,12.5,111,2.76,1.58,11.63,7.0,-3.236459637989629,0.066,12.23,Watch
+925,Retail,Private,High Risk,,27.4,287,0.46,0.83,6.51,0.48,-2.0734149874223853,-0.022,14.02,Watch
+926,Construction,Private,Speculative,,5.8,527,3.19,3.28,2.28,4.3,9.751835499646905,0.522,15.77,Healthy
+927,Manufacturing,Private,Investment Grade,,16.9,55,2.8,0.46,6.54,17.49,17.540282754477204,-0.067,15.45,Healthy
+928,Manufacturing,Public,Speculative,No,9.8,198,0.48,0.17,2.77,11.69,-1.859858653879372,-0.08,15.79,Healthy
+929,Energy,Private,Speculative,,3.0,144,1.92,1.23,4.83,-1.98,25.021716518714562,0.028,15.48,Healthy
+930,Manufacturing,Private,High Risk,,1.4,667,1.96,1.97,1.07,8.59,3.649400872470454,0.159,14.52,Healthy
+931,Manufacturing,Private,Investment Grade,,8.2,144,1.27,2.29,5.84,11.41,8.253368948790387,0.222,15.03,Healthy
+932,Retail,Public,Investment Grade,No,12.2,355,0.2,1.52,-3.64,-10.39,8.178805334862663,0.078,10.55,Watch
+933,Technology,Public,High Risk,No,5.1,151,4.53,1.09,10.78,-2.61,-1.101440183522472,0.014,15.96,Distressed
+934,Manufacturing,Private,Speculative,,17.1,93,2.22,1.17,7.09,-9.49,15.164719424067494,0.02,11.86,Healthy
+935,Technology,Private,High Risk,,18.2,726,0.47,0.91,9.4,1.18,0.8197500167057719,0.006,12.59,Healthy
+936,Energy,Private,Speculative,,19.5,327,0.89,1.58,0.25,10.72,-0.6967400847607799,0.084,11.36,Healthy
+937,Retail,Private,Investment Grade,,10.0,170,2.09,1.63,4.13,8.35,17.875872910982977,0.075,15.55,Healthy
+938,Energy,Private,Investment Grade,,13.5,109,2.44,1.82,-8.56,2.47,11.398887543437212,0.094,16.74,Healthy
+939,Retail,Private,Speculative,,4.4,298,2.97,1.69,-2.21,-0.85,5.4083653310453474,0.093,12.5,Distressed
+940,Technology,Private,High Risk,,8.3,251,2.57,1.25,-0.48,-3.29,23.13927453238788,0.079,12.45,Watch
+941,Construction,Private,Speculative,,19.1,69,2.43,0.89,9.22,14.37,-14.272756007745112,-0.046,14.84,Healthy
+942,Construction,Private,Speculative,,17.0,242,0.41,1.78,2.99,-0.59,-1.9569158523023775,0.227,12.72,Healthy
+943,Retail,Public,High Risk,No,7.7,410,0.21,1.73,-1.52,3.44,4.939542102537724,0.112,13.57,Healthy
+944,Energy,Private,Speculative,,2.7,467,0.91,0.93,-2.37,2.64,-6.710197671335049,-0.025,15.59,Healthy
+945,Retail,Public,Speculative,No,50.6,116,2.06,0.7,1.52,23.98,-6.708983435991055,-0.017,8.33,Watch
+946,Manufacturing,Public,Investment Grade,No,13.6,148,0.1,0.1,9.87,9.38,-3.7264698322628327,-0.137,12.84,Healthy
+947,Retail,Private,Investment Grade,,41.5,89,0.18,2.56,5.18,2.64,13.745962621643823,0.223,14.97,Healthy
+948,Construction,Private,Speculative,,14.3,227,2.83,1.75,5.55,7.47,10.984324233510996,0.203,15.69,Watch
+949,Technology,Private,Investment Grade,,4.9,180,1.02,1.65,-0.57,-0.6,0.8682738513404349,0.167,13.3,Watch
+950,Energy,Private,Speculative,,26.9,521,0.82,0.98,-0.31,1.13,12.717197505846556,0.015,16.0,Healthy
+951,Retail,Public,Investment Grade,No,3.4,53,0.72,1.69,16.17,2.28,9.503496979716362,0.162,12.81,Healthy
+952,Technology,Private,Investment Grade,,16.2,369,0.94,1.6,6.57,16.68,3.2447643686702596,0.067,14.43,Healthy
+953,Technology,Private,Speculative,,29.2,177,1.85,1.76,2.33,2.48,13.636298768097308,0.115,12.56,Healthy
+954,Energy,Private,Investment Grade,,43.4,341,2.27,1.72,10.71,3.87,10.722694433435084,0.11,10.58,Healthy
+955,Energy,Private,High Risk,,1.8,256,0.83,2.18,3.58,12.13,1.449788516736577,0.072,12.95,Healthy
+956,Manufacturing,Private,Investment Grade,,14.9,210,2.47,1.67,10.1,11.33,8.862663873077578,0.165,15.36,Healthy
+957,Manufacturing,Private,Speculative,,13.0,110,1.9,2.58,1.84,9.21,8.527139689213104,0.339,15.61,Healthy
+958,Technology,Private,Investment Grade,,16.7,146,0.07,1.43,-2.05,3.08,10.765479077511184,0.084,12.64,Watch
+959,Retail,Private,Investment Grade,,33.8,255,1.01,1.66,4.43,1.67,30.18487226971076,0.089,11.69,Healthy
+960,Technology,Private,Speculative,,17.3,127,2.31,1.69,10.36,-5.01,8.580350633648045,0.133,11.31,Healthy
+961,Manufacturing,Private,Speculative,,4.4,282,1.01,1.85,14.48,3.81,10.679376793216203,0.267,14.52,Healthy
+962,Manufacturing,Private,Investment Grade,,1.9,303,1.11,0.73,8.15,10.25,6.039271388136583,-0.057,12.9,Healthy
+963,Construction,Private,Investment Grade,,11.4,385,0.84,1.81,0.77,19.55,8.66551303746437,0.145,12.37,Healthy
+964,Retail,Public,Speculative,No,14.9,25,3.08,1.1,4.62,8.27,,0.106,12.32,Distressed
+965,Manufacturing,Private,Speculative,,8.8,128,0.76,2.31,7.93,6.22,-0.6832675648557851,0.312,15.42,Watch
+966,Energy,Private,High Risk,,7.2,272,0.67,1.51,3.66,4.86,12.211159041859814,-0.003,12.22,Watch
+967,Retail,Public,Investment Grade,No,16.9,259,0.09,0.95,-2.78,-4.36,1.1248644370142706,-0.048,11.78,Watch
+968,Manufacturing,Private,Investment Grade,,24.1,388,3.75,1.63,-0.16,13.75,18.099254411570683,0.097,12.41,Healthy
+969,Manufacturing,Public,Investment Grade,No,1.9,378,0.86,1.61,8.34,15.89,8.447814138841045,0.087,13.72,Healthy
+970,Construction,Private,Investment Grade,,14.5,200,1.94,1.9,4.62,-3.5,-5.7642394821734015,0.168,14.28,Healthy
+971,Retail,Private,Speculative,,11.6,64,1.28,0.1,7.16,-5.38,-3.163869648386477,-0.13,12.91,Healthy
+972,Technology,Private,High Risk,,11.8,167,0.9,2.4,-2.85,5.57,9.476073384549784,0.362,15.34,Healthy
+973,Technology,Private,Speculative,,6.1,725,2.27,1.12,-1.23,6.08,7.251242993104574,0.018,12.54,Watch
+974,Construction,Private,Investment Grade,,12.8,149,0.63,2.33,3.91,6.31,14.570336472027774,0.358,17.67,Healthy
+975,Construction,Private,High Risk,,24.1,176,0.97,2.13,9.38,14.75,12.483803663542744,0.234,11.68,Healthy
+976,Technology,Private,Speculative,,12.4,340,1.91,0.54,5.98,-0.15,21.627754035266648,-0.158,10.28,Healthy
+977,Energy,Private,High Risk,,4.8,106,1.42,2.63,-0.36,4.73,1.6546409929035661,0.274,13.92,Healthy
+978,Technology,Private,Investment Grade,,28.6,153,2.37,0.36,3.71,8.6,-12.184416370889114,-0.101,10.26,Healthy
+979,Retail,Public,Investment Grade,No,2.4,55,1.61,0.94,10.49,-9.06,0.7908208838047024,-0.014,15.4,Healthy
+980,Technology,Private,Speculative,,16.1,218,0.84,2.0,-0.51,0.11,-11.048207376717244,0.09,12.72,Watch
+981,Technology,Private,High Risk,,9.1,845,1.79,1.94,2.44,13.07,-5.443662949202825,0.241,13.65,Watch
+982,Manufacturing,Public,High Risk,No,9.6,304,2.33,0.83,2.29,21.6,11.345892251910161,-0.036,15.02,Distressed
+983,Energy,Private,Investment Grade,,15.4,544,1.68,0.82,-2.06,-0.09,0.38388101865381774,-0.03,13.64,Watch
+984,Construction,Private,High Risk,,7.4,770,0.78,1.05,6.61,9.7,-6.380578711935733,-0.02,10.68,Watch
+985,Energy,Public,High Risk,No,5.6,119,0.23,0.62,4.59,16.12,12.184272399030663,-0.019,15.01,Healthy
+986,Retail,Public,Investment Grade,No,4.2,510,2.71,2.35,0.85,-7.73,11.316193940628402,0.182,12.79,Distressed
+987,Construction,Public,Speculative,No,3.6,186,2.12,2.19,6.48,8.95,,0.226,16.91,Healthy
+988,Manufacturing,Private,Investment Grade,,17.5,457,0.98,1.73,-3.88,6.91,6.3464149279402875,0.065,16.89,Distressed
+989,Technology,Private,Investment Grade,,7.3,94,1.52,2.92,-3.05,7.81,1.989259808549555,0.295,14.62,Healthy
+990,Retail,Public,High Risk,No,16.7,358,0.49,1.09,5.69,-6.67,0.5942280842211067,0.033,13.66,Watch
+991,Energy,Public,Investment Grade,No,3.2,269,1.58,1.1,15.97,-0.46,14.919336856583381,0.01,14.67,Healthy
+992,Retail,Private,Investment Grade,,12.1,747,0.75,0.82,3.39,-0.91,28.031543464193916,-0.028,13.46,Healthy
+993,Retail,Private,Investment Grade,,19.0,108,0.71,0.97,2.97,-5.74,18.109284810218107,-0.0,16.01,Healthy
+994,Construction,Private,Investment Grade,,12.0,733,0.51,2.34,14.37,-6.11,8.224523115456304,0.222,13.47,Healthy
+995,Technology,Public,Investment Grade,No,12.3,628,2.02,1.2,8.48,-1.11,15.100899837244075,0.013,11.46,Healthy
+996,Retail,Private,Investment Grade,,5.0,579,0.87,0.88,8.14,-4.56,-1.5820009516551616,-0.015,12.92,Watch
+997,Energy,Private,Investment Grade,,18.0,204,1.5,1.22,1.03,5.09,-4.870118755089532,0.07,13.08,Healthy
+998,Technology,Private,High Risk,,6.2,229,1.06,1.89,5.17,21.12,-5.109318690817455,0.093,13.12,Healthy
+999,Technology,Public,Investment Grade,No,3.3,325,2.63,2.43,3.38,-5.16,8.315165496506056,0.291,14.64,Healthy
+1000,Manufacturing,Public,Investment Grade,No,13.1,511,1.48,1.03,1.74,9.12,0.06141941944951945,0.028,14.51,Healthy
+1001,Construction,Private,Investment Grade,,13.0,378,1.15,1.5,19.73,5.83,15.559949725243436,0.009,15.78,Healthy
+1002,Energy,Private,Speculative,,5.4,97,1.44,2.74,5.91,15.45,2.420704704267662,0.243,15.24,Healthy
+1003,Energy,Private,Speculative,,22.0,110,0.37,1.05,-2.57,15.71,2.6437851768975977,0.022,13.89,Healthy
+1004,Manufacturing,Private,Speculative,,6.0,256,0.8,1.08,6.8,6.12,14.69271020924966,0.012,16.75,Healthy
+1005,Energy,Private,Speculative,,17.8,44,0.41,0.84,3.45,-8.85,4.015319663527953,-0.088,7.82,Healthy
+1006,Technology,Public,Investment Grade,No,30.3,603,0.67,1.62,-5.82,2.12,-6.738154339207057,0.123,15.04,Watch
+1007,Manufacturing,Public,Investment Grade,No,12.0,490,0.6,1.06,3.78,3.63,23.580816413417214,-0.022,12.55,Healthy
+1008,Manufacturing,Private,Speculative,,13.2,23,0.26,1.59,1.12,1.88,2.8217730632661064,0.204,10.94,Healthy
+1009,Energy,Private,Investment Grade,,5.8,205,4.04,2.23,-4.44,15.86,-6.381816542390002,0.269,11.83,Distressed
+1010,Construction,Private,Investment Grade,,11.6,217,1.37,1.0,5.2,-8.65,6.32443246180962,0.014,13.56,Healthy
+1011,Energy,Private,Speculative,,17.3,122,1.13,2.02,-0.01,4.1,17.19187742551196,0.125,12.51,Healthy
+1012,Technology,Private,Speculative,,11.0,233,2.18,1.91,9.69,9.96,-0.7289376647820962,0.145,16.59,Healthy
+1013,Technology,Public,Investment Grade,No,13.1,82,0.4,1.38,3.73,-3.42,5.966236095780828,0.074,15.42,Watch
+1014,Retail,Private,High Risk,,5.9,67,1.05,1.1,6.89,8.94,5.0179532934378965,0.066,18.08,Distressed
+1015,Retail,Public,Investment Grade,No,8.3,422,0.97,1.53,2.78,-6.62,20.212159787747915,0.068,15.2,Healthy
+1016,Manufacturing,Public,Speculative,No,5.0,111,0.65,1.27,1.3,12.0,8.242617737344082,0.05,15.12,Healthy
+1017,Construction,Public,Speculative,No,11.0,519,2.26,1.4,4.56,9.27,,0.083,11.76,Watch
+1018,Construction,Private,Investment Grade,,9.2,471,0.48,0.81,13.17,3.34,7.614876932681986,-0.019,12.16,Healthy
+1019,Technology,Public,Speculative,No,5.7,282,0.83,1.4,-5.54,4.72,8.93765934601556,0.19,14.36,Distressed
+1020,Technology,Private,Speculative,,20.6,1032,1.51,2.15,9.53,28.88,-4.5889160827861115,0.245,12.9,Healthy
+1021,Energy,Private,Investment Grade,,5.3,135,0.17,2.1,5.05,-3.25,16.622882494850508,0.236,11.78,Healthy
+1022,Energy,Private,High Risk,,30.8,312,0.49,1.99,0.15,-11.22,27.035414106944888,0.138,14.08,Healthy
+1023,Retail,Private,Investment Grade,,36.1,46,1.3,1.24,9.79,18.31,5.740901570710397,0.047,12.21,Healthy
+1024,Construction,Private,High Risk,,34.0,23,4.23,1.6,-0.15,-1.38,-3.2243656472392193,0.128,17.17,Distressed
+1025,Retail,Public,Investment Grade,No,4.2,335,1.0,2.29,3.81,8.41,11.131779863192767,0.274,15.33,Healthy
+1026,Manufacturing,Private,Investment Grade,,12.8,631,1.8,1.1,-2.14,10.12,3.562986907546039,0.039,13.52,Healthy
+1027,Technology,Private,Investment Grade,,6.3,93,0.79,1.46,1.94,8.21,8.42071053756312,0.101,16.27,Watch
+1028,Manufacturing,Private,Speculative,,6.4,152,0.71,2.61,6.94,-1.72,13.674748800070304,0.258,10.13,Healthy
+1029,Manufacturing,Private,Speculative,,12.1,48,0.52,0.61,4.19,5.37,-2.888183803696638,-0.039,14.07,Healthy
+1030,Retail,Private,Speculative,,6.5,228,1.17,1.9,5.36,11.46,5.446871477012892,0.125,15.83,Healthy
+1031,Manufacturing,Private,High Risk,,21.8,376,1.28,2.26,2.93,-12.63,-4.437798060897402,0.245,8.93,Watch
+1032,Technology,Public,Investment Grade,No,7.5,196,1.61,1.59,6.24,14.86,4.463089386602182,0.185,14.1,Healthy
+1033,Technology,Public,Speculative,No,4.6,344,0.17,1.82,8.0,13.22,7.6856100052561445,0.143,13.24,Healthy
+1034,Construction,Private,Investment Grade,,21.0,470,0.97,2.06,8.86,19.71,10.241286941478949,0.18,11.88,Healthy
+1035,Retail,Private,High Risk,,6.3,285,1.46,1.26,-0.58,-14.45,10.763515902250196,0.004,12.03,Watch
+1036,Construction,Public,Investment Grade,No,19.9,469,0.75,2.14,-2.23,-3.17,-5.547935034211353,0.167,13.89,Healthy
+1037,Technology,Public,Speculative,No,18.8,102,3.14,1.71,7.91,10.05,-0.7594347132991031,0.156,13.07,Healthy
+1038,Retail,Private,Investment Grade,,17.8,125,1.41,0.89,2.05,-4.13,11.905131259756407,-0.068,11.7,Watch
+1039,Manufacturing,Public,Investment Grade,No,12.8,72,1.88,0.93,13.91,-3.1,5.98660342826159,0.02,13.04,Healthy
+1040,Retail,Private,Speculative,,6.7,59,0.66,1.3,0.79,2.85,9.656923485874309,0.082,14.64,Watch
+1041,Construction,Private,Investment Grade,,12.6,146,1.35,1.46,4.53,-9.54,2.7046137873415272,0.136,12.33,Healthy
+1042,Retail,Public,Speculative,No,9.2,38,1.22,2.93,2.8,11.91,9.846593624675993,0.484,13.52,Healthy
+1043,Manufacturing,Private,Speculative,,14.6,46,0.82,2.28,14.04,1.09,9.605516660695695,0.189,14.84,Healthy
+1044,Energy,Public,Speculative,Yes,8.1,254,0.54,1.07,5.7,5.35,,0.049,14.01,Healthy
+1045,Construction,Public,Speculative,No,6.9,116,1.19,1.92,8.14,9.32,-6.301281125498116,0.106,13.98,Healthy
+1046,Technology,Private,Investment Grade,,4.2,168,0.89,1.36,4.78,15.05,19.063138439330665,0.037,12.89,Healthy
+1047,Manufacturing,Private,Investment Grade,,4.3,227,1.24,0.94,-0.24,-0.51,2.3373250458959305,-0.016,14.82,Watch
+1048,Construction,Private,Speculative,,6.9,446,1.04,1.64,-0.48,-0.0,2.399327809058278,0.073,14.29,Healthy
+1049,Technology,Private,Speculative,,15.6,85,0.87,1.46,0.46,-8.98,13.93306786982236,0.064,15.29,Distressed
+1050,Manufacturing,Private,Investment Grade,,10.6,168,0.82,1.61,10.05,0.79,10.72189266242809,0.117,16.94,Healthy
+1051,Manufacturing,Public,High Risk,Yes,10.7,697,0.24,1.54,8.19,-17.31,2.826012844913269,0.072,12.56,Healthy
+1052,Energy,Private,Investment Grade,,14.7,107,0.18,1.15,-0.29,26.43,11.650465098321625,0.018,13.34,Healthy
+1053,Manufacturing,Public,Speculative,Yes,15.9,293,1.64,1.54,7.38,13.5,1.144024340873032,0.076,15.18,Watch
+1054,Retail,Private,Speculative,,4.6,226,1.37,1.71,-1.42,1.4,10.733703240937743,0.149,17.47,Watch
+1055,Manufacturing,Public,Speculative,No,20.9,143,2.09,2.86,5.95,-1.71,10.427570904481247,0.195,12.38,Healthy
+1056,Energy,Private,High Risk,,9.7,237,0.28,1.93,17.37,9.02,-0.5287679964015393,0.113,14.38,Healthy
+1057,Technology,Private,Investment Grade,,4.8,355,1.54,1.29,1.23,-0.49,-3.2662148177204635,0.077,13.33,Watch
+1058,Energy,Public,High Risk,No,20.0,201,0.54,2.07,8.3,-2.4,-5.1245385599210564,0.169,16.6,Watch
+1059,Manufacturing,Private,Speculative,,5.5,384,5.87,2.2,7.54,7.09,9.230510782008844,0.235,11.41,Healthy
+1060,Construction,Public,Investment Grade,No,11.3,370,1.17,1.95,1.98,14.97,14.485861623501197,0.253,15.61,Healthy
+1061,Technology,Private,Investment Grade,,3.2,334,0.43,2.24,9.24,15.67,7.762881771524792,0.191,13.51,Healthy
+1062,Retail,Private,Investment Grade,,11.0,356,2.1,0.39,1.8,9.22,7.215457642034593,-0.084,12.5,Healthy
+1063,Construction,Public,Speculative,No,25.3,593,0.51,2.03,9.27,2.56,-6.110351354658233,0.209,12.42,Healthy
+1064,Retail,Public,Investment Grade,No,6.4,458,1.19,2.21,5.43,3.49,14.08407195083872,0.151,10.82,Healthy
+1065,Manufacturing,Private,Speculative,,7.8,215,0.65,3.04,5.43,15.86,15.327259568970375,0.32,16.77,Healthy
+1066,Technology,Public,Investment Grade,No,8.8,586,0.85,2.24,1.07,10.02,16.591630696269174,0.429,11.85,Healthy
+1067,Manufacturing,Public,Investment Grade,No,20.3,177,0.14,1.94,11.57,-5.34,-0.8954620902103949,0.148,12.42,Healthy
+1068,Construction,Private,Investment Grade,,33.7,57,0.25,2.61,-0.84,1.23,7.536721652749089,0.245,11.97,Healthy
+1069,Technology,Private,Investment Grade,,14.8,152,1.81,2.13,5.37,-9.69,13.390094907776625,0.213,17.02,Healthy
+1070,Retail,Public,Speculative,No,12.8,62,0.94,2.13,5.84,-0.47,8.736314634962902,0.137,14.04,Healthy
+1071,Energy,Public,Investment Grade,No,4.7,193,0.48,1.25,7.57,1.16,17.86883852816571,0.035,15.59,Watch
+1072,Technology,Private,Speculative,,5.4,598,2.72,0.67,-2.0,-3.32,10.748961832703941,-0.064,17.91,Watch
+1073,Manufacturing,Private,Investment Grade,,5.4,69,0.93,1.75,7.79,1.34,-7.879128384287895,0.143,15.98,Healthy
+1074,Manufacturing,Private,High Risk,,13.9,421,0.97,1.92,9.91,16.66,-6.816382111990695,0.152,12.53,Watch
+1075,Manufacturing,Private,Investment Grade,,8.8,306,1.1,2.06,8.17,-6.43,19.377453502836936,0.174,14.77,Healthy
+1076,Manufacturing,Private,Investment Grade,,4.3,83,0.48,2.43,10.67,1.83,-12.52830275193595,0.291,12.03,Healthy
+1077,Technology,Private,Investment Grade,,6.6,791,0.53,2.51,-4.06,3.13,16.23002429224641,0.34,8.14,Healthy
+1078,Energy,Public,Speculative,No,12.8,339,0.3,1.53,0.9,15.26,1.1263513619884584,0.085,12.91,Healthy
+1079,Technology,Private,Investment Grade,,16.2,168,0.31,2.33,-1.54,4.06,6.251785284902004,0.243,12.75,Healthy
+1080,Technology,Private,Speculative,,16.6,213,1.05,1.4,-3.53,-5.32,23.3527868259792,0.111,15.41,Healthy
+1081,Construction,Private,Investment Grade,,5.4,600,0.88,1.67,24.29,-8.73,23.191697021869775,0.157,12.19,Healthy
+1082,Construction,Public,Investment Grade,No,2.8,273,1.21,1.83,7.76,1.53,6.143097828528807,0.152,16.28,Healthy
+1083,Manufacturing,Private,Investment Grade,,2.5,769,0.93,2.06,7.2,-2.52,5.870796466243414,0.151,11.4,Watch
+1084,Construction,Private,High Risk,,19.3,451,2.3,1.34,9.35,17.48,2.5397641137029323,0.035,12.72,Distressed
+1085,Technology,Private,Investment Grade,,21.6,134,0.79,1.21,7.41,13.11,18.68577240702499,0.051,12.23,Healthy
+1086,Energy,Private,Investment Grade,,16.7,492,1.53,2.01,-0.31,10.24,6.813608764788058,0.208,13.97,Healthy
+1087,Manufacturing,Private,Speculative,,24.8,204,0.51,3.09,1.96,-5.37,0.38493853533193345,0.337,13.33,Healthy
+1088,Retail,Private,Investment Grade,,19.3,60,0.74,1.77,2.81,-1.5,0.3705902138326884,0.199,10.4,Healthy
+1089,Energy,Private,Investment Grade,,7.3,47,4.65,2.71,8.91,7.82,-0.011036990840415761,0.309,14.24,Watch
+1090,Technology,Public,Speculative,No,8.6,459,4.75,0.84,5.49,2.04,18.25255580272665,0.008,12.39,Distressed
+1091,Manufacturing,Private,Speculative,,8.5,291,0.32,1.28,7.56,-2.33,0.3794589042839256,0.037,15.08,Healthy
+1092,Retail,Private,Investment Grade,,19.7,298,0.65,0.88,-0.45,-9.16,12.527811421786787,0.018,17.72,Healthy
+1093,Technology,Private,Speculative,,8.4,120,4.42,1.53,8.61,21.85,-13.234064610459964,0.072,13.18,Watch
+1094,Retail,Private,Speculative,,28.8,88,0.98,2.79,9.66,-15.72,2.5489624407533076,0.31,12.55,Healthy
+1095,Energy,Private,Speculative,,8.8,155,5.6,1.75,0.62,8.16,5.913171174108805,0.075,12.66,Watch
+1096,Construction,Private,Speculative,,12.4,292,0.66,1.71,0.44,-4.27,2.8134779574762523,0.146,12.7,Healthy
+1097,Manufacturing,Private,High Risk,,6.2,47,1.37,2.21,5.59,-6.79,-7.567839587117559,0.163,15.58,Healthy
+1098,Construction,Private,Investment Grade,,13.7,387,3.23,1.96,8.4,1.28,17.294861973395616,0.23,12.58,Watch
+1099,Manufacturing,Private,Investment Grade,,8.2,266,2.95,1.04,-2.28,20.16,2.675011160063239,0.056,14.22,Watch
+1100,Construction,Private,Investment Grade,,3.5,129,1.01,0.1,5.2,3.73,3.623775920998883,-0.23,12.22,Healthy
+1101,Construction,Private,Speculative,,1.2,153,0.66,1.23,8.85,-4.88,-9.273363589026358,0.098,14.84,Healthy
+1102,Energy,Private,Speculative,,6.0,163,2.04,2.19,2.06,-3.4,1.0856990086588203,0.173,15.76,Distressed
+1103,Retail,Private,Investment Grade,,9.2,10,2.54,1.27,4.24,3.34,6.269066897066605,0.007,12.94,Distressed
+1104,Manufacturing,Public,Investment Grade,No,21.4,273,0.36,0.7,2.92,19.13,-6.130688528851051,-0.021,14.63,Healthy
+1105,Construction,Private,High Risk,,11.9,410,3.16,1.17,5.28,0.28,5.052619637687646,0.088,12.51,Distressed
+1106,Manufacturing,Private,Speculative,,17.8,28,0.88,1.7,2.7,2.88,0.649146511067058,0.079,12.39,Healthy
+1107,Retail,Private,Investment Grade,,4.7,330,0.69,0.53,9.09,-14.9,17.279586897504117,-0.083,10.26,Healthy
+1108,Technology,Private,High Risk,,2.1,48,2.36,0.1,5.7,6.06,12.027284624230408,-0.062,15.16,Watch
+1109,Manufacturing,Private,Speculative,,16.9,405,0.15,0.64,-6.19,7.67,-0.4224139506378721,-0.062,12.4,Healthy
+1110,Energy,Private,Investment Grade,,1.5,172,1.89,3.02,3.05,9.83,16.900172109472727,0.479,15.92,Healthy
+1111,Technology,Private,Investment Grade,,11.4,1009,0.48,2.17,-4.95,5.56,8.046624257211723,0.13,11.67,Healthy
+1112,Retail,Private,Speculative,,6.8,143,2.27,2.12,1.54,6.5,7.659010213234381,0.151,14.77,Healthy
+1113,Technology,Private,Investment Grade,,7.9,627,2.38,1.14,14.45,-4.41,-6.669940991043223,0.028,13.62,Healthy
+1114,Manufacturing,Private,Speculative,,20.6,345,1.54,2.14,-0.12,13.21,10.533034178629395,0.296,14.14,Healthy
+1115,Retail,Private,Speculative,,27.9,454,0.58,2.05,-3.14,8.8,14.924646381432607,0.263,12.05,Healthy
+1116,Manufacturing,Private,Speculative,,17.4,32,1.08,1.27,1.74,-6.65,-4.68992002557782,0.037,14.29,Watch
+1117,Manufacturing,Private,Speculative,,20.4,281,0.3,2.23,-0.88,-4.87,5.8855477564556775,0.411,13.16,Watch
+1118,Technology,Public,Investment Grade,Yes,17.9,122,0.65,2.22,0.13,22.98,2.9795002299361535,0.185,13.22,Healthy
+1119,Energy,Private,Speculative,,3.6,252,0.72,1.81,-2.11,-18.32,2.8183938760117577,0.131,9.04,Watch
+1120,Construction,Private,Investment Grade,,22.7,127,0.53,1.91,3.9,11.63,12.345975381604497,0.192,13.44,Healthy
+1121,Energy,Public,Speculative,No,29.3,372,0.34,0.49,-3.83,13.22,8.35051736597638,-0.065,12.24,Healthy
+1122,Manufacturing,Private,Speculative,,9.2,277,2.11,1.8,9.55,10.53,6.508891808003917,0.044,12.32,Healthy
+1123,Retail,Private,Investment Grade,,10.5,583,1.1,1.89,3.39,1.51,-0.18001338880822626,0.074,13.45,Distressed
+1124,Manufacturing,Private,Investment Grade,,19.1,230,1.99,2.06,5.55,14.79,12.706099643197952,0.133,14.71,Healthy
+1125,Construction,Private,Investment Grade,,5.9,110,2.11,2.06,-1.7,9.07,-5.165107883475818,0.172,6.81,Watch
+1126,Construction,Public,High Risk,Yes,6.8,100,1.34,2.35,-1.2,10.12,4.413891399016977,0.355,14.31,Distressed
+1127,Construction,Public,Investment Grade,No,8.1,187,2.43,1.58,3.64,22.39,8.44578597162855,0.087,16.13,Healthy
+1128,Retail,Public,High Risk,Yes,6.5,298,1.42,1.23,7.15,8.96,0.9565948672919502,0.024,10.17,Healthy
+1129,Manufacturing,Private,High Risk,,7.8,589,0.99,1.15,8.15,-3.07,20.093897926887173,0.053,13.4,Healthy
+1130,Manufacturing,Private,Investment Grade,,7.2,308,3.09,0.77,3.24,9.64,-1.0648754014982398,-0.023,12.7,Watch
+1131,Manufacturing,Private,High Risk,,9.7,777,1.81,1.0,0.19,7.45,-3.9769639318464556,-0.046,13.99,Distressed
+1132,Technology,Private,Investment Grade,,11.9,973,1.87,1.38,-0.12,2.52,9.834623739467279,0.079,16.31,Healthy
+1133,Energy,Private,Investment Grade,,14.0,376,2.24,0.22,4.91,14.0,-6.634460972946652,-0.068,15.41,Distressed
+1134,Manufacturing,Private,High Risk,,24.1,262,1.04,1.16,6.74,-0.84,,0.047,10.35,Healthy
+1135,Technology,Private,High Risk,,24.0,85,1.19,3.09,3.55,12.9,10.23439320695102,0.534,13.7,Healthy
+1136,Manufacturing,Public,Speculative,No,21.6,1038,1.3,1.68,5.93,7.18,1.1565792313762104,0.166,14.07,Healthy
+1137,Retail,Private,Investment Grade,,9.9,302,1.1,0.29,13.73,8.69,2.7582693646173646,-0.104,10.69,Watch
+1138,Technology,Private,Investment Grade,,2.1,239,1.69,1.22,6.54,11.39,2.0059008796802322,0.06,13.64,Healthy
+1139,Retail,Private,Speculative,,6.4,156,0.36,1.78,7.08,10.1,10.520934542344483,0.156,14.21,Healthy
+1140,Manufacturing,Private,Investment Grade,,7.3,600,1.6,0.78,11.44,-3.03,2.502943797001587,-0.069,12.83,Healthy
+1141,Manufacturing,Private,Investment Grade,,7.2,62,1.46,2.01,10.07,5.24,-3.396779630260788,0.091,12.3,Healthy
+1142,Retail,Private,Speculative,,4.5,431,0.88,1.72,6.01,7.97,,0.005,13.28,Healthy
+1143,Manufacturing,Public,Investment Grade,No,9.8,231,0.92,0.55,3.99,14.85,11.113250944554364,-0.108,12.33,Healthy
+1144,Retail,Private,Investment Grade,,13.2,224,0.6,2.39,9.6,-1.79,-4.064609379168067,0.231,13.33,Healthy
+1145,Manufacturing,Private,Investment Grade,,8.8,286,1.11,1.83,0.99,18.39,7.218138808262413,0.179,14.42,Healthy
+1146,Construction,Public,Speculative,No,16.2,60,1.11,3.16,13.64,-5.23,-1.0411399141068136,0.318,12.68,Healthy
+1147,Retail,Private,Speculative,,18.3,65,0.74,1.8,3.06,12.99,13.339831852779927,0.215,12.38,Healthy
+1148,Technology,Private,Investment Grade,,2.5,950,3.4,1.3,14.07,13.2,2.6288839818992757,0.038,15.35,Healthy
+1149,Energy,Private,Investment Grade,,18.9,204,0.5,1.42,4.88,8.03,0.7875035281668987,0.084,14.2,Healthy
+1150,Manufacturing,Public,Investment Grade,Yes,11.2,406,0.23,1.82,4.99,2.31,1.7562420227721303,0.097,11.36,Healthy
+1151,Retail,Public,Investment Grade,No,14.0,177,1.13,1.92,1.57,1.03,-4.469203112989895,0.177,13.77,Healthy
+1152,Energy,Private,Investment Grade,,1.5,174,1.16,1.69,5.79,-10.24,10.529867894696668,0.153,16.34,Healthy
+1153,Construction,Private,Speculative,,7.2,463,1.66,0.36,5.9,11.86,3.705990995188857,-0.091,10.62,Healthy
+1154,Manufacturing,Private,Investment Grade,,16.1,385,0.6,1.14,-3.2,-3.36,,0.037,12.59,Healthy
+1155,Technology,Public,Investment Grade,No,5.9,313,0.97,2.62,8.11,7.54,1.3461763946308478,0.307,14.79,Healthy
+1156,Technology,Private,Investment Grade,,3.9,460,0.54,0.68,11.7,9.03,,-0.052,11.74,Healthy
+1157,Technology,Private,Speculative,,27.2,818,1.03,1.65,9.28,-8.48,-0.4408596825782576,0.105,15.12,Watch
+1158,Manufacturing,Private,Investment Grade,,19.2,146,2.33,0.24,7.15,-2.8,6.143490576145727,-0.197,15.07,Distressed
+1159,Energy,Public,Investment Grade,No,19.6,402,0.8,2.35,-2.6,-4.14,4.598686419568642,0.194,12.39,Healthy
+1160,Energy,Public,Speculative,No,11.4,513,0.69,1.63,6.74,8.84,-1.09716764438957,0.111,14.03,Watch
+1161,Manufacturing,Private,Speculative,,11.6,236,1.14,1.46,-7.64,23.96,0.76650598730801,0.125,10.34,Healthy
+1162,Technology,Private,Investment Grade,,19.7,381,0.56,2.92,1.98,-8.37,6.010675015302904,0.198,14.19,Healthy
+1163,Energy,Public,Investment Grade,No,17.7,43,0.42,0.22,11.75,7.84,-7.648252613520821,-0.175,14.53,Watch
+1164,Manufacturing,Public,High Risk,No,3.2,211,1.29,1.12,1.84,3.12,-3.5654867916205895,0.012,10.53,Distressed
+1165,Technology,Private,Investment Grade,,10.4,566,1.97,1.54,17.49,7.08,14.976994267894494,0.14,12.88,Healthy
+1166,Manufacturing,Private,High Risk,,2.2,140,1.11,0.77,3.1,-1.73,7.246158604565681,0.03,13.52,Healthy
+1167,Manufacturing,Private,High Risk,,7.3,15,3.64,0.94,0.37,3.54,11.701608145492099,-0.014,10.73,Healthy
+1168,Construction,Private,Investment Grade,,6.9,338,0.82,2.44,-0.9,12.78,-2.0145486521868907,0.344,12.43,Healthy
+1169,Energy,Public,Investment Grade,No,10.8,406,1.94,1.04,11.29,4.15,11.527461002904717,-0.033,16.56,Healthy
+1170,Energy,Public,Investment Grade,No,7.1,193,0.41,0.21,-2.23,-7.32,2.203115575453147,-0.117,11.29,Healthy
+1171,Construction,Private,Investment Grade,,2.6,72,0.67,0.94,4.49,10.43,-14.936900505872167,-0.004,13.87,Watch
+1172,Manufacturing,Public,Speculative,No,14.0,131,1.23,1.14,-2.63,4.5,5.179383373167178,0.053,15.5,Healthy
+1173,Construction,Private,Investment Grade,,24.6,453,0.93,2.47,5.93,-1.56,11.694355063254811,0.273,12.93,Healthy
+1174,Technology,Private,Speculative,,6.2,870,2.58,0.33,4.45,3.77,8.287346788925204,-0.125,9.84,Healthy
+1175,Energy,Private,High Risk,,7.9,428,1.35,1.95,9.93,-2.23,2.6375049813487816,0.319,14.97,Distressed
+1176,Technology,Public,High Risk,No,8.9,117,1.59,1.11,-3.23,5.17,-1.8749475002390668,-0.016,15.78,Distressed
+1177,Retail,Private,Speculative,,20.2,509,3.06,1.26,13.2,3.43,-3.7348082669535945,0.02,14.17,Distressed
+1178,Energy,Public,Speculative,No,20.1,271,0.31,1.72,7.92,8.31,18.627091918000403,0.056,12.93,Healthy
+1179,Retail,Private,Investment Grade,,17.3,237,3.58,1.87,1.6,-9.35,2.0389931279794937,0.253,17.67,Watch
+1180,Retail,Private,Investment Grade,,19.8,115,1.08,1.81,-2.7,-6.48,-0.3906346915279668,0.083,12.75,Healthy
+1181,Energy,Private,Speculative,,22.5,240,0.09,1.0,2.87,-3.6,13.98264929239144,-0.04,18.39,Distressed
+1182,Retail,Private,High Risk,,13.2,330,2.18,2.54,11.92,3.61,8.465398217609476,0.426,13.96,Healthy
+1183,Construction,Private,Speculative,,17.9,671,2.66,1.91,11.13,8.22,19.276203835096418,0.174,11.98,Healthy
+1184,Construction,Private,High Risk,,17.1,121,2.81,1.27,-7.02,6.26,15.495352124536087,0.03,13.69,Watch
+1185,Technology,Private,Investment Grade,,12.8,207,3.09,1.7,6.27,-0.65,-1.6332365895000578,0.055,12.93,Watch
+1186,Manufacturing,Private,Speculative,,21.8,93,1.26,0.98,7.02,3.52,-1.216514348071846,0.044,12.17,Healthy
+1187,Manufacturing,Private,Investment Grade,,3.2,628,1.28,0.63,7.95,-2.67,-0.3322353134654765,-0.013,10.62,Watch
+1188,Technology,Public,Investment Grade,Yes,31.3,471,1.06,3.64,1.97,0.56,4.7207328538355116,0.6,13.63,Healthy
+1189,Technology,Private,High Risk,,16.3,380,0.99,0.34,12.75,9.97,7.042114671332178,-0.111,13.92,Healthy
+1190,Manufacturing,Private,Investment Grade,,14.4,683,0.6,1.57,4.64,12.38,-9.33339678714879,0.065,15.69,Healthy
+1191,Retail,Private,High Risk,,20.8,839,0.37,2.18,-0.22,4.77,3.896266600904671,0.27,10.86,Watch
+1192,Manufacturing,Private,Speculative,,3.3,359,1.07,2.18,-1.65,13.01,15.422596414122918,0.249,10.89,Healthy
+1193,Energy,Public,Investment Grade,No,19.2,278,2.29,1.73,3.95,5.17,-0.2396073403808927,0.107,11.72,Healthy
+1194,Construction,Private,Speculative,,27.8,113,0.44,1.5,16.69,1.75,21.87049056799944,0.101,12.6,Healthy
+1195,Manufacturing,Public,High Risk,No,12.5,331,1.85,2.02,-0.79,2.25,-11.34191387454787,0.158,13.58,Distressed
+1196,Manufacturing,Private,Investment Grade,,16.9,477,1.23,2.36,9.38,14.56,,0.37,13.22,Healthy
+1197,Construction,Private,High Risk,,10.2,280,1.53,1.87,0.66,4.42,-9.383652809456208,0.242,15.18,Healthy
+1198,Energy,Public,Speculative,Yes,4.8,312,0.74,1.96,6.64,13.74,0.2872515051339164,0.109,13.01,Healthy
+1199,Construction,Private,High Risk,,16.9,243,1.06,0.62,-5.8,-3.48,6.207057665070074,-0.116,15.13,Distressed
+1200,Energy,Public,Speculative,No,9.9,458,0.98,2.34,3.15,15.11,7.709723679393039,0.263,14.21,Healthy
+1201,Energy,Public,Investment Grade,No,14.0,462,1.92,0.25,8.08,3.73,12.6220108231322,-0.154,15.59,Healthy
+1202,Retail,Public,High Risk,No,4.1,138,0.85,1.42,4.32,-2.93,17.094606947271494,0.078,12.83,Healthy
+1203,Energy,Private,Speculative,,41.2,188,1.69,1.18,7.46,12.82,6.211154692874596,-0.009,14.32,Healthy
+1204,Manufacturing,Public,Investment Grade,No,15.7,71,6.02,1.86,7.9,3.03,-15.538247164879042,0.145,12.96,Watch
+1205,Manufacturing,Private,Speculative,,4.8,750,0.89,1.84,-2.56,3.2,18.230298660473117,0.064,14.19,Watch
+1206,Manufacturing,Private,High Risk,,14.4,137,1.93,0.94,-1.0,4.99,4.755902557589492,-0.024,13.47,Healthy
+1207,Construction,Private,Speculative,,7.6,136,0.44,1.77,3.61,6.77,2.3115444667128187,0.136,15.3,Healthy
+1208,Technology,Private,Investment Grade,,7.3,286,2.34,2.21,5.99,-8.1,6.652177704859235,0.287,17.58,Healthy
+1209,Retail,Private,High Risk,,13.3,187,0.97,0.41,3.43,19.27,13.188642096205825,-0.168,11.78,Healthy
+1210,Retail,Public,Investment Grade,Yes,6.5,29,1.36,2.52,13.04,5.03,4.803018936775103,0.358,14.8,Healthy
+1211,Construction,Private,High Risk,,20.3,381,1.69,1.76,4.87,5.53,1.165083797786064,0.064,16.25,Watch
+1212,Energy,Public,Speculative,No,10.8,233,0.24,2.47,-2.36,10.41,2.767609286008405,0.109,13.99,Healthy
+1213,Technology,Private,Investment Grade,,5.5,243,0.97,2.13,4.79,-4.98,25.40060091238554,0.204,11.27,Healthy
+1214,Retail,Private,Speculative,,4.2,180,0.66,2.83,4.43,-2.66,5.899658705285216,0.447,12.24,Healthy
+1215,Retail,Private,Speculative,,26.3,235,2.44,1.68,-1.46,21.57,5.113671727453894,0.148,15.06,Healthy
+1216,Manufacturing,Private,High Risk,,3.4,139,0.18,0.7,-0.38,14.12,,-0.083,13.75,Healthy
+1217,Retail,Private,Investment Grade,,3.9,91,5.26,0.49,-0.17,8.53,-7.773087431748312,-0.123,13.18,Distressed
+1218,Technology,Private,Speculative,,13.9,910,0.7,2.28,6.35,1.59,,0.278,14.31,Healthy
+1219,Retail,Public,Investment Grade,No,10.8,163,0.65,2.39,3.08,8.5,10.36822720742158,0.257,7.76,Healthy
+1220,Retail,Private,Investment Grade,,12.9,98,0.32,1.46,2.23,-5.54,8.195446911200651,0.083,12.34,Healthy
+1221,Manufacturing,Private,Investment Grade,,13.0,78,0.99,0.47,3.05,-5.35,19.561191026645773,-0.13,16.43,Healthy
+1222,Technology,Private,Speculative,,21.3,98,2.75,0.95,12.26,9.22,17.484179540654743,0.045,13.08,Healthy
+1223,Construction,Private,Speculative,,5.5,333,0.27,2.38,7.77,15.38,7.243238349753639,0.178,9.57,Healthy
+1224,Technology,Public,High Risk,Yes,4.2,523,0.26,1.32,0.7,6.63,-3.6099806984507943,0.093,11.96,Healthy
+1225,Technology,Private,Investment Grade,,2.1,124,0.29,2.31,14.56,11.45,8.62226634306141,0.335,15.28,Healthy
+1226,Technology,Private,Speculative,,24.6,109,2.65,0.95,8.56,-11.32,0.3907191836987369,0.056,10.3,Healthy
+1227,Manufacturing,Private,Speculative,,11.5,55,1.25,2.03,14.07,13.78,2.2219530543822517,0.14,9.4,Healthy
+1228,Retail,Public,Investment Grade,Yes,13.0,129,1.99,2.3,6.02,19.56,12.330882851863851,0.286,17.1,Healthy
+1229,Manufacturing,Private,High Risk,,4.2,256,1.3,1.68,2.43,17.45,6.691328283158253,0.107,12.21,Healthy
+1230,Retail,Public,Investment Grade,No,11.3,517,1.22,1.19,12.37,3.3,7.272327531493899,0.025,12.65,Healthy
+1231,Construction,Private,Speculative,,24.4,200,1.55,0.76,8.09,-3.33,-3.6896856798450575,0.013,14.53,Healthy
+1232,Retail,Private,Investment Grade,,3.6,220,1.02,1.43,4.53,7.04,6.477787473465013,0.116,13.71,Healthy
+1233,Construction,Private,High Risk,,9.4,523,2.37,2.54,3.86,7.09,2.8370251552120265,0.187,15.18,Healthy
+1234,Construction,Private,Investment Grade,,11.0,271,0.95,1.82,1.19,11.71,13.333699591985418,0.135,13.14,Healthy
+1235,Energy,Private,Investment Grade,,5.3,160,0.53,2.97,-3.39,8.57,24.029495302736994,0.348,13.12,Healthy
+1236,Construction,Public,High Risk,No,10.6,63,0.77,0.37,-4.88,5.36,,-0.107,14.14,Distressed
+1237,Manufacturing,Private,Investment Grade,,4.9,123,1.59,0.11,-1.31,-0.26,-5.266863326255438,-0.233,14.81,Watch
+1238,Energy,Private,Speculative,,6.9,162,0.91,1.78,-3.66,-7.54,9.819105974098063,0.211,9.04,Distressed
+1239,Retail,Public,Speculative,Yes,19.8,183,0.21,1.95,4.81,-6.26,-1.6536569020108702,0.16,14.35,Healthy
+1240,Manufacturing,Private,Investment Grade,,2.9,671,1.83,1.68,6.74,0.5,9.46105350944117,0.197,15.89,Healthy
+1241,Retail,Public,Investment Grade,No,14.4,161,2.0,1.0,1.69,3.02,25.22121898643011,0.007,14.17,Healthy
+1242,Construction,Private,Investment Grade,,19.7,220,3.92,1.35,4.96,-6.47,-5.689717928122796,0.005,13.45,Distressed
+1243,Energy,Private,Investment Grade,,4.4,87,0.99,1.51,4.19,-9.25,-0.8676819028723939,0.09,11.22,Distressed
+1244,Construction,Private,High Risk,,1.8,212,0.58,0.79,3.24,-8.48,19.826019414334358,-0.047,12.71,Distressed
+1245,Manufacturing,Private,Speculative,,13.7,493,3.4,0.68,13.39,19.71,9.266461667856861,-0.079,16.01,Healthy
+1246,Retail,Public,Investment Grade,No,3.2,751,0.76,1.44,10.16,0.39,19.23429622567957,0.085,9.27,Healthy
+1247,Retail,Private,Speculative,,23.1,93,2.73,0.81,5.36,20.59,22.82364043092506,-0.013,12.7,Healthy
+1248,Construction,Private,Investment Grade,,17.9,599,2.64,0.71,0.75,14.4,-3.388518943147295,-0.058,14.03,Healthy
+1249,Technology,Private,Speculative,,2.0,755,1.65,2.19,5.99,-6.68,4.928323164281527,0.195,12.56,Healthy
+1250,Construction,Private,Investment Grade,,26.2,528,1.4,2.25,2.77,-0.11,0.16093662015005616,0.265,14.1,Healthy
+1251,Manufacturing,Private,Speculative,,9.3,154,2.29,2.37,7.82,8.74,7.800679381914489,0.231,13.71,Distressed
+1252,Manufacturing,Private,Investment Grade,,11.8,344,0.2,2.22,10.05,14.74,6.249878154419338,0.319,12.75,Healthy
+1253,Technology,Public,Investment Grade,No,20.2,223,0.05,2.68,6.92,1.11,8.782509194805778,0.203,10.93,Healthy
+1254,Retail,Private,Investment Grade,,16.2,149,1.09,3.19,4.79,21.11,0.011754843257199,0.522,11.31,Healthy
+1255,Retail,Public,Investment Grade,No,16.9,436,2.59,2.18,-4.6,-3.76,13.084173281281316,0.323,12.63,Healthy
+1256,Manufacturing,Private,Speculative,,5.3,488,2.14,1.44,11.9,12.23,10.990665282460562,0.042,15.05,Healthy
+1257,Construction,Public,Investment Grade,No,3.5,263,0.62,1.07,16.0,-8.05,1.0986815758390547,0.049,11.55,Healthy
+1258,Retail,Private,Investment Grade,,15.4,130,0.53,2.27,10.21,-12.84,8.94441511375409,0.177,9.59,Healthy
+1259,Energy,Public,Speculative,No,13.4,1040,0.55,1.84,9.11,5.2,23.055548069361272,0.007,12.87,Healthy
+1260,Construction,Private,High Risk,,6.6,260,2.0,0.93,-0.57,14.17,-2.626905079207571,-0.001,11.1,Distressed
+1261,Retail,Public,High Risk,No,5.5,270,0.62,2.01,0.19,-9.77,,0.238,13.16,Healthy
+1262,Technology,Public,Investment Grade,No,14.3,244,0.25,3.02,8.87,9.23,1.142792823885232,0.121,10.95,Healthy
+1263,Construction,Public,High Risk,No,20.9,609,2.61,2.59,0.92,8.78,20.701575323091312,0.275,10.62,Healthy
+1264,Construction,Private,High Risk,,11.7,320,0.15,1.3,-1.92,7.08,17.119095739678254,-0.007,12.53,Healthy
+1265,Manufacturing,Public,High Risk,No,8.4,60,0.86,2.62,7.96,15.1,3.106415812840951,0.327,14.19,Healthy
+1266,Retail,Public,Speculative,No,5.7,36,0.95,1.83,2.01,0.58,18.58997736511538,0.112,13.11,Healthy
+1267,Energy,Private,High Risk,,7.4,81,0.29,2.32,4.49,3.43,5.639980385438015,0.245,11.54,Healthy
+1268,Technology,Private,Investment Grade,,5.8,287,2.89,1.51,5.5,-8.9,15.502597291677715,0.091,9.5,Healthy
+1269,Construction,Private,High Risk,,7.5,107,0.93,2.51,3.16,14.67,-4.709655799452753,0.35,14.95,Healthy
+1270,Manufacturing,Private,Investment Grade,,6.2,249,1.53,0.49,-2.85,-1.08,-0.23076377324998898,-0.104,13.15,Watch
+1271,Energy,Private,Speculative,,5.3,422,0.98,1.6,2.04,5.7,5.240849311191287,0.074,10.34,Watch
+1272,Retail,Private,Speculative,,48.5,569,0.9,1.19,0.95,1.76,12.766793179953309,0.066,11.94,Distressed
+1273,Technology,Private,Speculative,,14.8,127,1.37,2.04,0.22,-2.55,-6.774396129242783,0.154,15.5,Healthy
+1274,Retail,Public,High Risk,No,15.4,75,1.24,2.18,8.56,-7.91,15.014128917984381,0.102,17.54,Watch
+1275,Technology,Public,Investment Grade,No,4.4,200,1.17,0.44,-0.21,-2.12,-6.3515348625591805,-0.135,10.53,Watch
+1276,Energy,Public,High Risk,No,12.9,88,0.63,1.88,7.12,2.49,,0.14,15.24,Healthy
+1277,Manufacturing,Private,Investment Grade,,10.9,162,4.42,1.6,-3.23,5.44,-0.7391181959594864,0.157,13.69,Distressed
+1278,Manufacturing,Private,Speculative,,4.4,194,0.92,1.39,7.54,3.76,-0.6888819066669942,0.082,11.2,Watch
+1279,Retail,Private,Speculative,,8.1,390,3.3,1.49,11.38,8.16,2.5931365363047245,0.013,14.06,Watch
+1280,Manufacturing,Private,Speculative,,11.3,540,0.6,2.99,6.04,9.47,17.564540919607076,0.232,13.88,Healthy
+1281,Manufacturing,Private,Speculative,,4.7,59,1.79,1.61,0.31,14.07,,0.075,12.63,Watch
+1282,Technology,Private,Investment Grade,,30.4,188,0.54,1.57,-1.37,-14.69,-0.1729269895339316,0.049,13.7,Healthy
+1283,Technology,Public,Speculative,No,2.8,236,0.54,1.97,5.28,14.8,11.046282719618809,0.288,13.68,Healthy
+1284,Construction,Public,Investment Grade,No,10.0,494,2.82,2.13,1.72,-10.61,-0.7400901277893146,0.123,14.51,Distressed
+1285,Energy,Private,Speculative,,6.3,92,1.73,0.39,12.92,2.41,-0.5545412953068727,-0.145,12.08,Healthy
+1286,Construction,Private,Speculative,,3.6,9,1.71,2.13,6.11,-0.87,-1.740679349942126,0.279,15.9,Watch
+1287,Energy,Private,Investment Grade,,16.7,425,0.89,1.69,9.43,11.02,-1.7114975075260732,0.16,13.4,Healthy
+1288,Retail,Private,Speculative,,9.5,206,4.93,2.57,9.98,1.06,15.871091786982603,0.231,11.44,Healthy
+1289,Technology,Private,Speculative,,16.8,280,0.66,2.06,3.38,3.69,-0.37408433936509056,0.182,8.52,Healthy
+1290,Manufacturing,Private,Speculative,,15.9,400,1.54,1.76,5.08,-5.72,10.537600908915493,0.07,13.62,Watch
+1291,Construction,Private,Investment Grade,,1.4,643,1.55,1.48,-1.31,1.67,-1.4805949292566085,0.097,12.3,Healthy
+1292,Energy,Private,Speculative,,20.4,76,2.09,1.39,4.1,5.96,19.993297865008298,0.086,9.67,Healthy
+1293,Energy,Private,Speculative,,11.3,932,2.75,2.0,4.83,13.18,12.167879073566947,0.239,13.53,Healthy
+1294,Technology,Private,Investment Grade,,20.0,729,2.24,1.76,7.94,-9.09,1.6292358571737733,0.016,12.16,Healthy
+1295,Construction,Private,High Risk,,20.5,324,1.85,1.37,4.61,19.07,9.242077719625653,0.015,13.2,Healthy
+1296,Manufacturing,Private,Speculative,,13.3,106,1.0,1.68,0.54,8.27,3.725719968329988,0.146,16.61,Healthy
+1297,Energy,Public,Speculative,No,11.9,245,0.22,2.05,4.8,-7.32,3.9486547110428347,0.157,12.82,Healthy
+1298,Construction,Public,Speculative,Yes,15.1,224,0.77,1.91,8.14,-10.6,9.892688894133801,0.223,14.49,Healthy
+1299,Construction,Private,Investment Grade,,10.9,117,2.34,0.9,7.36,-6.72,16.075919422463542,-0.01,13.17,Watch
+1300,Construction,Public,Investment Grade,No,14.1,169,2.63,2.22,4.53,-10.15,7.457487674861683,0.166,14.65,Watch
+1301,Retail,Private,High Risk,,50.8,224,1.95,0.99,-3.46,-19.77,-10.128876224098093,0.001,16.35,Distressed
+1302,Technology,Private,High Risk,,12.7,167,1.44,2.53,-5.49,0.22,-4.570238136500988,0.45,12.54,Healthy
+1303,Technology,Private,High Risk,,6.7,129,0.49,0.1,0.22,3.73,-0.07751737807650105,-0.16,13.26,Watch
+1304,Manufacturing,Private,High Risk,,23.9,501,0.81,0.83,5.33,7.32,21.014169280278004,-0.046,14.46,Distressed
+1305,Construction,Private,High Risk,,11.6,670,0.96,1.87,10.4,9.86,27.709784277286115,0.303,14.71,Healthy
+1306,Construction,Private,Investment Grade,,3.1,489,1.26,0.38,14.71,3.89,5.466394736329789,-0.166,12.58,Healthy
+1307,Retail,Private,High Risk,,10.6,557,0.82,1.48,-0.63,1.03,-0.3439689834630517,0.061,16.41,Healthy
+1308,Technology,Private,Speculative,,7.1,164,1.91,2.86,6.35,-2.68,6.477582841304025,0.344,14.05,Healthy
+1309,Construction,Private,Speculative,,6.8,560,1.25,1.11,3.57,1.5,13.701561178576075,0.028,15.52,Healthy
+1310,Construction,Public,High Risk,No,20.1,464,2.82,1.51,10.17,2.17,4.300701407995675,0.089,12.35,Healthy
+1311,Energy,Private,Speculative,,4.9,137,0.6,1.36,14.36,2.43,-4.26095181675133,0.059,13.92,Healthy
+1312,Energy,Private,Investment Grade,,4.6,949,4.35,2.13,4.69,3.8,,0.242,14.19,Watch
+1313,Manufacturing,Private,High Risk,,21.1,152,0.86,1.8,7.62,-10.37,1.8429119846541413,0.218,15.87,Watch
+1314,Construction,Private,Investment Grade,,10.9,294,1.8,2.13,6.93,1.33,2.4765691224492676,0.183,10.48,Healthy
+1315,Energy,Public,High Risk,No,10.4,89,1.6,2.18,11.76,9.22,4.768791120085577,0.321,15.06,Healthy
+1316,Manufacturing,Public,High Risk,No,10.2,800,1.8,1.87,-2.47,5.03,-10.612611616533137,0.216,12.13,Watch
+1317,Energy,Public,Investment Grade,No,8.9,184,0.12,1.6,7.07,8.78,-4.336781997085589,0.135,15.64,Healthy
+1318,Manufacturing,Private,Speculative,,6.1,400,1.36,1.79,-3.94,4.28,2.5873256724700298,0.167,15.35,Watch
+1319,Energy,Public,High Risk,No,7.5,333,1.6,2.15,3.88,-0.3,19.777037135333472,0.252,12.08,Healthy
+1320,Construction,Private,Speculative,,1.7,134,2.59,0.87,-4.28,11.92,16.005994102287346,-0.035,13.74,Healthy
+1321,Retail,Private,High Risk,,16.4,204,0.51,0.62,4.22,16.82,13.576148554256505,-0.081,11.35,Healthy
+1322,Manufacturing,Public,Investment Grade,No,7.8,683,2.57,1.36,-5.4,2.58,15.85407164908654,0.052,16.43,Healthy
+1323,Retail,Private,High Risk,,9.3,460,3.09,3.11,9.99,4.1,-8.588524803365203,0.461,15.21,Healthy
+1324,Construction,Private,Speculative,,11.5,225,1.13,1.8,11.05,6.98,-9.29072870964767,0.098,11.88,Watch
+1325,Retail,Private,High Risk,,8.2,193,2.29,0.97,0.91,7.94,11.707932438714053,-0.001,14.36,Healthy
+1326,Retail,Private,Investment Grade,,9.9,168,0.81,1.22,0.48,0.76,27.41935529231861,0.083,14.4,Healthy
+1327,Manufacturing,Private,Investment Grade,,10.1,52,0.14,1.87,7.67,24.71,13.334481081025993,0.159,11.69,Healthy
+1328,Retail,Public,Investment Grade,No,23.0,217,1.86,1.64,14.56,-11.37,12.935098803902772,0.059,14.21,Healthy
+1329,Energy,Public,Speculative,No,21.8,178,1.65,2.1,12.08,-1.75,-1.6352720170251613,0.212,14.51,Healthy
+1330,Energy,Private,Investment Grade,,3.7,171,0.65,0.64,-5.36,2.69,-6.8159219865051845,-0.105,16.18,Healthy
+1331,Manufacturing,Private,High Risk,,35.4,84,3.77,0.91,2.91,9.39,6.194100141844657,-0.04,12.5,Healthy
+1332,Construction,Public,Speculative,Yes,8.5,388,0.89,2.0,10.6,-8.77,8.31326877819196,0.105,15.53,Healthy
+1333,Manufacturing,Private,Speculative,,4.3,70,0.18,1.86,-6.8,2.28,19.825965591724284,0.214,10.21,Healthy
+1334,Retail,Public,Investment Grade,No,30.5,87,3.11,2.89,-1.3,-6.06,-11.42769260338067,0.407,14.42,Watch
+1335,Technology,Private,Investment Grade,,23.8,71,0.83,2.68,8.76,-0.33,1.094788001771894,0.215,11.67,Healthy
+1336,Retail,Private,Investment Grade,,2.4,415,1.92,2.68,3.38,-0.89,14.752329371899753,0.424,14.69,Healthy
+1337,Retail,Private,High Risk,,10.3,535,2.02,1.41,9.23,8.29,16.691663144834244,0.074,13.86,Healthy
+1338,Retail,Private,Investment Grade,,7.2,158,1.01,0.76,-0.71,-0.04,4.4271592032347495,-0.047,13.21,Healthy
+1339,Manufacturing,Private,Speculative,,9.5,413,0.32,1.63,12.48,-7.63,13.611699030605008,0.165,13.15,Healthy
+1340,Technology,Public,Investment Grade,Yes,34.9,598,1.02,1.71,3.56,-3.72,1.2092749518437618,0.156,13.52,Healthy
+1341,Retail,Public,Investment Grade,No,13.3,303,0.64,1.56,1.32,0.6,1.9035603163966845,0.142,15.82,Healthy
+1342,Manufacturing,Private,Speculative,,20.1,423,2.04,1.12,-6.23,2.15,10.283041498398468,0.07,11.22,Healthy
+1343,Manufacturing,Private,Investment Grade,,8.2,317,2.36,0.65,4.77,4.36,0.627088238675789,-0.111,15.69,Watch
+1344,Retail,Public,Investment Grade,No,16.0,77,0.97,2.0,10.81,5.34,-5.960597636699148,0.234,12.01,Healthy
+1345,Manufacturing,Private,High Risk,,15.1,431,1.27,1.67,10.5,-11.56,7.851927928765884,0.063,16.67,Distressed
+1346,Retail,Private,High Risk,,4.6,66,2.6,1.57,5.35,-5.65,25.218550347569078,0.092,14.24,Healthy
+1347,Technology,Public,Speculative,No,7.3,909,0.4,1.75,4.57,-1.6,,0.148,9.7,Healthy
+1348,Technology,Private,High Risk,,9.3,192,0.37,2.29,-1.88,-1.68,0.4519521345013553,0.257,15.62,Watch
+1349,Construction,Public,Speculative,No,3.1,50,1.03,1.17,-3.21,27.71,6.930234058611609,0.017,11.82,Healthy
+1350,Energy,Public,High Risk,No,12.4,131,0.5,2.31,3.0,-4.16,2.316793038101297,0.215,15.66,Watch
+1351,Construction,Private,Investment Grade,,4.4,264,1.5,2.57,-0.94,8.72,7.364470107120535,0.29,12.85,Healthy
+1352,Technology,Private,Investment Grade,,15.5,476,2.1,3.01,11.4,10.29,6.407636542018614,0.243,10.62,Healthy
+1353,Manufacturing,Public,Speculative,No,22.6,354,1.17,2.65,12.43,19.32,0.3317161633366501,0.208,15.41,Healthy
+1354,Technology,Private,Speculative,,5.4,358,0.63,2.16,1.82,15.42,18.107187546689687,0.197,10.36,Healthy
+1355,Manufacturing,Public,Investment Grade,No,21.3,298,1.85,1.83,-0.09,14.72,14.926288759967651,0.095,15.38,Watch
+1356,Manufacturing,Public,Investment Grade,No,6.3,101,3.0,2.32,9.86,4.69,3.6679659867500383,0.296,13.54,Healthy
+1357,Retail,Private,High Risk,,14.5,79,1.13,1.22,16.18,7.95,3.3305577721119333,0.053,15.78,Healthy
+1358,Manufacturing,Public,Investment Grade,No,9.0,107,0.26,1.87,5.85,3.69,19.0388971294865,0.191,13.04,Healthy
+1359,Retail,Private,High Risk,,6.6,419,1.38,1.46,10.24,8.6,4.167874348462634,0.053,14.27,Watch
+1360,Manufacturing,Public,Investment Grade,No,9.4,250,1.65,2.22,2.51,7.26,-8.285515969978823,0.262,16.54,Healthy
+1361,Manufacturing,Public,Speculative,No,11.7,282,1.38,1.41,2.41,-2.36,0.04207321432789346,0.062,12.96,Watch
+1362,Energy,Private,Investment Grade,,19.7,229,0.24,1.6,12.43,-7.71,3.3991398381476197,0.095,13.51,Healthy
+1363,Construction,Public,Investment Grade,No,19.3,162,1.98,2.19,11.11,-1.61,3.127284839734579,0.2,17.52,Healthy
+1364,Energy,Public,High Risk,No,14.5,48,0.28,1.6,-1.12,9.54,-8.995332203698423,0.046,12.23,Distressed
+1365,Construction,Private,Investment Grade,,44.4,666,3.03,2.42,1.3,-3.35,-4.381997758641157,0.323,12.97,Distressed
+1366,Manufacturing,Public,Investment Grade,No,7.9,164,2.41,2.5,8.39,-5.2,7.413169077876004,0.271,13.45,Healthy
+1367,Energy,Private,High Risk,,7.4,114,0.56,1.9,-4.7,22.56,,0.185,15.37,Healthy
+1368,Technology,Private,Investment Grade,,11.7,629,3.71,0.92,1.08,22.3,7.000830992654564,-0.006,12.5,Watch
+1369,Energy,Private,Speculative,,8.5,159,2.96,1.53,3.94,1.08,-6.986505164147443,0.081,14.18,Healthy
+1370,Retail,Private,Speculative,,3.6,372,3.0,0.63,5.54,-7.35,-6.470386503751367,-0.025,11.36,Distressed
+1371,Manufacturing,Private,Investment Grade,,36.1,595,0.55,1.5,9.91,-5.61,14.032833068878027,0.045,13.78,Healthy
+1372,Retail,Private,High Risk,,15.3,351,1.73,1.22,4.02,7.8,2.5476517251008746,0.048,16.41,Watch
+1373,Construction,Private,Speculative,,14.0,433,3.15,1.4,4.58,-1.94,7.823683279074894,0.085,13.74,Watch
+1374,Manufacturing,Private,Investment Grade,,13.4,343,2.46,2.43,4.12,-12.45,-2.954132592320793,0.347,13.6,Watch
+1375,Manufacturing,Private,Investment Grade,,26.0,443,1.35,1.83,6.85,-0.54,4.9242676872427165,0.119,14.57,Healthy
+1376,Construction,Private,High Risk,,13.1,600,2.21,1.24,1.63,0.62,,-0.011,11.41,Distressed
+1377,Technology,Private,Speculative,,7.9,699,1.89,1.61,8.48,19.62,1.6648116376915203,0.101,12.53,Healthy
+1378,Manufacturing,Private,Speculative,,16.4,220,0.48,1.31,15.29,15.27,11.994103501992164,0.018,13.83,Healthy
+1379,Manufacturing,Private,Investment Grade,,19.6,279,0.52,2.47,5.37,7.21,-1.9387499157115355,0.248,15.52,Healthy
+1380,Construction,Public,Investment Grade,No,0.6,123,0.92,1.72,5.28,13.97,-3.409657850371614,0.119,15.81,Healthy
+1381,Technology,Public,Speculative,No,6.8,206,3.91,2.38,3.97,15.47,11.686810131144323,0.317,13.81,Healthy
+1382,Manufacturing,Private,Investment Grade,,3.6,8,0.82,2.74,4.56,5.84,-4.024386377968092,0.308,16.97,Healthy
+1383,Technology,Private,Speculative,,2.1,237,0.71,0.1,0.22,0.88,1.1371123768799514,-0.042,15.98,Healthy
+1384,Manufacturing,Public,Speculative,No,10.9,161,1.36,1.98,9.93,9.37,2.033362134852462,0.259,11.18,Healthy
+1385,Energy,Private,High Risk,,12.5,9,2.72,2.19,1.07,6.86,7.293640211309043,0.216,13.48,Healthy
+1386,Retail,Public,High Risk,No,8.3,52,1.02,1.02,1.08,-20.14,7.734182799609011,0.006,12.5,Watch
+1387,Construction,Private,Speculative,,30.6,226,2.94,3.08,7.41,8.82,,0.173,12.05,Healthy
+1388,Construction,Private,High Risk,,12.8,339,2.23,1.69,6.15,5.13,25.505115849085676,0.097,13.55,Healthy
+1389,Retail,Private,Investment Grade,,22.0,60,2.76,0.98,1.19,-10.54,,0.029,14.42,Watch
+1390,Retail,Public,Speculative,Yes,7.9,372,0.38,1.23,1.91,4.4,-4.5493767337841415,0.047,14.02,Distressed
+1391,Construction,Private,Speculative,,17.1,147,2.12,1.22,9.33,-3.54,5.926676286302477,0.047,10.74,Watch
+1392,Manufacturing,Private,Investment Grade,,30.6,310,2.02,2.76,-6.05,8.8,10.741361836599463,0.336,11.89,Watch
+1393,Technology,Private,Investment Grade,,14.5,123,0.38,1.89,-1.64,-20.86,-3.3023719000941814,0.145,16.14,Healthy
+1394,Energy,Private,Investment Grade,,4.9,103,1.31,3.27,7.47,1.22,2.1381739722998154,0.504,11.9,Healthy
+1395,Technology,Public,Investment Grade,No,9.7,129,1.79,1.36,-1.51,28.27,8.120285916149074,0.071,13.39,Healthy
+1396,Energy,Private,Speculative,,7.4,1157,6.04,1.81,-0.66,5.87,14.279783686732806,0.197,10.41,Distressed
+1397,Energy,Public,Investment Grade,No,2.2,72,0.49,1.71,-1.64,1.71,-2.751205993975338,0.107,13.4,Distressed
+1398,Energy,Private,High Risk,,7.3,92,0.95,0.69,7.83,4.37,2.3083067782849005,-0.008,13.3,Healthy
+1399,Retail,Private,High Risk,,32.9,349,2.05,2.13,7.27,13.65,1.2323292421539644,0.188,14.27,Watch
+1400,Construction,Public,High Risk,No,8.0,235,1.28,1.37,8.28,14.73,13.608926479751572,0.013,13.54,Healthy
